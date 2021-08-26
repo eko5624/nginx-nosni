@@ -23,6 +23,8 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: latest
         assets: nginx*pkg*
+        fail-if-no-assets: false
+        fail-if-no-release: false
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
