@@ -13,3 +13,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: latest
         assets: RJ*
+        fail-if-no-assets: false
+        fail-if-no-release: false
