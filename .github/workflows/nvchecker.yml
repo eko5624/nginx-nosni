@@ -12,26 +12,24 @@ jobs:
   version_check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.BOT }}
-    - name: Check Latest Version
-      run: |
-        sudo apt install python3-pycurl python3-tornado
-        pip3 install nvchecker in_place
-        nvchecker -c xxoo.toml
-        nvcmp -c xxoo.toml > cmp
-        if [ -s cmp ]
-        then
-          git config --global user.name 'datong5624'
-          git config --global user.email 'datong5624@gmail.com'
-          mv new.json old.json
-          git add old.json
-          if grep -q nginx cmp
+      - name: Check Latest Version
+        uses: actions/checkout@v2
+        run: |
+          sudo apt install python3-pycurl python3-tornado
+          pip3 install nvchecker in_place
+          nvchecker -c xxoo.toml
+          nvcmp -c xxoo.toml > cmp
+          if [ -s cmp ]
           then
-            python init.py
-            git add PKGBUILD
+            git config --global user.name 'datong5624'
+            git config --global user.email 'datong5624@gmail.com'
+            mv new.json old.json
+            git add old.json
+            if grep -q nginx cmp
+            then
+              python init.py
+              git add PKGBUILD
+            fi
+            git commit -m "Automate"
+            git push
           fi
-          git commit -m "Automate"
-          git push
-        fi
