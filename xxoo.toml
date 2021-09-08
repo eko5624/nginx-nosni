@@ -133,6 +133,11 @@ source = 'regex'
 url = 'https://github.com/mpv-player/mpv/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
+[dav1d]
+source = 'archpkg'
+archpkg = 'dav1d'
+strip_release = true
+
 [ffnvcodec]
 source = 'regex'
 url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
