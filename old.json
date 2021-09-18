@@ -11,7 +11,7 @@
   "ffnvcodec": "11.1.5.0",
   "freetype2": "2.11.0",
   "fribidi": "1.0.10",
-  "harfbuzz": "2.9.1",
+  "harfbuzz": "3.0.0",
   "lame": "3.100",
   "lcms2": "2.12",
   "libass": "0.15.2",
