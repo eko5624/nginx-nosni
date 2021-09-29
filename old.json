@@ -1,10 +1,10 @@
 {
   "GCC": "11.2",
   "LuaJIT": "2.1.0_beta3",
-  "Mingw-w64": "20210907_11.2.1_x64-ucrt_fd5532d74fcf9efeb5262902ebab9fb7dfb83607",
+  "Mingw-w64": "20210929_11.2.1_x64-ucrt_516142fff50f4bdfb48d1ddb37f6dd3de781ff72",
   "Python": "3.9.7",
   "Rust": "1.55.0",
-  "VapourSynth": "R55",
+  "VapourSynth": "R56",
   "aria2": "20210821.082600",
   "dav1d": "0.9.2",
   "ffmpeg": "4.4",
