@@ -27,11 +27,6 @@ jobs:
           git config --global user.email 'datong5624@gmail.com'
           mv new.json old.json
           git add old.json
-          if grep -q nginx cmp
-          then
-            python init.py
-            git add PKGBUILD
-          fi
           git commit -m "Automate"
           git push
         fi
