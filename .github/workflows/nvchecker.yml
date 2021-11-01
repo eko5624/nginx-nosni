@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        github_token: ${{ secrets.WORKFLOW_TOKEN }}
+        token: ${{ secrets.AUTO }}
     - name: Check Latest Version
       run: |
         sudo apt install python3-pycurl python3-tornado
