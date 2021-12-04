@@ -155,6 +155,11 @@ source = 'regex'
 url = 'https://github.com/google/shaderc/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
+[libepoxy]
+source = 'regex'
+url = 'https://github.com/anholt/libepoxy/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
 [libplacebo]
 source = 'regex'
 url = 'https://github.com/haasn/libplacebo/tags'
