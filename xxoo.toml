@@ -84,9 +84,14 @@ archpkg = 'libogg'
 strip_release = true
 
 [libsdl2]
-source = 'archpkg'
-archpkg = 'libsdl2'
-strip_release = true
+source = 'regex'
+url = https://github.com/libsdl-org/SDL/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[openal-soft]
+source = 'regex'
+url = https://github.com/kcat/openal-soft/tags'
+regex = 'releases/tag/([\d\.]+)">'
 
 [libvorbis]
 source = 'archpkg'
