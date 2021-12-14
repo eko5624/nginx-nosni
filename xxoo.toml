@@ -86,7 +86,7 @@ strip_release = true
 [libsdl2]
 source = 'regex'
 url = 'https://github.com/libsdl-org/SDL/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/release-([\d\.]+)">'
 
 [openal-soft]
 source = 'regex'
