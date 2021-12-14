@@ -138,6 +138,11 @@ source = 'archpkg'
 archpkg = 'libdvdcss'
 strip_release = true
 
+[libsdl2]
+source = 'archpkg'
+archpkg = 'libdvdcss'
+strip_release = true
+
 [vulkan]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
