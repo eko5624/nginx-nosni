@@ -85,12 +85,12 @@ strip_release = true
 
 [libsdl2]
 source = 'regex'
-url = https://github.com/libsdl-org/SDL/tags'
+url = 'https://github.com/libsdl-org/SDL/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
 [openal-soft]
 source = 'regex'
-url = https://github.com/kcat/openal-soft/tags'
+url = 'https://github.com/kcat/openal-soft/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
 [libvorbis]
