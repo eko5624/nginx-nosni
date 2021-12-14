@@ -24,6 +24,7 @@
   "libogg": "1.3.5",
   "libplacebo": "4.157.0",
   "libpng": "1.6.37",
+  "libsdl2": "2.0.18",
   "libtiff": "4.3.0",
   "libvorbis": "1.3.7",
   "libwebp": "1.2.1",
