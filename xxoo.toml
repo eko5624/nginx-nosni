@@ -83,6 +83,11 @@ source = 'archpkg'
 archpkg = 'libogg'
 strip_release = true
 
+[libsdl2]
+source = 'archpkg'
+archpkg = 'libsdl2'
+strip_release = true
+
 [libvorbis]
 source = 'archpkg'
 archpkg = 'libvorbis'
@@ -134,11 +139,6 @@ archpkg = 'libdvdread'
 strip_release = true
 
 [libdvdcss]
-source = 'archpkg'
-archpkg = 'libdvdcss'
-strip_release = true
-
-[libsdl2]
 source = 'archpkg'
 archpkg = 'libdvdcss'
 strip_release = true
