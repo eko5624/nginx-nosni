@@ -10,14 +10,15 @@ on:
 
 jobs:
   version_check:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         token: ${{ secrets.AUTO }}
     - name: Check Latest Version
       run: |
-        pip install pycurl tornado nvchecker in_place
+        sudo apt install python3-pycurl python3-tornado
+        pip3 install nvchecker==2.5 in_place
         nvchecker -c xxoo.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
