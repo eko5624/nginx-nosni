@@ -4,7 +4,7 @@
   "Mingw-w64": "20220125_11.2.1_x64-ucrt_94be48a5b7ed975cdab9eafb1373b61550d15d82",
   "Mingw-w64-real": "20220223_11.2.1_x64-ucrt_da859b1fd0cf16700642f0e21d7130bbb176af38",
   "Python": "3.9.10",
-  "Rust": "1.58.1",
+  "Rust": "1.59.0",
   "VapourSynth": "R57",
   "aria2": "20211030.100429",
   "dav1d": "0.9.2",
