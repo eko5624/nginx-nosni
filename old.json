@@ -3,7 +3,7 @@
   "LuaJIT": "2.1.0_beta3",
   "Mingw-w64": "20220308_11.2.1_x64-ucrt_a1ad2b93ca57565028f87affded138e6f0bfe8bd",
   "Mingw-w64-real": "20220308_11.2.1_x64-ucrt_a1ad2b93ca57565028f87affded138e6f0bfe8bd",
-  "Python": "3.9.10",
+  "Python": "3.9.11",
   "Rust": "1.59.0",
   "VapourSynth": "R57",
   "aria2": "20211030.100429",
