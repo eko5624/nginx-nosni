@@ -28,8 +28,8 @@ to_pattern = '_'
 
 [luajit2]
 source = 'regex'
-url = 'https://github.com/openresty/luajit2'
-regex = 'v([\d\.]-[\d]+)'
+url = 'https://github.com/openresty/luajit2/tags'
+regex = 'v([\d\.]+-[\d]+)'
 from_pattern = '-'
 to_pattern = '_'
 
