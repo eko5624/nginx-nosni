@@ -29,7 +29,7 @@ to_pattern = '_'
 [luajit2]
 source = 'regex'
 url = 'https://github.com/openresty/luajit2/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+-+[\d])">'
 
 [GCC]
 source = 'regex'
