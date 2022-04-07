@@ -26,6 +26,11 @@ regex = 'LuaJIT-([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
+[luajit2]
+source = 'regex'
+url = 'https://github.com/openresty/luajit2/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
 [GCC]
 source = 'regex'
 url = 'https://gcc.gnu.org'
