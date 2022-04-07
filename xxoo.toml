@@ -27,9 +27,8 @@ from_pattern = '-'
 to_pattern = '_'
 
 [luajit2]
-source = 'regex'
-url = 'https://github.com/openresty/luajit2/tags'
-regex = 'v([\d\.]+_[\d]+)'
+source = 'manual'
+manual = '2.1'
 
 [GCC]
 source = 'regex'
