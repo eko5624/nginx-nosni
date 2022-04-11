@@ -1,7 +1,7 @@
 {
   "GCC": "11.2",
   "LuaJIT": "2.1.0_beta3",
-  "Mingw-w64": "20220323_11.2.1_x64-ucrt_abffba087d0e83361e313ce8032e162348f46c5a",
+  "Mingw-w64": "20220410_11.2.1_x64-ucrt_56bec19863100ebc6200bae496e48317f8ae09bb",
   "Mingw-w64-real": "20220410_11.2.1_x64-ucrt_56bec19863100ebc6200bae496e48317f8ae09bb",
   "Python": "3.9.12",
   "Rust": "1.60.0",
@@ -29,7 +29,7 @@
   "libtiff": "4.3.0",
   "libvorbis": "1.3.7",
   "libwebp": "1.2.2",
-  "luajit2": "2.1_20220310",
+  "luajit2": "2.1_20220411",
   "mozjpeg": "4.0.3",
   "mpv": "0.34.1",
   "nginx": "1.21.6",
