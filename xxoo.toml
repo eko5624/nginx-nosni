@@ -40,7 +40,7 @@ regex = '>GCC ([\d\.]+)<'
 
 [Mingw-w64]
 source = 'manual'
-manual = '20220323_11.2.1_x64-ucrt_abffba087d0e83361e313ce8032e162348f46c5a'
+manual = '20220410_11.2.1_x64-ucrt_56bec19863100ebc6200bae496e48317f8ae09bb'
 
 [Mingw-w64-real]
 source = 'regex'
