@@ -13,6 +13,7 @@
   "freetype2": "2.12.0",
   "fribidi": "1.0.12",
   "harfbuzz": "4.2.1",
+  "highway": "0.16.0",
   "lame": "3.100",
   "lcms2": "2.13.1",
   "libass": "0.15.2",
