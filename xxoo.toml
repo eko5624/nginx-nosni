@@ -77,7 +77,7 @@ regex = 'releases/tag/v([\d\.]+)">'
 [brotli]
 source = 'regex'
 url = 'https://github.com/google/brotli/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)">'
 
 [dav1d]
 source = 'regex'
