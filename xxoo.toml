@@ -74,6 +74,11 @@ source = 'regex'
 url = 'https://github.com/mpv-player/mpv/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
+[brotli]
+source = 'regex'
+url = 'https://github.com/google/brotli/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
 [dav1d]
 source = 'regex'
 url = 'https://github.com/videolan/dav1d/tags'
@@ -83,6 +88,11 @@ regex = 'releases/tag/([\d\.]+)">'
 source = 'regex'
 url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
 regex = 'releases/tag/n([\d\.]+)">'
+
+[highway]
+source = 'regex'
+url = 'https://github.com/google/highway/tags'
+regex = 'releases/tag/([\d\.]+)">'
 
 [lame]
 source = 'archpkg'
