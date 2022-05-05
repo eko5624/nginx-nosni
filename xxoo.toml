@@ -205,7 +205,7 @@ regex = 'releases/tag/v([\d\.]+)">'
 [libjpeg]
 source = 'regex'
 url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)">'
 
 [libjxl]
 source = 'regex'
