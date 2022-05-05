@@ -54,9 +54,9 @@ url = 'https://nginx.org/en/download.html'
 regex = 'nginx-([\d\.]+)'
 
 [zlib]
-source = 'archpkg'
-archpkg = 'zlib'
-strip_release = true
+source = 'regex'
+url = 'https://github.com/madler/zlib/tags'
+regex = 'releases/tag/v([\d\.]+)">'
 
 [openssl]
 source = 'regex'
@@ -198,29 +198,19 @@ regex = 'releases/tag/v([\d\.]+)">'
 
 # image
 [libpng]
-source = 'archpkg'
-archpkg = 'libpng'
-strip_release = true
-
-[libtiff]
-source = 'archpkg'
-archpkg = 'libtiff'
-strip_release = true
-
-[libwebp]
-source = 'archpkg'
-archpkg = 'libwebp'
-strip_release = true
-
-[mozjpeg]
 source = 'regex'
-url = 'https://github.com/mozilla/mozjpeg/tags'
+url = 'https://github.com/glennrp/libpng/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libjpeg]
+source = 'regex'
+url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
 [libjxl]
 source = 'regex'
 url = 'https://github.com/libjxl/libjxl/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)">'
 
 # leech
 [aria2]
