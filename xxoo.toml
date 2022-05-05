@@ -210,7 +210,7 @@ regex = 'releases/tag/([\d\.]+)">'
 [libjxl]
 source = 'regex'
 url = 'https://github.com/libjxl/libjxl/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)">'
 
 # leech
 [aria2]
