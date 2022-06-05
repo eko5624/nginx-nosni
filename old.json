@@ -11,7 +11,7 @@
   "dav1d": "1.0.0",
   "ffmpeg": "5.0.1",
   "ffnvcodec": "11.1.5.1",
-  "freetype2": "2.12.1",
+  "freetype2": "2_12_1",
   "fribidi": "1.0.12",
   "harfbuzz": "4.3.0",
   "highway": "0.17.0",
