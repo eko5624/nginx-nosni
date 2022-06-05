@@ -136,8 +136,10 @@ regex = 'releases/tag/([\d\.]+)">'
 
 [freetype2]
 source = 'regex'
-url = 'https://download.savannah.gnu.org/releases/freetype'
-regex = 'freetype-([\d\.]+)\.tar'
+url = 'https://github.com/freetype/freetype/tags'
+regex = 'VER-([\d-]+)'
+from_pattern = '-'
+to_pattern = '_'
 
 [fribidi]
 source = 'regex'
