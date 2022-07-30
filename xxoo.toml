@@ -146,7 +146,7 @@ regex = 'v([\d\.]+)">'
 [libxvid]
 source = 'regex'
 url = 'https://downloads.xvid.com/downloads/'
-regex = 'xvidcore-([\d\.]+)\.tar.bz2'
+regex = 'xvidcore-([\d\.]+)\.tar\.bz2'
 
 [openal-soft]
 source = 'regex'
