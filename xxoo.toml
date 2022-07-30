@@ -106,7 +106,7 @@ regex = 'releases/tag/([\d\.]+)">'
 [libmodplug]
 source = 'regex'
 url = 'https://github.com/Konstanty/libmodplug'
-regex = 'libmodplug v([\d\.]+!$)'
+regex = 'libmodplug v([\d\.!$]+)'
 
 [libmysofa]
 source = 'regex'
