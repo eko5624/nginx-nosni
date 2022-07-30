@@ -253,6 +253,11 @@ source = 'regex'
 url = 'https://github.com/google/shaderc/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
+[vulkan]
+source = 'regex'
+url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
 [libcaca]
 source = 'regex'
 url = 'https://github.com/cacalabs/libcaca/tags'
