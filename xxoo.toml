@@ -99,6 +99,31 @@ source = 'archpkg'
 archpkg = 'lame'
 strip_release = true
 
+[libbs2b]
+source = 'regex'
+url = 'http://bs2b.sourceforge.net/download.html'
+regex = 'bs2b - ([\d\.]+)'
+
+[libmfx]
+source = 'regex'
+url = 'https://github.com/lu-zero/mfx_dispatch/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[libmodplug]
+source = 'regex'
+url = 'https://github.com/Konstanty/libmodplug'
+regex = 'libmodplug v([\d\.]+)'
+
+[libmysofa]
+source = 'regex'
+url = 'https://github.com/hoene/libmysofa/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libopenmpt]
+source = 'regex'
+url = 'https://lib.openmpt.org/libopenmpt/'
+regex = 'libopenmpt release ([\d\.]+)'
+
 [libogg]
 source = 'archpkg'
 archpkg = 'libogg'
@@ -108,6 +133,21 @@ strip_release = true
 source = 'regex'
 url = 'https://github.com/libsdl-org/SDL/tags'
 regex = 'releases/tag/release-([\d\.]+)">'
+
+[libspeex]
+source = 'regex'
+url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
+regex = 'Speex-([\d\.]+)">'
+
+[libvpx]
+source = 'regex'
+url = 'https://chromium.googlesource.com/webm/libvpx/+/refs/tags'
+regex = 'v([\d\.]+)">'
+
+[libxml2]
+source = 'regex'
+url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
+regex = 'v([\d\.]+)">'
 
 [openal-soft]
 source = 'regex'
@@ -156,6 +196,11 @@ source = 'archpkg'
 archpkg = 'libbluray'
 strip_release = true
 
+[libudfread]
+source = 'archpkg'
+archpkg = 'libudfread'
+strip_release = true
+
 [libdvdnav]
 source = 'archpkg'
 archpkg = 'libdvdnav'
@@ -171,9 +216,29 @@ source = 'archpkg'
 archpkg = 'libdvdcss'
 strip_release = true
 
-[vulkan]
+[libxvid]
 source = 'regex'
-url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
+url = 'https://downloads.xvid.com/downloads/'
+regex = 'xvidcore-([\d\.]+)">'
+
+[libzimg]
+source = 'regex'
+url = 'https://github.com/sekrit-twc/zimg/tags'
+regex = 'release-([\d\.]+)">'
+
+[mbedtls]
+source = 'regex'
+url = 'https://github.com/Mbed-TLS/mbedtls/tags'
+regex = 'v([\d\.]+)">'
+
+[mujs]
+source = 'regex'
+url = 'https://github.com/ccxvii/mujs/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[rubberband]
+source = 'regex'
+url = 'https://github.com/breakfastquay/rubberband/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
 [spirv-cross]
@@ -187,6 +252,11 @@ to_pattern = '.'
 source = 'regex'
 url = 'https://github.com/google/shaderc/tags'
 regex = 'releases/tag/v([\d\.]+)">'
+
+[libcaca]
+source = 'regex'
+url = 'https://github.com/cacalabs/libcaca/tags'
+regex = 'releases/tag/v([\d\.]+w+)">'
 
 [libepoxy]
 source = 'regex'
