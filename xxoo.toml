@@ -3,12 +3,6 @@ oldver = 'old.json'
 newver = 'new.json'
 max_concurrency = 4
 
-# toy
-[Rust]
-source = 'regex'
-url = 'https://github.com/rust-lang/rust/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
 [Python]
 source = 'regex'
 url = 'https://www.python.org/downloads'
@@ -219,7 +213,7 @@ strip_release = true
 [libxvid]
 source = 'regex'
 url = 'https://downloads.xvid.com/downloads/'
-regex = 'xvidcore-([\d\.]+)">'
+regex = 'xvidcore-([\d\.]+)\.tar.bz2
 
 [libzimg]
 source = 'regex'
@@ -261,7 +255,7 @@ regex = 'releases/tag/v([\d\.]+)">'
 [libcaca]
 source = 'regex'
 url = 'https://github.com/cacalabs/libcaca/tags'
-regex = 'releases/tag/v([\d\.]+w+)">'
+regex = 'v([\d\.]+\w+)">'
 
 [libepoxy]
 source = 'regex'
@@ -293,8 +287,3 @@ regex = 'releases/tag/v([\d\.]+)">'
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
 regex = 'v([\d\.]+)'
-
-# leech
-[aria2]
-source = 'github'
-github = 'aria2/aria2'
