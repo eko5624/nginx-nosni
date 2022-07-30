@@ -143,6 +143,11 @@ source = 'regex'
 url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
 regex = 'v([\d\.]+)">'
 
+[libxvid]
+source = 'regex'
+url = 'https://downloads.xvid.com/downloads/'
+regex = 'xvidcore-([\d\.]+)\.tar.bz2'
+
 [openal-soft]
 source = 'regex'
 url = 'https://github.com/kcat/openal-soft/tags'
