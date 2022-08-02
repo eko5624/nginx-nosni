@@ -257,11 +257,6 @@ source = 'regex'
 url = 'https://github.com/cacalabs/libcaca/tags'
 regex = 'v([\d\.]+\w+)">'
 
-[libepoxy]
-source = 'regex'
-url = 'https://github.com/anholt/libepoxy/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
 [libplacebo]
 source = 'regex'
 url = 'https://github.com/haasn/libplacebo/tags'
