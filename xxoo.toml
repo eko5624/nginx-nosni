@@ -211,9 +211,9 @@ archpkg = 'libbluray'
 strip_release = true
 
 [libudfread]
-source = 'archpkg'
-archpkg = 'libudfread'
-strip_release = true
+source = 'regex'
+url = 'https://code.videolan.org/videolan/libudfread/-/tags'
+regex = '([\d\.]+)">'
 
 [libdvdnav]
 source = 'archpkg'
