@@ -155,7 +155,7 @@ regex = 'Speex-([\d\.]+)">'
 
 [libvpx]
 source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libvpx/+/refs/tags'
+url = 'https://chromium.googlesource.com/webm/libvpx'
 regex = 'v([\d\.]+)">'
 
 [libxml2]
