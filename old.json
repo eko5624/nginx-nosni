@@ -5,6 +5,7 @@
   "Mingw-w64-real": "20220725_12.1.1_x64-ucrt_0a06e4f03d8b3c12b938a2bff1cdca14ece5b05a",
   "Python": "3.10.6",
   "VapourSynth": "R59",
+  "avisynth": "3.7.2",
   "brotli": "1.0.9",
   "dav1d": "1.0.0",
   "ffmpeg": "5.1",
