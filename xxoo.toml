@@ -213,7 +213,7 @@ strip_release = true
 [libudfread]
 source = 'regex'
 url = 'https://code.videolan.org/videolan/libudfread/-/tags'
-regex = '([\d\.]+)'
+regex = ' Bump version \(([\d\.]+)\)'
 
 [libdvdnav]
 source = 'archpkg'
