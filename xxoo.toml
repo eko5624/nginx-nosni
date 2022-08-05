@@ -135,8 +135,8 @@ regex = 'v([\d\.]+)">'
 
 [libsoxr]
 source = 'regex'
-url = 'https://sourceforge.net/p/soxr/code/'
-regex = '([\d\.]+)">'
+url = 'https://sourceforge.net/projects/soxr/files/'
+regex = 'soxr-([\d\.]+)">'
 
 [libsrt]
 source = 'regex'
