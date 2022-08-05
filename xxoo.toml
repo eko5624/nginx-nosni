@@ -128,6 +128,21 @@ source = 'regex'
 url = 'https://github.com/libsdl-org/SDL/tags'
 regex = 'releases/tag/release-([\d\.]+)">'
 
+[libsixel]
+source = 'regex'
+url = 'https://github.com/saitoha/libsixel/tags'
+regex = v([\d\.]+)">'
+
+[libsrt]
+source = 'regex'
+url = 'https://github.com/Haivision/srt/tags'
+regex = v([\d\.]+)">'
+
+[libssh]
+source = 'regex'
+url = 'https://git.libssh.org/projects/libssh.git/'
+regex = 'libssh-([\d\.]+)">'
+
 [libspeex]
 source = 'regex'
 url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
