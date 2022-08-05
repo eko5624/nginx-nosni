@@ -133,6 +133,11 @@ source = 'regex'
 url = 'https://github.com/saitoha/libsixel/tags'
 regex = 'v([\d\.]+)">'
 
+[libsoxr]
+source = 'regex'
+url = 'https://sourceforge.net/p/soxr/code/'
+regex = '([\d\.]+)">'
+
 [libsrt]
 source = 'regex'
 url = 'https://github.com/Haivision/srt/tags'
