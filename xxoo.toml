@@ -3,15 +3,10 @@ oldver = 'old.json'
 newver = 'new.json'
 max_concurrency = 4
 
-[Python]
+[GCC]
 source = 'regex'
-url = 'https://www.python.org/downloads'
-regex = 'Python (3.10[\d\.]*)'
-
-[VapourSynth]
-source = 'github'
-github = 'vapoursynth/vapoursynth'
-use_latest_release = true
+url = 'https://gcc.gnu.org'
+regex = '>GCC ([\d\.]+)<'
 
 [LuaJIT]
 source = 'regex'
@@ -27,11 +22,6 @@ regex = 'v([\d\.]+-[\d]+)'
 from_pattern = '-'
 to_pattern = '_'
 
-[GCC]
-source = 'regex'
-url = 'https://gcc.gnu.org'
-regex = '>GCC ([\d\.]+)<'
-
 [Mingw-w64]
 source = 'manual'
 manual = '20220725_12.1.1_x64-ucrt_0a06e4f03d8b3c12b938a2bff1cdca14ece5b05a'
@@ -41,16 +31,20 @@ source = 'regex'
 url = 'https://gcc-mcf.lhmouse.com/'
 regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
 
-# nginx
+[Python]
+source = 'regex'
+url = 'https://www.python.org/downloads'
+regex = 'Python (3.10[\d\.]*)'
+
+[VapourSynth]
+source = 'github'
+github = 'vapoursynth/vapoursynth'
+use_latest_release = true
+
 [nginx]
 source = 'regex'
 url = 'https://nginx.org/en/download.html'
 regex = 'nginx-([\d\.]+)'
-
-[zlib]
-source = 'regex'
-url = 'https://github.com/madler/zlib/tags'
-regex = 'releases/tag/v([\d\.]+)">'
 
 [openssl]
 source = 'regex'
@@ -58,16 +52,6 @@ url = 'https://github.com/openssl/openssl/tags'
 regex = 'releases/tag/OpenSSL_([\d_]+[a-z])">'
 
 # mpv
-[ffmpeg]
-source = 'regex'
-url = 'https://ffmpeg.org/download.html'
-regex = 'FFmpeg ([\d\.]+)'
-
-[mpv]
-source = 'regex'
-url = 'https://github.com/mpv-player/mpv/tags'
-regex = 'releases/tag/v([\d\.]+)">'
-
 [brotli]
 source = 'regex'
 url = 'https://github.com/google/brotli/tags'
@@ -78,115 +62,15 @@ source = 'regex'
 url = 'https://github.com/videolan/dav1d/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
+[ffmpeg]
+source = 'regex'
+url = 'https://ffmpeg.org/download.html'
+regex = 'FFmpeg ([\d\.]+)'
+
 [ffnvcodec]
 source = 'regex'
 url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
 regex = 'releases/tag/n([\d\.]+)">'
-
-[highway]
-source = 'regex'
-url = 'https://github.com/google/highway/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
-[lame]
-source = 'archpkg'
-archpkg = 'lame'
-strip_release = true
-
-[libbs2b]
-source = 'regex'
-url = 'http://bs2b.sourceforge.net/download.html'
-regex = 'bs2b - ([\d\.]+)'
-
-[libmfx]
-source = 'regex'
-url = 'https://github.com/lu-zero/mfx_dispatch/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
-[libmodplug]
-source = 'regex'
-url = 'https://sourceforge.net/projects/modplug-xmms/files/libmodplug/'
-regex = 'libmodplug-([\d\.]+)\.tar.gz'
-
-[libmysofa]
-source = 'regex'
-url = 'https://github.com/hoene/libmysofa/tags'
-regex = 'releases/tag/v([\d\.]+)">'
-
-[libopenmpt]
-source = 'regex'
-url = 'https://lib.openmpt.org/libopenmpt/'
-regex = 'libopenmpt release ([\d\.]+)'
-
-[libogg]
-source = 'archpkg'
-archpkg = 'libogg'
-strip_release = true
-
-[libsdl2]
-source = 'regex'
-url = 'https://github.com/libsdl-org/SDL/tags'
-regex = 'releases/tag/release-([\d\.]+)">'
-
-[libsixel]
-source = 'regex'
-url = 'https://github.com/saitoha/libsixel/tags'
-regex = 'v([\d\.]+)">'
-
-[libsoxr]
-source = 'regex'
-url = 'https://sourceforge.net/projects/soxr/files/'
-regex = 'soxr-([\d\.]+)-Source\.tar.xz'
-
-[libsrt]
-source = 'regex'
-url = 'https://github.com/Haivision/srt/tags'
-regex = 'v([\d\.]+)">'
-
-[libssh]
-source = 'regex'
-url = 'https://git.libssh.org/projects/libssh.git/'
-regex = 'libssh-([\d\.]+)\.tar.xz'
-
-[libspeex]
-source = 'regex'
-url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
-regex = 'Speex-([\d\.]+)">'
-
-[libvpx]
-source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libvpx'
-regex = 'v([\d\.]+)">'
-
-[libxml2]
-source = 'regex'
-url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
-regex = 'v([\d\.]+)">'
-
-[openal-soft]
-source = 'regex'
-url = 'https://github.com/kcat/openal-soft/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
-[libvorbis]
-source = 'archpkg'
-archpkg = 'libvorbis'
-strip_release = true
-
-[opus]
-source = 'archpkg'
-archpkg = 'opus'
-strip_release = true
-
-[lcms2]
-source = 'archpkg'
-archpkg = 'lcms2'
-strip_release = true
-
-[libass]
-source = 'regex'
-url = 'https://github.com/libass/libass/tags'
-regex = 'releases/tag/([\d\.]+)">'
 
 [freetype2]
 source = 'regex'
@@ -205,15 +89,45 @@ source = 'regex'
 url = 'https://github.com/harfbuzz/harfbuzz/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
+[highway]
+source = 'regex'
+url = 'https://github.com/google/highway/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[lame]
+source = 'archpkg'
+archpkg = 'lame'
+strip_release = true
+
+[lcms2]
+source = 'archpkg'
+archpkg = 'lcms2'
+strip_release = true
+
+[libass]
+source = 'regex'
+url = 'https://github.com/libass/libass/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
 [libbluray]
 source = 'archpkg'
 archpkg = 'libbluray'
 strip_release = true
 
-[libudfread]
+[libbs2b]
 source = 'regex'
-url = 'https://code.videolan.org/videolan/libudfread/-/tags'
-regex = 'Bump version (([\d\.]+))'
+url = 'http://bs2b.sourceforge.net/download.html'
+regex = 'bs2b - ([\d\.]+)'
+
+[libcaca]
+source = 'regex'
+url = 'https://github.com/cacalabs/libcaca/tags'
+regex = 'v([\d\.]+\w+)">'
+
+[libdvdcss]
+source = 'archpkg'
+archpkg = 'libdvdcss'
+strip_release = true
 
 [libdvdnav]
 source = 'archpkg'
@@ -225,10 +139,104 @@ source = 'archpkg'
 archpkg = 'libdvdread'
 strip_release = true
 
-[libdvdcss]
+[libjpeg]
+source = 'regex'
+url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[libjxl]
+source = 'regex'
+url = 'https://github.com/libjxl/libjxl/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libmfx]
+source = 'regex'
+url = 'https://github.com/lu-zero/mfx_dispatch/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[libmodplug]
+source = 'regex'
+url = 'https://sourceforge.net/projects/modplug-xmms/files/libmodplug/'
+regex = 'libmodplug-([\d\.]+)\.tar.gz'
+
+[libmysofa]
+source = 'regex'
+url = 'https://github.com/hoene/libmysofa/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libogg]
 source = 'archpkg'
-archpkg = 'libdvdcss'
+archpkg = 'libogg'
 strip_release = true
+
+[libopenmpt]
+source = 'regex'
+url = 'https://lib.openmpt.org/libopenmpt/'
+regex = 'libopenmpt release ([\d\.]+)'
+
+[libplacebo]
+source = 'regex'
+url = 'https://github.com/haasn/libplacebo/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libpng]
+source = 'regex'
+url = 'https://github.com/glennrp/libpng/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[libsdl2]
+source = 'regex'
+url = 'https://github.com/libsdl-org/SDL/tags'
+regex = 'releases/tag/release-([\d\.]+)">'
+
+[libsixel]
+source = 'regex'
+url = 'https://github.com/saitoha/libsixel/tags'
+regex = 'v([\d\.]+)">'
+
+[libsoxr]
+source = 'regex'
+url = 'https://sourceforge.net/projects/soxr/files/'
+regex = 'soxr-([\d\.]+)-Source\.tar.xz'
+
+[libspeex]
+source = 'regex'
+url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
+regex = 'Speex-([\d\.]+)">'
+
+[libsrt]
+source = 'regex'
+url = 'https://github.com/Haivision/srt/tags'
+regex = 'v([\d\.]+)">'
+
+[libssh]
+source = 'regex'
+url = 'https://git.libssh.org/projects/libssh.git/'
+regex = 'libssh-([\d\.]+)\.tar.xz'
+
+[libudfread]
+source = 'manual'
+manual = '1.1.2'
+
+[libvorbis]
+source = 'archpkg'
+archpkg = 'libvorbis'
+strip_release = true
+
+[libvpx]
+source = 'regex'
+url = 'https://chromium.googlesource.com/webm/libvpx'
+regex = 'v([\d\.]+)">'
+
+[libwebp]
+source = 'regex'
+url = 'https://chromium.googlesource.com/webm/libwebp'
+regex = 'v([\d\.]+)'
+
+[libxml2]
+source = 'regex'
+url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
+regex = 'v([\d\.]+)">'
 
 [libxvid]
 source = 'regex'
@@ -245,14 +253,34 @@ source = 'regex'
 url = 'https://github.com/Mbed-TLS/mbedtls/tags'
 regex = 'v([\d\.]+)">'
 
+[mpv]
+source = 'regex'
+url = 'https://github.com/mpv-player/mpv/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
 [mujs]
 source = 'regex'
 url = 'https://github.com/ccxvii/mujs/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
+[openal-soft]
+source = 'regex'
+url = 'https://github.com/kcat/openal-soft/tags'
+regex = 'releases/tag/([\d\.]+)">'
+
+[opus]
+source = 'archpkg'
+archpkg = 'opus'
+strip_release = true
+
 [rubberband]
 source = 'regex'
 url = 'https://github.com/breakfastquay/rubberband/tags'
+regex = 'releases/tag/v([\d\.]+)">'
+
+[shaderc]
+source = 'regex'
+url = 'https://github.com/google/shaderc/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
 [spirv-cross]
@@ -262,43 +290,12 @@ regex = 'releases/tag/([\d-]+)">'
 from_pattern = '-'
 to_pattern = '.'
 
-[shaderc]
-source = 'regex'
-url = 'https://github.com/google/shaderc/tags'
-regex = 'releases/tag/v([\d\.]+)">'
-
 [vulkan]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
 regex = 'releases/tag/v([\d\.]+)">'
 
-[libcaca]
+[zlib]
 source = 'regex'
-url = 'https://github.com/cacalabs/libcaca/tags'
-regex = 'v([\d\.]+\w+)">'
-
-[libplacebo]
-source = 'regex'
-url = 'https://github.com/haasn/libplacebo/tags'
+url = 'https://github.com/madler/zlib/tags'
 regex = 'releases/tag/v([\d\.]+)">'
-
-# image
-[libpng]
-source = 'regex'
-url = 'https://github.com/glennrp/libpng/tags'
-regex = 'releases/tag/v([\d\.]+)">'
-
-[libjpeg]
-source = 'regex'
-url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
-regex = 'releases/tag/([\d\.]+)">'
-
-[libjxl]
-source = 'regex'
-url = 'https://github.com/libjxl/libjxl/tags'
-regex = 'releases/tag/v([\d\.]+)">'
-
-[libwebp]
-source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libwebp'
-regex = 'v([\d\.]+)'
