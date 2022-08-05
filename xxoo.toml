@@ -146,7 +146,7 @@ regex = 'v([\d\.]+)">'
 [libssh]
 source = 'regex'
 url = 'https://git.libssh.org/projects/libssh.git/'
-regex = 'libssh-([\d\.]+)">'
+regex = 'libssh-([\d\.]+)\.tar.xz'
 
 [libspeex]
 source = 'regex'
