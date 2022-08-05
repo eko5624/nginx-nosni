@@ -131,12 +131,12 @@ regex = 'releases/tag/release-([\d\.]+)">'
 [libsixel]
 source = 'regex'
 url = 'https://github.com/saitoha/libsixel/tags'
-regex = v([\d\.]+)">'
+regex = 'v([\d\.]+)">'
 
 [libsrt]
 source = 'regex'
 url = 'https://github.com/Haivision/srt/tags'
-regex = v([\d\.]+)">'
+regex = 'v([\d\.]+)">'
 
 [libssh]
 source = 'regex'
