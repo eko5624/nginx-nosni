@@ -52,6 +52,11 @@ url = 'https://github.com/openssl/openssl/tags'
 regex = 'releases/tag/OpenSSL_([\d_]+[a-z])">'
 
 # mpv
+[avisynth]
+source = 'regex'
+url = 'https://github.com/AviSynth/AviSynthPlus'
+regex = 'v([\d\.]+)">'
+
 [brotli]
 source = 'regex'
 url = 'https://github.com/google/brotli/tags'
