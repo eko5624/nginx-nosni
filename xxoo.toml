@@ -52,6 +52,16 @@ url = 'https://github.com/openssl/openssl/tags'
 regex = 'releases/tag/OpenSSL_([\d_]+[a-z])">'
 
 # mpv
+[amf]
+source = 'regex'
+url = 'https://github.com/GPUOpen-LibrariesAndSDKs/AMF/tags'
+regex = 'v([\d\.]+)">'
+
+[angle]
+source = 'regex'
+url = 'https://chromium.googlesource.com/angle/angle/+/refs/heads/main'
+regex = 'ANGLE v([\d\.]+)'
+
 [avisynth]
 source = 'regex'
 url = 'https://github.com/AviSynth/AviSynthPlus'
