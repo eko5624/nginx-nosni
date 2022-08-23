@@ -154,6 +154,11 @@ source = 'archpkg'
 archpkg = 'libdvdread'
 strip_release = true
 
+[libiconv]
+source = 'regex'
+url = 'https://ftp.gnu.org/pub/gnu/libiconv/'
+regex = 'libiconv-([\d\.]+)\.tar.gz'
+
 [libjpeg]
 source = 'regex'
 url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
