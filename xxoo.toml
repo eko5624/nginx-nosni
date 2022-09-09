@@ -211,7 +211,7 @@ regex = 'releases/tag/release-([\d\.]+)">'
 
 [libsixel]
 source = 'regex'
-url = 'https://github.com/saitoha/libsixel/tags'
+url = 'https://github.com/libsixel/libsixel/tags'
 regex = 'v([\d\.]+)">'
 
 [libsoxr]
