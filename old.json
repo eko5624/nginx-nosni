@@ -1,8 +1,8 @@
 {
   "GCC": "12.2",
   "LuaJIT": "2.1.0_beta3",
-  "Mingw-w64": "20220907_12.2.1_x64-ucrt_6c51893686b722e404fbdb27da73608408a5d446",
-  "Mingw-w64-manual": "20220707_12.1.1_x64-ucrt_d847d702d627c147cbe2329d50cf5ed5bccc06ab",
+  "Mingw-w64": "20220823_12.2.1_x64-ucrt_312c5733e6688dee58cdeb0eded8a16cfd956e7f",
+  "Mingw-w64-real": "20220907_12.2.1_x64-ucrt_6c51893686b722e404fbdb27da73608408a5d446",
   "Python": "3.10.7",
   "VapourSynth": "R59",
   "amf": "1.4.26",
