@@ -289,9 +289,9 @@ url = 'https://github.com/kcat/openal-soft/tags'
 regex = 'releases/tag/([\d\.]+)">'
 
 [opus]
-source = 'archpkg'
-archpkg = 'opus'
-strip_release = true
+source = 'regex'
+url = 'https://github.com/xiph/opus/tags'
+regex = 'v([\d\.]+)">'
 
 [rubberband]
 source = 'regex'
