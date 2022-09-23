@@ -190,9 +190,9 @@ archpkg = 'libogg'
 strip_release = true
 
 [libopenmpt]
-source = 'regex'
-url = 'https://lib.openmpt.org/libopenmpt/'
-regex = 'libopenmpt release ([\d\.]+)'
+source = 'archpkg'
+archpkg = 'libopenmpt'
+strip_release = true
 
 [libplacebo]
 source = 'regex'
