@@ -15,10 +15,16 @@ jobs:
     - uses: actions/checkout@main
       with:
         token: ${{ secrets.AUTO }}
+        
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'       
+        
     - name: Check Latest Version
       run: |
-        #sudo apt install python3-pycurl python3-tornado
-        pip3 install pycurl tornado in-place nvchecker
+        sudo apt install python3-pycurl python3-tornado
+        pip install in-place nvchecker
         nvchecker -c xxoo.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
