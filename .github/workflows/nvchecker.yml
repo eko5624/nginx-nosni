@@ -10,7 +10,7 @@ on:
 
 jobs:
   version_check:
-    runs-on: ubuntu-22.04
+    runs-on: windows-2022
     steps:
     - uses: actions/checkout@main
       with:
@@ -18,7 +18,7 @@ jobs:
     - name: Check Latest Version
       run: |
         #sudo apt install python3-pycurl python3-tornado
-        pip3 install in-place appdirs structlog tomli pycurl tornado nvchecker
+        pip3 install pycurl tornado in-place nvchecker
         nvchecker -c xxoo.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
