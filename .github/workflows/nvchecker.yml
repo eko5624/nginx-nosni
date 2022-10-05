@@ -17,8 +17,8 @@ jobs:
         token: ${{ secrets.AUTO }}
     - name: Check Latest Version
       run: |
-        sudo apt install python3-pycurl python3-tornado
-        pip3 install https://github.com/lilydjwg/nvchecker/archive/refs/heads/master.zip in_place
+        # sudo apt install python3-pycurl python3-tornado
+        pip3 install in-place appdirs structlog tomli tornado nvchecker
         nvchecker -c xxoo.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
