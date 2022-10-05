@@ -195,8 +195,9 @@ archpkg = 'libopenmpt'
 strip_release = true
 
 [libplacebo]
-source = "github"
-github = "haasn/libplacebo"
+source = 'regex'
+url = 'https://github.com/haasn/libplacebo/tags'
+regex = 'releases/tag/v([\d\.]+)">'
 
 [libpng]
 source = 'regex'
