@@ -55,7 +55,7 @@ regex = 'releases/tag/OpenSSL_([\d_]+[a-z])"'
 [amf]
 source = 'regex'
 url = 'https://github.com/GPUOpen-LibrariesAndSDKs/AMF/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [angle]
 source = 'regex'
@@ -65,7 +65,7 @@ regex = 'ANGLE v([\d\.]+)'
 [avisynth]
 source = 'regex'
 url = 'https://github.com/AviSynth/AviSynthPlus/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [brotli]
 source = 'regex'
