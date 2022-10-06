@@ -49,13 +49,13 @@ regex = 'nginx-([\d\.]+)'
 [openssl]
 source = 'regex'
 url = 'https://github.com/openssl/openssl/tags'
-regex = 'releases/tag/OpenSSL_([\d_]+[a-z])">'
+regex = 'releases/tag/OpenSSL_([\d_]+[a-z])"'
 
 # mpv
 [amf]
 source = 'regex'
 url = 'https://github.com/GPUOpen-LibrariesAndSDKs/AMF/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [angle]
 source = 'regex'
@@ -64,18 +64,18 @@ regex = 'ANGLE v([\d\.]+)'
 
 [avisynth]
 source = 'regex'
-url = 'https://github.com/AviSynth/AviSynthPlus'
-regex = 'v([\d\.]+)">'
+url = 'https://github.com/AviSynth/AviSynthPlus/tags'
+regex = 'v([\d\.]+)"'
 
 [brotli]
 source = 'regex'
 url = 'https://github.com/google/brotli/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [dav1d]
 source = 'regex'
 url = 'https://github.com/videolan/dav1d/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [ffmpeg]
 source = 'regex'
@@ -85,7 +85,7 @@ regex = 'FFmpeg ([\d\.]+)'
 [ffnvcodec]
 source = 'regex'
 url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
-regex = 'releases/tag/n([\d\.]+)">'
+regex = 'releases/tag/n([\d\.]+)"'
 
 [freetype2]
 source = 'regex'
@@ -97,17 +97,17 @@ to_pattern = '_'
 [fribidi]
 source = 'regex'
 url = 'https://github.com/fribidi/fribidi/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [harfbuzz]
 source = 'regex'
 url = 'https://github.com/harfbuzz/harfbuzz/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [highway]
 source = 'regex'
 url = 'https://github.com/google/highway/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [lame]
 source = 'archpkg'
@@ -122,7 +122,7 @@ strip_release = true
 [libass]
 source = 'regex'
 url = 'https://github.com/libass/libass/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [libbluray]
 source = 'archpkg'
@@ -137,7 +137,7 @@ regex = 'bs2b - ([\d\.]+)'
 [libcaca]
 source = 'regex'
 url = 'https://github.com/cacalabs/libcaca/tags'
-regex = 'v([\d\.]+\w+)">'
+regex = 'v([\d\.]+\w+)"'
 
 [libdvdcss]
 source = 'archpkg'
@@ -162,17 +162,17 @@ regex = 'libiconv-([\d\.]+)\.tar.gz'
 [libjpeg]
 source = 'regex'
 url = 'https://github.com/libjpeg-turbo/libjpeg-turbo/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [libjxl]
 source = 'regex'
 url = 'https://github.com/libjxl/libjxl/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libmfx]
 source = 'regex'
 url = 'https://github.com/lu-zero/mfx_dispatch/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [libmodplug]
 source = 'regex'
@@ -182,7 +182,7 @@ regex = 'libmodplug-([\d\.]+)\.tar.gz'
 [libmysofa]
 source = 'regex'
 url = 'https://github.com/hoene/libmysofa/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libogg]
 source = 'archpkg'
@@ -195,24 +195,24 @@ archpkg = 'libopenmpt'
 strip_release = true
 
 [libplacebo]
-source = "github"
-github = "haasn/libplacebo"
-use_latest_tag = true
+source = 'regex'
+url = 'https://github.com/haasn/libplacebo/tags"
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libpng]
 source = 'regex'
 url = 'https://github.com/glennrp/libpng/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libsdl2]
 source = 'regex'
 url = 'https://github.com/libsdl-org/SDL/tags'
-regex = 'releases/tag/release-([\d\.]+)">'
+regex = 'releases/tag/release-([\d\.]+)"'
 
 [libsixel]
 source = 'regex'
 url = 'https://github.com/libsixel/libsixel/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [libsoxr]
 source = 'regex'
@@ -227,7 +227,7 @@ regex = 'Speex-([\d\.]+)">'
 [libsrt]
 source = 'regex'
 url = 'https://github.com/Haivision/srt/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [libssh]
 source = 'regex'
@@ -256,7 +256,7 @@ regex = 'v([\d\.]+)'
 [libxml2]
 source = 'regex'
 url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [libxvid]
 source = 'regex'
@@ -266,56 +266,56 @@ regex = 'xvidcore-([\d\.]+)\.tar.bz2'
 [libzimg]
 source = 'regex'
 url = 'https://github.com/sekrit-twc/zimg/tags'
-regex = 'release-([\d\.]+)">'
+regex = 'release-([\d\.]+)"'
 
 [mbedtls]
 source = 'regex'
 url = 'https://github.com/Mbed-TLS/mbedtls/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [mpv]
 source = 'regex'
 url = 'https://github.com/mpv-player/mpv/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [mujs]
 source = 'regex'
 url = 'https://github.com/ccxvii/mujs/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [openal-soft]
 source = 'regex'
 url = 'https://github.com/kcat/openal-soft/tags'
-regex = 'releases/tag/([\d\.]+)">'
+regex = 'releases/tag/([\d\.]+)"'
 
 [opus]
 source = 'regex'
 url = 'https://github.com/xiph/opus/tags'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [rubberband]
 source = 'regex'
 url = 'https://github.com/breakfastquay/rubberband/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [shaderc]
 source = 'regex'
 url = 'https://github.com/google/shaderc/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [spirv-cross]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
-regex = 'releases/tag/([\d-]+)">'
+regex = 'releases/tag/([\d-]+)"'
 from_pattern = '-'
 to_pattern = '.'
 
 [vulkan]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
-regex = 'releases/tag/sdk-([\d\.]+)">'
+regex = 'releases/tag/sdk-([\d\.]+)"'
 
 [zlib]
 source = 'regex'
 url = 'https://github.com/madler/zlib/tags'
-regex = 'releases/tag/v([\d\.]+)">'
+regex = 'releases/tag/v([\d\.]+)"'
