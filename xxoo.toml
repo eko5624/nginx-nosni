@@ -197,7 +197,7 @@ strip_release = true
 [libplacebo]
 source = "github"
 github = "haasn/libplacebo"
-use_latest_release = true
+use_latest_tag = true
 
 [libpng]
 source = 'regex'
