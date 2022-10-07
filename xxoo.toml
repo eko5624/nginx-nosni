@@ -288,6 +288,11 @@ source = 'regex'
 url = 'https://github.com/mpv-player/mpv/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[mpv-git]
+source = 'git'
+git = 'https://github.com/mpv-player/mpv'
+use_commit = true
+
 [mujs]
 source = 'regex'
 url = 'https://github.com/ccxvii/mujs/tags'
