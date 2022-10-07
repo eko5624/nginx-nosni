@@ -3,11 +3,6 @@ oldver = 'old.json'
 newver = 'new.json'
 max_concurrency = 4
 
-[libplacebo_test]
-source = 'git'
-git = 'https://github.com/haasn/libplacebo'
-use_commit = true
-
 [GCC]
 source = 'regex'
 url = 'https://gcc.gnu.org'
