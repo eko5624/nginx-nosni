@@ -8,11 +8,6 @@ source = 'git'
 git = 'https://github.com/haasn/libplacebo'
 use_commit = true
 
-[vim]
-source = "regex"
-regex = "7\\.3\\.\\d+"
-url = "http://ftp.vim.org/pub/vim/patches/7.3/"
-
 [GCC]
 source = 'regex'
 url = 'https://gcc.gnu.org'
@@ -28,7 +23,7 @@ to_pattern = '_'
 [luajit2]
 source = 'regex'
 url = 'https://github.com/openresty/luajit2/tags'
-regex = 'v([\d\.]-[\d]+)'
+regex = 'releases/tag/v([\d\.]+-[\d]+)"'
 from_pattern = '-'
 to_pattern = '_'
 
@@ -105,7 +100,7 @@ regex = 'releases/tag/n([\d\.]+)"'
 [freetype2]
 source = 'regex'
 url = 'https://github.com/freetype/freetype/tags'
-regex = 'VER-([\d-]+)'
+regex = 'releases/tag/VER-([\d-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
@@ -152,7 +147,7 @@ regex = 'bs2b - ([\d\.]+)'
 [libcaca]
 source = 'regex'
 url = 'https://github.com/cacalabs/libcaca/tags'
-regex = 'v([\d\.]+\w+)"'
+regex = 'releases/tag/v([\d\.]+\w+)"'
 
 [libdvdcss]
 source = 'archpkg'
@@ -227,7 +222,7 @@ regex = 'releases/tag/release-([\d\.]+)"'
 [libsixel]
 source = 'regex'
 url = 'https://github.com/libsixel/libsixel/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libsoxr]
 source = 'regex'
@@ -242,7 +237,7 @@ regex = 'Speex-([\d\.]+)">'
 [libsrt]
 source = 'regex'
 url = 'https://github.com/Haivision/srt/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libssh]
 source = 'regex'
@@ -281,12 +276,12 @@ regex = 'xvidcore-([\d\.]+)\.tar.bz2'
 [libzimg]
 source = 'regex'
 url = 'https://github.com/sekrit-twc/zimg/tags'
-regex = 'release-([\d\.]+)"'
+regex = 'releases/tag/release-([\d\.]+)"'
 
 [mbedtls]
 source = 'regex'
 url = 'https://github.com/Mbed-TLS/mbedtls/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [mpv]
 source = 'regex'
@@ -306,7 +301,7 @@ regex = 'releases/tag/([\d\.]+)"'
 [opus]
 source = 'regex'
 url = 'https://github.com/xiph/opus/tags'
-regex = 'v([\d\.]+)"'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [rubberband]
 source = 'regex'
