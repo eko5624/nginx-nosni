@@ -207,7 +207,7 @@ strip_release = true
 [libplacebo]
 source = 'regex'
 url = 'https://github.com/haasn/libplacebo/tags'
-regex = 'releases/tag/v([\d\.]+)"'
+regex = 'v([\d\.]+)'
 
 [libpng]
 source = 'regex'
