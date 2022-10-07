@@ -92,6 +92,11 @@ source = 'regex'
 url = 'https://ffmpeg.org/download.html'
 regex = 'FFmpeg ([\d\.]+)'
 
+[ffmpeg-git]
+source = 'git'
+git = 'https://github.com/FFmpeg/FFmpeg'
+use_commit = true
+
 [ffnvcodec]
 source = 'regex'
 url = 'https://github.com/FFmpeg/nv-codec-headers/tags'
@@ -324,6 +329,11 @@ to_pattern = '.'
 source = 'regex'
 url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
 regex = 'releases/tag/sdk-([\d\.]+)"'
+
+[yt-dlp]
+source = 'regex'
+url = 'https://github.com/yt-dlp/yt-dlp/tags'
+regex = 'releases/tag/([\d\.]+)"'
 
 [zlib]
 source = 'regex'
