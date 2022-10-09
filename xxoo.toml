@@ -2,6 +2,7 @@
 oldver = 'old.json'
 newver = 'new.json'
 max_concurrency = 4
+tries = 2
 
 [GCC]
 source = 'regex'
