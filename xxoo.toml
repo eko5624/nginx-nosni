@@ -241,8 +241,9 @@ url = 'https://git.libssh.org/projects/libssh.git/'
 regex = 'libssh-([\d\.]+)\.tar.xz'
 
 [libudfread]
-source = 'manual'
-manual = '1.1.2'
+source = 'regex'
+url = 'https://code.videolan.org/videolan/libudfread/-/tags'
+regex = '([\d\.]+)"'
 
 [libvorbis]
 source = 'archpkg'
@@ -252,7 +253,7 @@ strip_release = true
 [libvpx]
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libvpx'
-regex = 'v([\d\.]+)">'
+regex = 'v([\d\.]+)"'
 
 [libwebp]
 source = 'regex'
