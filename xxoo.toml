@@ -241,9 +241,8 @@ url = 'https://git.libssh.org/projects/libssh.git/'
 regex = 'libssh-([\d\.]+)\.tar.xz'
 
 [libudfread]
-source = 'regex'
-url = 'https://code.videolan.org/videolan/libudfread/-/tags'
-regex = '([\d\.]+)"'
+source 'manual'
+manual = '1.1.2'
 
 [libvorbis]
 source = 'archpkg'
