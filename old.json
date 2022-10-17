@@ -11,7 +11,7 @@
   "brotli": "1.0.9",
   "dav1d": "1.0.0",
   "ffmpeg": "5.1.2",
-  "ffmpeg-git": "662e838ad65dbae8ed8e595b175964e4e8ee31b5",
+  "ffmpeg-git": "fd5c273f26d05738f4ec6c0c16295fc307121efa",
   "ffnvcodec": "11.1.5.1",
   "freetype2": "2_12_1",
   "fribidi": "1.0.12",
