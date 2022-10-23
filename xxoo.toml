@@ -78,6 +78,11 @@ source = 'regex'
 url = 'https://github.com/videolan/dav1d/tags'
 regex = 'releases/tag/([\d\.]+)"'
 
+[davs2]
+source = 'regex'
+url = 'https://github.com/pkuvcl/davs2/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
 [ffmpeg]
 source = 'regex'
 url = 'https://ffmpeg.org/download.html'
@@ -320,6 +325,11 @@ url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
 regex = 'releases/tag/([\d-]+)"'
 from_pattern = '-'
 to_pattern = '.'
+
+[uavs3d]
+source = 'regex'
+url = 'https://github.com/uavs3/uavs3d/tags'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [vulkan]
 source = 'regex'
