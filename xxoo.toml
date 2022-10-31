@@ -259,6 +259,11 @@ source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libvpx'
 regex = 'v([\d\.]+)"'
 
+[libvpl]
+source = 'regex'
+url = 'https://github.com/oneapi-src/oneVPL/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [libwebp]
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
