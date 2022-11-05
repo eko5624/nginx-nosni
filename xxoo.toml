@@ -35,7 +35,7 @@ regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
 [Python]
 source = 'regex'
 url = 'https://www.python.org/downloads'
-regex = 'Python ([\d\.]+)'
+regex = 'Python (3.11[\d\.]*)'
 
 [VapourSynth]
 source = 'github'
