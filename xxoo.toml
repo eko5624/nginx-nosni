@@ -338,7 +338,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 [vulkan]
 source = 'regex'
-url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
+url = 'https://github.com/KhronosGroup/Vulkan-Headers/tags'
 regex = 'releases/tag/sdk-([\d\.]+)"'
 
 [yt-dlp]
