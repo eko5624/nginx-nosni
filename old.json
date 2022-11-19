@@ -12,7 +12,7 @@
   "dav1d": "1.0.0",
   "davs2": "1.7",
   "ffmpeg": "5.1.2",
-  "ffmpeg-git": "3bcec58535d395945a390bdc7af4048a7abc60eb",
+  "ffmpeg-git": "66afa361e816c2afb0443423610d949267a16d75",
   "ffnvcodec": "11.1.5.2",
   "freetype2": "2_12_1",
   "fribidi": "1.0.12",
@@ -54,7 +54,7 @@
   "luajit2": "2.1_20220915",
   "mbedtls": "3.2.1",
   "mpv": "0.35.0",
-  "mpv-git": "d3a61cfe9844b78362bfce6e5a8280ad6514dbce",
+  "mpv-git": "8327ac3e6d1686dd753b0ee23f135ebaa13af1b6",
   "mujs": "1.3.2",
   "nginx": "1.23.2",
   "openal-soft": "1.22.2",
@@ -64,7 +64,7 @@
   "shaderc": "2022.3",
   "spirv-cross": "2021.01.15",
   "uavs3d": "1.1",
-  "vulkan": "1.3.231.2",
+  "vulkan": "1.3.231.1",
   "yt-dlp": "2022.11.11",
   "zlib": "1.2.13"
 }
