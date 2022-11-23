@@ -242,8 +242,8 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 [libssh]
 source = 'regex'
-url = 'https://git.libssh.org/projects/libssh.git/'
-regex = 'libssh-([\d\.]+)\.tar.xz'
+url = 'https://gitlab.com/libssh/libssh-mirror/-/tags'
+regex = 'libssh-([\d\.]+)">'
 
 [libudfread]
 source = 'manual'
