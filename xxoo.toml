@@ -2,7 +2,7 @@
 oldver = 'old.json'
 newver = 'new.json'
 max_concurrency = 4
-tries = 2
+tries = 3
 
 [GCC]
 source = 'regex'
@@ -283,6 +283,11 @@ regex = 'xvidcore-([\d\.]+)\.tar.bz2'
 source = 'regex'
 url = 'https://github.com/sekrit-twc/zimg/tags'
 regex = 'releases/tag/release-([\d\.]+)"'
+
+[libzvbi]
+source = 'regex'
+url = 'https://github.com/zapping-vbi/zvbi/tags'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [mbedtls]
 source = 'regex'
