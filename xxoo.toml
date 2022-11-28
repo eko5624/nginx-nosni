@@ -196,9 +196,9 @@ url = 'https://github.com/hoene/libmysofa/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [libogg]
-source = 'archpkg'
-archpkg = 'libogg'
-strip_release = true
+source = 'regex'
+url = 'https://github.com/xiph/ogg/tags'
+regex = 'releases/tag/v([\d\.]+)"'
 
 [libopenmpt]
 source = 'archpkg'
