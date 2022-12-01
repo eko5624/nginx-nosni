@@ -16,13 +16,6 @@ regex = 'LuaJIT-([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
-[luajit2]
-source = 'regex'
-url = 'https://github.com/openresty/luajit2/tags'
-regex = 'releases/tag/v([\d\.]+-[\d]+)"'
-from_pattern = '-'
-to_pattern = '_'
-
 [Mingw-w64]
 source = 'manual'
 manual = '20221123_13.0.0_x64-ucrt_2c3a785ac477b55afc876a06f17d403d065902b2'
@@ -32,16 +25,6 @@ source = 'regex'
 url = 'https://gcc-mcf.lhmouse.com/'
 regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
 
-[Python]
-source = 'regex'
-url = 'https://www.python.org/downloads'
-regex = 'Python (3.11[\d\.]*)'
-
-[VapourSynth]
-source = 'github'
-github = 'vapoursynth/vapoursynth'
-use_latest_release = true
-
 [nginx]
 source = 'regex'
 url = 'https://nginx.org/en/download.html'
@@ -50,7 +33,12 @@ regex = 'nginx-([\d\.]+)'
 [openssl]
 source = 'regex'
 url = 'https://github.com/openssl/openssl/tags'
-regex = 'releases/tag/OpenSSL_([\d_]+[a-z])"'
+regex = 'releases/tag/openssl-([\d\.]+)"'
+
+[Python]
+source = 'regex'
+url = 'https://www.python.org/downloads'
+regex = 'Python (3.11[\d\.]*)'
 
 # mpv
 [amf]
@@ -289,6 +277,13 @@ source = 'regex'
 url = 'https://github.com/zapping-vbi/zvbi/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[luajit2]
+source = 'regex'
+url = 'https://github.com/openresty/luajit2/tags'
+regex = 'releases/tag/v([\d\.]+-[\d]+)"'
+from_pattern = '-'
+to_pattern = '_'
+
 [mbedtls]
 source = 'regex'
 url = 'https://github.com/Mbed-TLS/mbedtls/tags'
@@ -340,6 +335,11 @@ to_pattern = '.'
 source = 'regex'
 url = 'https://github.com/uavs3/uavs3d/tags'
 regex = 'releases/tag/v([\d\.]+)"'
+
+[VapourSynth]
+source = 'github'
+github = 'vapoursynth/vapoursynth'
+use_latest_release = true
 
 [vulkan]
 source = 'regex'
