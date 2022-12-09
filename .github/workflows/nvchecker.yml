@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   #schedule:
   #- cron: '0 0 * * *'
-  push:
-    paths:
-    - 'xxoo.toml'
 
 jobs:
   version_check:
@@ -18,7 +15,7 @@ jobs:
 
     - name: Set environment variables
       run: |
-        sed -i -e "s/__GITHUB_ACCESS_TOKEN__/${{ secrets.GITHUB_TOKEN }}/g" keyfile.toml     
+        sed -i -e "s/__GITHUB_ACCESS_TOKEN__/${{ secrets.AUTO }}/g" keyfile.toml     
         
     - name: Check Latest Version
       run: |
