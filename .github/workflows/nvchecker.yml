@@ -14,13 +14,17 @@ jobs:
     steps:
     - uses: actions/checkout@main
       with:
-        token: ${{ secrets.AUTO }}       
+        token: ${{ secrets.AUTO }}
+
+    - name: Set environment variables
+      run: |
+        sed -i -e "s/__GITHUB_ACCESS_TOKEN__/${{ secrets.GITHUB_TOKEN }}/g" keyfile.toml     
         
     - name: Check Latest Version
       run: |
         sudo apt install python3-pycurl python3-tornado
         pip3 install -U in-place nvchecker
-        nvchecker -c xxoo.toml
+        nvchecker -c xxoo.toml -k keyfile.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
         then
