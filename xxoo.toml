@@ -337,9 +337,9 @@ url = 'https://github.com/uavs3/uavs3d/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [VapourSynth]
-source = 'archpkg'
-archpkg = 'vapoursynth'
-strip_release = true
+source = 'github'
+github = 'vapoursynth/vapoursynth'
+use_latest_release = true
 
 [vulkan]
 source = 'regex'
