@@ -219,9 +219,9 @@ url = 'https://sourceforge.net/projects/soxr/files/'
 regex = 'soxr-([\d\.]+)-Source\.tar.xz'
 
 [libspeex]
-source = 'gitlab'
-gitlab = 'xiph.org/xiph/speex'
-use_max_tag = true
+source = 'regex'
+url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
+regex = 'Speex-([\d\.]+)">'
 
 [libsrt]
 source = 'regex'
@@ -229,9 +229,9 @@ url = 'https://github.com/Haivision/srt/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [libssh]
-source = 'gitlab'
-gitlab = 'libssh/libssh-mirror'
-use_max_tag = true
+source = 'regex'
+url = 'https://gitlab.com/libssh/libssh-mirror/-/tags'
+regex = 'libssh-([\d\.]+)">'
 
 [libudfread]
 source = 'manual'
