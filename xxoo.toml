@@ -237,6 +237,11 @@ regex = 'libssh-([\d\.]+)">'
 source = 'manual'
 manual = '1.1.2'
 
+[libunibreak]
+source = 'regex'
+url = 'https://github.com/adah1972/libunibreak/tags'
+regex = 'releases/tag/libunibreak_([\d_]+)"'
+
 [libvorbis]
 source = 'archpkg'
 archpkg = 'libvorbis'
