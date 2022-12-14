@@ -327,9 +327,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 [spirv-cross]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
-regex = 'releases/tag/([\d-]+)"'
-from_pattern = '-'
-to_pattern = '.'
+regex = 'releases/tag/sdk-([\d\.]+)"'
 
 [uavs3d]
 source = 'regex'
