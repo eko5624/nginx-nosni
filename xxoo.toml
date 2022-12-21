@@ -264,8 +264,10 @@ regex = 'v([\d\.]+)'
 
 [libwebp-1]
 source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libwebp/+/refs'
-regex = 'heads/([\d\.]+)'
+url = 'https://chromium.googlesource.com/webm/libwebp'
+regex = 'v([\d\.]+?(-\w))'
+from_pattern = '-'
+to_pattern = '_'
 
 [libxml2]
 source = 'regex'
