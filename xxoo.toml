@@ -18,7 +18,7 @@ to_pattern = '_'
 
 [Mingw-w64]
 source = 'manual'
-manual = '20221205_13.0.0_x64-ucrt_570f697ae0f08a3025d3505fc44d28fbadcc1311'
+manual = '20221221_13.0.0_x64-ucrt_13b6fd95de730d6456061a227fb4389824b5bceb'
 
 [Mingw-w64-real]
 source = 'regex'
@@ -234,8 +234,9 @@ url = 'https://gitlab.com/libssh/libssh-mirror/-/tags'
 regex = 'libssh-([\d\.]+)">'
 
 [libudfread]
-source = 'manual'
-manual = '1.1.2'
+source = 'regex'
+url = 'https://code.videolan.org/videolan/libudfread/-/tags'
+regex = '([\d\.]+) release'
 
 [libunibreak]
 source = 'regex'
@@ -260,19 +261,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 [libwebp]
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
-regex = 'v([\d\.]+)'
-
-[libwebp-1]
-source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libwebp'
 regex = 'v([\d\.]+[-\w+]*)'
-from_pattern = '-'
-to_pattern = '_'
-
-[libwebp-2]
-source = 'regex'
-url = 'https://chromium.googlesource.com/webm/libwebp'
-regex = 'v([\d\.]+-\w+)'
 from_pattern = '-'
 to_pattern = '_'
 
