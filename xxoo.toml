@@ -265,7 +265,7 @@ regex = 'v([\d\.]+)'
 [libwebp-1]
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
-regex = 'v([\d\.]+?(-\w))'
+regex = 'v([\d\.]+?[-\w])'
 from_pattern = '-'
 to_pattern = '_'
 
