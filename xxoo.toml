@@ -262,6 +262,11 @@ source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
 regex = 'v([\d\.]+)'
 
+[libwebp-1]
+source = 'regex'
+url = 'https://chromium.googlesource.com/webm/libwebp/+/refs'
+regex = 'heads/([\d\.]+)'
+
 [libxml2]
 source = 'regex'
 url = 'https://gitlab.gnome.org/GNOME/libxml2/-/tags'
