@@ -1,7 +1,7 @@
 {
   "GCC": "12.2",
   "LuaJIT": "2.1.0_beta3",
-  "Mingw-w64": "20230125_13.0.1_x64-ucrt_2c27015ad16151fca562fb7ae505ac1f88039f86",
+  "Mingw-w64": "20230203_13.0.1_x64-ucrt_5ed272161a04dbb62f6cd15deed991d03c60ca57",
   "Mingw-w64-real": "20230203_13.0.1_x64-ucrt_5ed272161a04dbb62f6cd15deed991d03c60ca57",
   "Python": "3.10.9",
   "VapourSynth": "R61",
@@ -55,7 +55,7 @@
   "luajit2": "2.1_20230119",
   "mbedtls": "3.3.0",
   "mpv": "0.35.1",
-  "mpv-git": "e439ddc0519ce240c413d58cb2f1d304c8c7df14",
+  "mpv-git": "a3340645beade8a92eae90ac89c467e1cb439741",
   "mujs": "1.3.2",
   "nginx": "1.23.3",
   "openal-soft": "1.23.0",
