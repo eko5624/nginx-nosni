@@ -118,6 +118,11 @@ source = 'archpkg'
 archpkg = 'lcms2'
 strip_release = true
 
+[libaribb24]
+source = 'regex'
+url = 'https://github.com/nkoriyama/aribb24/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [libass]
 source = 'regex'
 url = 'https://github.com/libass/libass/tags'
