@@ -40,6 +40,11 @@ source = 'regex'
 url = 'https://www.python.org/downloads'
 regex = 'Python (3.10[\d\.]*)'
 
+[curl]
+source = 'regex'
+url = 'https://github.com/curl/curl/tags'
+regex = 'releases/tag/curl-([\d\_]+)"'
+
 # mpv
 [amf]
 source = 'regex'
