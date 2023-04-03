@@ -133,6 +133,11 @@ source = 'regex'
 url = 'https://github.com/xqq/libaribcaption/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[libaribcaption]
+source = 'regex'
+url = 'https://github.com/xqq/libaribcaption/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [libass]
 source = 'regex'
 url = 'https://github.com/libass/libass/tags'
