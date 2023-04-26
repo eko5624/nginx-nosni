@@ -12,6 +12,7 @@
   "curl": "8_0_1",
   "dav1d": "1.1.0",
   "davs2": "1.7",
+  "ffmpeg": "6.0",
   "ffmpeg-git": "f7d64881f87d66489e1f51b48d909d044203cc42",
   "ffnvcodec": "12.0.16.0",
   "freetype2": "2_13_0",
