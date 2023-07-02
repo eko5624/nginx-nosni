@@ -18,7 +18,7 @@ to_pattern = '_'
 
 [Mingw-w64]
 source = 'manual'
-manual = '20230605_13.1.1_x64-ucrt_ccb2ee8606e49ba2b561b926eec21ae764324217'
+manual = '20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c'
 
 [Mingw-w64-real]
 source = 'regex'
