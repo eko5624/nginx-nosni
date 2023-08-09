@@ -369,7 +369,7 @@ regex = 'VulkanSDK-([\d\.]+)-Installer'
 
 [test]
 source = 'cmd'
-cmd = "curl https://vulkan.lunarg.com/sdk/latest/windows.json | grep -Eo '[0-9\.]+'"
+cmd = "curl https://vulkan.lunarg.com/sdk/latest/windows.json | grep -Eo '[\d\.]+'"
 
 [yt-dlp]
 source = 'regex'
