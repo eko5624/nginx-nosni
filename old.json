@@ -1,8 +1,8 @@
 {
   "GCC": "13.2",
   "LuaJIT": "2.1.0_beta3",
-  "Mingw-w64": "20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c",
-  "Mingw-w64-real": "20230807_13.2.1_x64-ucrt_f647faede468ce2e321e680831ade7bd0850529f",
+  "Mingw-w64": "20230807_13.2.1_x64-ucrt_f647faede468ce2e321e680831ade7bd0850529f",
+  "Mingw-w64-custom": "20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c",
   "Python": "3.10.12",
   "VapourSynth": "R63",
   "amf": "1.4.30",
@@ -13,7 +13,6 @@
   "dav1d": "1.2.1",
   "davs2": "1.7",
   "ffmpeg": "6.0",
-  "ffmpeg-git": "9c694804fd360bb012e3ec6f295b2bb8e61e6ae9",
   "ffnvcodec": "12.0.16.0",
   "freetype2": "2_13_0",
   "fribidi": "1.0.13",
