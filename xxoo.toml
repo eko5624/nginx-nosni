@@ -16,11 +16,11 @@ regex = 'LuaJIT-([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
-[Mingw-w64]
+[Mingw-w64-custom]
 source = 'manual'
 manual = '20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c'
 
-[Mingw-w64-real]
+[Mingw-w64]
 source = 'regex'
 url = 'https://gcc-mcf.lhmouse.com/'
 regex = 'mingw-w64-gcc-mcf_([\d]+_[\d\.]+_x64-ucrt_\w+)\.7z'
@@ -80,11 +80,6 @@ regex = 'releases/tag/([\d\.]+)"'
 source = 'regex'
 url = 'https://ffmpeg.org/download.html'
 regex = 'FFmpeg ([\d\.]+)'
-
-[ffmpeg-git]
-source = 'git'
-git = 'https://github.com/FFmpeg/FFmpeg'
-use_commit = true
 
 [ffnvcodec]
 source = 'regex'
