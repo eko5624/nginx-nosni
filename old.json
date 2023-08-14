@@ -58,7 +58,7 @@
   "luajit2": "2.1_20230410",
   "mbedtls": "3.4.1",
   "mpv": "0.36.0",
-  "mpv-git": "598e30173d4a6b6414b010647e97809729224374",
+  "mpv-git": "64db68639dd56edbd0de4d3c71f75ab14f9bc135",
   "mujs": "1.3.3",
   "nginx": "1.25.1",
   "openal-soft": "1.23.1",
