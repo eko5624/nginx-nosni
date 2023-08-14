@@ -9,6 +9,26 @@ source = 'regex'
 url = 'https://gcc.gnu.org'
 regex = '>GCC ([\d\.]+)<'
 
+[binutils]
+source = 'regex'
+url = 'https://ftp.gnu.org/gnu/binutils/'
+regex = 'binutils-([\d\.]+)\.tar.bz2'
+
+[gmp]
+source = 'regex'
+url = 'https://ftp.gnu.org/gnu/gmp/'
+regex = 'gmp-([\d\.]+)\.tar.bz2'
+
+[mpfr]
+source = 'regex'
+url = 'https://ftp.gnu.org/gnu/mpfr/'
+regex = 'mpfr-([\d\.]+)\.tar.bz2'
+
+[mpc]
+source = 'regex'
+url = 'https://ftp.gnu.org/gnu/mpc/'
+regex = 'mpc-([\d\.]+)\.tar.gz'
+
 [LuaJIT]
 source = 'regex'
 url = 'https://luajit.org/download.html'
