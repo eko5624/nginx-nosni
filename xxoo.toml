@@ -42,12 +42,12 @@ regex = 'mpc-([\d\.]+)\.tar.gz'
 [make]
 source = 'regex'
 url = 'https://ftp.gnu.org/pub/gnu/make/'
-regex = 'mpfr-([\d\.]+)\.tar.gz'
+regex = 'make-([\d\.]+)\.tar.gz'
 
 [pkgconf]
 source = 'regex'
 url = 'https://github.com/pkgconf/pkgconf/tags'
-regex = 'releases/tag/pkgconf-([\d\_]+)"'
+regex = 'pkgconf-([\d\_]+)"'
 
 [LuaJIT]
 source = 'regex'
