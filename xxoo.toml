@@ -9,6 +9,11 @@ source = 'regex'
 url = 'https://gcc.gnu.org'
 regex = '>GCC ([\d\.]+)<'
 
+[libiconv]
+source = 'regex'
+url = 'https://ftp.gnu.org/pub/gnu/libiconv/'
+regex = 'libiconv-([\d\.]+)\.tar.gz'
+
 [binutils]
 source = 'regex'
 url = 'https://ftp.gnu.org/gnu/binutils/'
@@ -19,6 +24,11 @@ source = 'regex'
 url = 'https://ftp.gnu.org/gnu/gmp/'
 regex = 'gmp-([\d\.]+)\.tar.bz2'
 
+[isl]
+source = 'regex'
+url = 'https://gcc.gnu.org/pub/gcc/infrastructure/'
+regex = 'isl-([\d\.]+)\.tar.bz2'
+
 [mpfr]
 source = 'regex'
 url = 'https://ftp.gnu.org/gnu/mpfr/'
@@ -28,6 +38,16 @@ regex = 'mpfr-([\d\.]+)\.tar.bz2'
 source = 'regex'
 url = 'https://ftp.gnu.org/gnu/mpc/'
 regex = 'mpc-([\d\.]+)\.tar.gz'
+
+[make]
+source = 'regex'
+url = 'https://ftp.gnu.org/pub/gnu/make/'
+regex = 'mpfr-([\d\.]+)\.tar.gz'
+
+[pkgconf]
+source = 'regex'
+url = 'https://github.com/pkgconf/pkgconf/tags'
+regex = 'releases/tag/pkgconf-([\d\_]+)"'
 
 [LuaJIT]
 source = 'regex'
@@ -187,11 +207,6 @@ strip_release = true
 source = 'archpkg'
 archpkg = 'libdvdread'
 strip_release = true
-
-[libiconv]
-source = 'regex'
-url = 'https://ftp.gnu.org/pub/gnu/libiconv/'
-regex = 'libiconv-([\d\.]+)\.tar.gz'
 
 [libjpeg]
 source = 'regex'
