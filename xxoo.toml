@@ -47,7 +47,7 @@ regex = 'make-([\d\.]+)\.tar.gz'
 [pkgconf]
 source = 'regex'
 url = 'https://github.com/pkgconf/pkgconf/tags'
-regex = 'pkgconf-([\d\_]+)"'
+regex = 'pkgconf-([\d\_]+)'
 
 [LuaJIT]
 source = 'regex'
