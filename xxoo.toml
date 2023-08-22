@@ -376,7 +376,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 [rav1e]
 source = 'github'
-url = 'https://github.com/xiph/rav1e'
+github = 'xiph/rav1e'
 use_latest_release = true
 
 [rubberband]
