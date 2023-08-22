@@ -96,6 +96,13 @@ source = 'regex'
 url = 'https://chromium.googlesource.com/angle/angle/+/refs/heads/main'
 regex = 'ANGLE v([\d\.]+)'
 
+[aom]
+source = 'regex'
+url = 'https://aomedia.googlesource.com/aom'
+regex = 'v([\d\.]+[-\w+]*)'
+from_pattern = '-'
+to_pattern = '_'
+
 [avisynth]
 source = 'regex'
 url = 'https://github.com/AviSynth/AviSynthPlus/tags'
@@ -365,6 +372,11 @@ regex = 'releases/tag/([\d\.]+)"'
 [opus]
 source = 'regex'
 url = 'https://github.com/xiph/opus/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[rav1e]
+source = 'regex'
+url = 'https://github.com/xiph/rav1e/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [rubberband]
