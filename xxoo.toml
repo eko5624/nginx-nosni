@@ -375,9 +375,9 @@ url = 'https://github.com/xiph/opus/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [rav1e]
-source = 'regex'
-url = 'https://github.com/xiph/rav1e/tags'
-regex = 'releases/tag/v([\d\.]+)"'
+source = 'github'
+url = 'https://github.com/xiph/rav1e'
+use_latest_release = true
 
 [rubberband]
 source = 'regex'
