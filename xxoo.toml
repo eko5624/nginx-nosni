@@ -313,7 +313,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 [libwebp]
 source = 'regex'
 url = 'https://chromium.googlesource.com/webm/libwebp'
-regex = 'v([\d\.]+[-\w+]*)'
+regex = 'v([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
