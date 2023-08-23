@@ -99,7 +99,7 @@ regex = 'ANGLE v([\d\.]+)'
 [aom]
 source = 'regex'
 url = 'https://aomedia.googlesource.com/aom'
-regex = 'v([\d\.]+[-\w+]*)'
+regex = 'v([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
