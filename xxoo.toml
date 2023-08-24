@@ -52,7 +52,7 @@ regex = 'releases/tag/pkgconf-([\d\.]+)"'
 [LuaJIT]
 source = 'regex'
 url = 'https://github.com/LuaJIT/LuaJIT/tags'
-regex = 'releases/tag/v([\w\.-]+)'
+regex = 'releases/tag/v([\w\.\-]+)'
 from_pattern = '-'
 to_pattern = '_'
 
