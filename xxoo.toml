@@ -414,6 +414,11 @@ source = 'regex'
 url = 'https://github.com/yt-dlp/yt-dlp/tags'
 regex = 'releases/tag/([\d\.]+)"'
 
+[xxhash]
+source = 'regex'
+url = 'https://github.com/Cyan4973/xxHash/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [zlib]
 source = 'regex'
 url = 'https://github.com/madler/zlib/tags'
