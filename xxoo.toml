@@ -421,5 +421,5 @@ regex = 'releases/tag/v([\d\.]+)"'
 
 [zlib]
 source = 'regex'
-url = 'https://github.com/madler/zlib/tags'
-regex = 'releases/tag/v([\d\.]+)"'
+url = 'https://github.com/zlib-ng/zlib-ng/tags'
+regex = 'releases/tag/([\d\.]+)"'
