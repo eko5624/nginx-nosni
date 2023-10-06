@@ -6,11 +6,6 @@ tries = 3
 
 [GCC]
 source = 'regex'
-url = 'https://gcc.gnu.org'
-regex = '>GCC ([\d\.]+)<'
-
-[GCC1]
-source = 'regex'
 url = 'https://ftp.gnu.org/gnu/gcc/'
 regex = 'gcc-([\d\.]+)\/'
 
