@@ -44,6 +44,16 @@ source = 'regex'
 url = 'https://ftp.gnu.org/pub/gnu/make/'
 regex = 'make-([\d\.]+)\.tar.gz'
 
+[cmake]
+source = 'regex'
+url = 'https://github.com/Kitware/CMake/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[ninja]
+source = 'regex'
+url = 'https://github.com/ninja-build/ninja//tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [nasm]
 source = 'regex'
 url = 'https://github.com/netwide-assembler/nasm/tags'
@@ -52,11 +62,6 @@ regex = 'releases/tag/nasm-([\d\.]+)"'
 [yasm]
 source = 'regex'
 url = 'https://github.com/yasm/yasm/tags'
-regex = 'releases/tag/v([\d\.]+)"'
-
-[cmake]
-source = 'regex'
-url = 'https://github.com/Kitware/CMake/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [pkgconf]
