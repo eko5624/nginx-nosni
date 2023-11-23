@@ -315,6 +315,11 @@ source = 'regex'
 url = 'https://github.com/adah1972/libunibreak/tags'
 regex = 'releases/tag/libunibreak_([\d_]+)"'
 
+[libva]
+source = 'regex'
+url = 'https://github.com/intel/libva/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
 [libvorbis]
 source = 'archpkg'
 archpkg = 'libvorbis'
