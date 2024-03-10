@@ -278,7 +278,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 [libsamplerate]
 source = 'regex'
 url = 'https://github.com/libsndfile/libsamplerate/tags'
-regex = 'releases/tag/release-([\d\.]+)"'
+regex = 'releases/tag/([\d\.]+)"'
 
 [libsdl2]
 source = 'regex'
