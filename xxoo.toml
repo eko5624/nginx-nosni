@@ -436,7 +436,7 @@ use_latest_release = true
 
 [VapourSynth]
 source = 'manual'
-manual = 'R66'
+manual = 'R65'
 
 [vulkan]
 source = 'regex'
