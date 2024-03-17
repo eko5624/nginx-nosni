@@ -429,10 +429,14 @@ source = 'regex'
 url = 'https://github.com/uavs3/uavs3d/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
-[VapourSynth]
+[VapourSynth-real]
 source = 'github'
 github = 'vapoursynth/vapoursynth'
 use_latest_release = true
+
+[VapourSynth]
+source = 'manual'
+manual = 'R66'
 
 [vulkan]
 source = 'regex'
