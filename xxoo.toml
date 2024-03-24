@@ -405,6 +405,10 @@ url = 'https://github.com/xiph/opus/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [rav1e]
+source = 'manual'
+manual = '0.7.1'
+
+[rav1e-real]
 source = 'regex'
 url = 'https://github.com/xiph/rav1e/tags'
 regex = 'releases/tag/v([\d\.]+)"'
