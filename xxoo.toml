@@ -428,6 +428,11 @@ source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
 regex = 'releases/tag/sdk-([\d\.]+)"'
 
+[svtav1]
+source = 'regex'
+url = 'https://gitlab.com/AOMediaCodec/SVT-AV1/-/tags'
+regex = 'v([\d\.]+)">'
+
 [uavs3d]
 source = 'regex'
 url = 'https://github.com/uavs3/uavs3d/tags'
