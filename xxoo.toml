@@ -9,6 +9,11 @@ source = 'regex'
 url = 'https://ftp.gnu.org/gnu/gcc/'
 regex = 'gcc-([\d\.]+)\/'
 
+[LLVM]
+source = 'regex'
+url = 'https://github.com/llvm/llvm-project/tags'
+regex = 'releases/tag/llvmorg-([\d\.]+)"'
+
 [libiconv]
 source = 'regex'
 url = 'https://ftp.gnu.org/pub/gnu/libiconv/'
