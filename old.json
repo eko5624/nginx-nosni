@@ -20,9 +20,9 @@
       "version": "3.12.3"
     },
     "VapourSynth": {
-      "version": "R66",
-      "gitref": "refs/tags/R66",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R66"
+      "version": "R67",
+      "gitref": "refs/tags/R67",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R67"
     },
     "amf": {
       "version": "1.4.33"
@@ -222,8 +222,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "943a50b300a081bb223325295040846fe435a861",
-      "revision": "943a50b300a081bb223325295040846fe435a861"
+      "version": "c4b6d0da3865d49c5c3df78902f6c4cc51cbcdbf",
+      "revision": "c4b6d0da3865d49c5c3df78902f6c4cc51cbcdbf"
     },
     "mujs": {
       "version": "1.3.4"
