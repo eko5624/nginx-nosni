@@ -49,7 +49,7 @@
       "version": "8_8_0"
     },
     "dav1d": {
-      "version": "1.4.1"
+      "version": "1.4.2"
     },
     "davs2": {
       "version": "1.7"
@@ -222,8 +222,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "2fa66b850df1e0ecd653e9eea1e69fccc73afcee",
-      "revision": "2fa66b850df1e0ecd653e9eea1e69fccc73afcee"
+      "version": "88f20a7011fb4236a564930878f6630b2781e78a",
+      "revision": "88f20a7011fb4236a564930878f6630b2781e78a"
     },
     "mujs": {
       "version": "1.3.4"
