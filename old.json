@@ -222,8 +222,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "7ff6cf807cd4321cf981b310a1daf7469c38f7fd",
-      "revision": "7ff6cf807cd4321cf981b310a1daf7469c38f7fd"
+      "version": "c2968244e4f597fd1c00a2303448609e8c521993",
+      "revision": "c2968244e4f597fd1c00a2303448609e8c521993"
     },
     "mujs": {
       "version": "1.3.4"
@@ -232,7 +232,7 @@
       "version": "2.16.03"
     },
     "nginx": {
-      "version": "1.26.0"
+      "version": "1.27.0"
     },
     "ninja": {
       "version": "1.12.1"
