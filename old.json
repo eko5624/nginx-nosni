@@ -31,7 +31,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.9.1_rc1"
+      "version": "8.0"
     },
     "avisynth": {
       "version": "3.7.3"
@@ -222,8 +222,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "0c716e762fc99d56c81a3bdd4c01420d905469a9",
-      "revision": "0c716e762fc99d56c81a3bdd4c01420d905469a9"
+      "version": "e7630722d81c1cd36042d0b1368407a92e488742",
+      "revision": "e7630722d81c1cd36042d0b1368407a92e488742"
     },
     "mujs": {
       "version": "1.3.4"
@@ -241,7 +241,7 @@
       "version": "1.23.1"
     },
     "openssl": {
-      "version": "3.3.0"
+      "version": "3.3.1"
     },
     "opus": {
       "version": "1.5.2"
