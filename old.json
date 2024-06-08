@@ -17,7 +17,7 @@
       "version": "20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c"
     },
     "Python": {
-      "version": "3.12.3"
+      "version": "3.12.4"
     },
     "VapourSynth": {
       "version": "R68",
@@ -64,7 +64,7 @@
       "version": "2_13_2"
     },
     "fribidi": {
-      "version": "1.0.14"
+      "version": "1.0.15"
     },
     "gmp": {
       "version": "6.3.0"
@@ -222,8 +222,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "31ae111ff577deb46aa0fc80732fddae65a59b36",
-      "revision": "31ae111ff577deb46aa0fc80732fddae65a59b36"
+      "version": "dc998560aa48059e0dd4ab2fee18f1d9da87cabc",
+      "revision": "dc998560aa48059e0dd4ab2fee18f1d9da87cabc"
     },
     "mujs": {
       "version": "1.3.4"
