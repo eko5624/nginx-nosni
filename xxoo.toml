@@ -133,6 +133,11 @@ source = 'regex'
 url = 'https://github.com/AviSynth/AviSynthPlus/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[bzip2]
+source = 'regex'
+url = 'https://gitlab.com/bzip2/bzip2/-/tags'
+regex = 'bzip2-([\d\.]+)">'
+
 [brotli]
 source = 'regex'
 url = 'https://github.com/google/brotli/tags'
@@ -147,6 +152,13 @@ regex = 'releases/tag/([\d\.]+)"'
 source = 'regex'
 url = 'https://github.com/pkuvcl/davs2/tags'
 regex = 'releases/tag/([\d\.]+)"'
+
+[expat]
+source = 'regex'
+url = 'https://github.com/libexpat/libexpat/tags'
+regex = 'releases/tag/ R_([\d\_]+)"'
+from_pattern = '_'
+to_pattern = '.'
 
 [ffmpeg]
 source = 'regex'
@@ -379,6 +391,11 @@ regex = 'releases/tag/v([\d\.]+-[\d]+)"'
 from_pattern = '-'
 to_pattern = '_'
 
+[lzo]
+source = 'regex'
+url = 'https://fossies.org/linux/misc/'
+regex = 'lzo-([\d\.]+)\.tar.gz'
+
 [mbedtls]
 source = 'regex'
 url = 'https://github.com/Mbed-TLS/mbedtls/tags'
@@ -463,7 +480,17 @@ source = 'regex'
 url = 'https://github.com/Cyan4973/xxHash/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
+[xz]
+source = 'regex'
+url = 'https://github.com/tukaani-project/xz/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [zlib]
 source = 'regex'
 url = 'https://github.com/zlib-ng/zlib-ng/tags'
 regex = 'releases/tag/([\d\.]+)"'
+
+[zstd]
+source = 'regex'
+url = 'https://github.com/facebook/zstd/tags'
+regex = 'releases/tag/v([\d\.]+)"'
