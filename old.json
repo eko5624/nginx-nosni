@@ -57,6 +57,9 @@
     "davs2": {
       "version": "1.7"
     },
+    "expat": {
+      "version": "2_6_2"
+    },
     "ffmpeg": {
       "version": "7.0.1"
     },
