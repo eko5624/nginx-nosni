@@ -156,7 +156,7 @@ regex = 'releases/tag/([\d\.]+)"'
 [expat]
 source = 'regex'
 url = 'https://github.com/libexpat/libexpat/tags'
-regex = 'releases/tag/ R_([\d_]+)"'
+regex = 'releases/tag/R_([\d_]+)"'
 
 [ffmpeg]
 source = 'regex'
