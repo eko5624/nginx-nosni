@@ -157,8 +157,6 @@ regex = 'releases/tag/([\d\.]+)"'
 source = 'regex'
 url = 'https://github.com/libexpat/libexpat/tags'
 regex = 'releases/tag/ R_([\d\_]+)"'
-from_pattern = '_'
-to_pattern = '.'
 
 [ffmpeg]
 source = 'regex'
