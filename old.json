@@ -5,7 +5,7 @@
       "version": "14.1.0"
     },
     "LLVM": {
-      "version": "18.1.7"
+      "version": "18.1.8"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -201,7 +201,7 @@
       "version": "1.4.0"
     },
     "libxml2": {
-      "version": "2.13.0"
+      "version": "2.13.1"
     },
     "libxvid": {
       "version": "1.3.7"
@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "bc5ab97d9a3c2fa28a942e0a09908aced1055e2a",
-      "revision": "bc5ab97d9a3c2fa28a942e0a09908aced1055e2a"
+      "version": "b402cc3248f0c7457ef10f367a69a2dbab392a9b",
+      "revision": "b402cc3248f0c7457ef10f367a69a2dbab392a9b"
     },
     "mujs": {
       "version": "1.3.4"
@@ -295,7 +295,7 @@
       "version": "2024.05.27"
     },
     "zlib": {
-      "version": "2.1.6"
+      "version": "2.2.0"
     },
     "zstd": {
       "version": "1.5.6"
