@@ -185,7 +185,7 @@
       "version": "6_1"
     },
     "libva": {
-      "version": "2.21.0"
+      "version": "2.22.0"
     },
     "libvorbis": {
       "version": "1.3.7",
@@ -234,11 +234,11 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "b402cc3248f0c7457ef10f367a69a2dbab392a9b",
-      "revision": "b402cc3248f0c7457ef10f367a69a2dbab392a9b"
+      "version": "bab9b2cf4ec148f4759f85d62233702f46c23374",
+      "revision": "bab9b2cf4ec148f4759f85d62233702f46c23374"
     },
     "mujs": {
-      "version": "1.3.4"
+      "version": "1.3.5"
     },
     "nasm": {
       "version": "2.16.03"
