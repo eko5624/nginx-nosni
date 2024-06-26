@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "01330dba7185c813958615f183d09dc1ba215cc3",
-      "revision": "01330dba7185c813958615f183d09dc1ba215cc3"
+      "version": "22fc2e6af3a89db325b3191a3775a373020d562f",
+      "revision": "22fc2e6af3a89db325b3191a3775a373020d562f"
     },
     "mujs": {
       "version": "1.3.5"
@@ -274,7 +274,7 @@
       "version": "1.3.261.1"
     },
     "svtav1": {
-      "version": "2.1.0"
+      "version": "2.1.1"
     },
     "uavs3d": {
       "version": "1.1"
