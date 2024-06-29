@@ -31,7 +31,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "7"
+      "version": "3.9.1"
     },
     "avisynth": {
       "version": "3.7.3"
@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "a3f72ea87c9def800c9475a6182f3dc70bb34f49",
-      "revision": "a3f72ea87c9def800c9475a6182f3dc70bb34f49"
+      "version": "68a1a3879ca5b65ecd1f7b63b09b615f968d807a",
+      "revision": "68a1a3879ca5b65ecd1f7b63b09b615f968d807a"
     },
     "mujs": {
       "version": "1.3.5"
@@ -274,7 +274,7 @@
       "version": "1.3.261.1"
     },
     "svtav1": {
-      "version": "2.1.1"
+      "version": "2.1.2"
     },
     "uavs3d": {
       "version": "1.1"
