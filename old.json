@@ -20,9 +20,9 @@
       "version": "3.12.4"
     },
     "VapourSynth": {
-      "version": "R68",
-      "gitref": "refs/tags/R68",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R68"
+      "version": "R69",
+      "gitref": "refs/tags/R69",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R69"
     },
     "amf": {
       "version": "1.4.34"
@@ -104,6 +104,10 @@
     "libass": {
       "version": "0.17.3"
     },
+    "libbluray": {
+      "version": "1.3.4",
+      "url": "https://archlinux.org/packages/extra/x86_64/libbluray/"
+    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -112,6 +116,14 @@
     },
     "libdovi": {
       "version": "3.3.0"
+    },
+    "libdvdcss": {
+      "version": "1.4.3",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
+    },
+    "libdvdnav": {
+      "version": "6.1.1",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
     },
     "libdvdread": {
       "version": "6.1.3",
@@ -175,6 +187,10 @@
     "libva": {
       "version": "2.22.0"
     },
+    "libvorbis": {
+      "version": "1.3.7",
+      "url": "https://archlinux.org/packages/extra/x86_64/libvorbis/"
+    },
     "libvpl": {
       "version": "2023.4.0"
     },
@@ -185,7 +201,7 @@
       "version": "1.4.0"
     },
     "libxml2": {
-      "version": "2.13.1"
+      "version": "2.13.2"
     },
     "libxvid": {
       "version": "1.3.7"
@@ -218,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "7c70df093480f0d5fe739a713ecb5339f59b765e",
-      "revision": "7c70df093480f0d5fe739a713ecb5339f59b765e"
+      "version": "e07470adc2d144da8d1096e3ca1df8053e70966a",
+      "revision": "e07470adc2d144da8d1096e3ca1df8053e70966a"
     },
     "mujs": {
       "version": "1.3.5"
