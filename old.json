@@ -11,7 +11,7 @@
       "version": "2.1.0_beta3"
     },
     "Mingw-w64": {
-      "version": "20240621_14.1.1_x64-ucrt_2dc27d2512880524e65bc39eb54dbea594d5684e"
+      "version": "20240705_14.1.1_x64-ucrt_5c6638848e18d93f871154900404f780db0043d4"
     },
     "Mingw-w64-custom": {
       "version": "20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c"
@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "e07470adc2d144da8d1096e3ca1df8053e70966a",
-      "revision": "e07470adc2d144da8d1096e3ca1df8053e70966a"
+      "version": "bcc72f97ef1106b8ed028ebcdd1897351f10caa7",
+      "revision": "bcc72f97ef1106b8ed028ebcdd1897351f10caa7"
     },
     "mujs": {
       "version": "1.3.5"
