@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "00f43e0916faa4f60837d638349e2a66592a9a2b",
-      "revision": "00f43e0916faa4f60837d638349e2a66592a9a2b"
+      "version": "acbd537dac4ce4ea0a9ea316181123000a7082c1",
+      "revision": "acbd537dac4ce4ea0a9ea316181123000a7082c1"
     },
     "mujs": {
       "version": "1.3.5"
@@ -292,7 +292,7 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2024.07.02"
+      "version": "2024.07.07"
     },
     "zlib": {
       "version": "2.2.1"
