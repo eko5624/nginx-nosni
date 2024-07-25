@@ -49,7 +49,7 @@
       "version": "3.30.1"
     },
     "curl": {
-      "version": "8_8_0"
+      "version": "8_9_0"
     },
     "dav1d": {
       "version": "1.4.3"
@@ -148,7 +148,7 @@
       "version": "1.3.5"
     },
     "libopenmpt": {
-      "version": "0.7.8",
+      "version": "0.7.9",
       "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
@@ -201,7 +201,7 @@
       "version": "1.4.0"
     },
     "libxml2": {
-      "version": "2.13.2"
+      "version": "2.13.3"
     },
     "libxvid": {
       "version": "1.3.7"
@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "d384a6b79303ef21b7330555e968a99d59a7c5b0",
-      "revision": "d384a6b79303ef21b7330555e968a99d59a7c5b0"
+      "version": "3c7b6db205c027d3c4f12285719367792e471b57",
+      "revision": "3c7b6db205c027d3c4f12285719367792e471b57"
     },
     "mujs": {
       "version": "1.3.5"
