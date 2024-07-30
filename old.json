@@ -1,9 +1,6 @@
 {
   "version": 2,
   "data": {
-    "GCC": {
-      "version": "14.1.0"
-    },
     "LLVM": {
       "version": "18.1.8"
     },
@@ -35,9 +32,6 @@
     },
     "avisynth": {
       "version": "3.7.3"
-    },
-    "binutils": {
-      "version": "2.42"
     },
     "brotli": {
       "version": "1.1.0"
@@ -71,9 +65,6 @@
     },
     "fribidi": {
       "version": "1.0.15"
-    },
-    "gmp": {
-      "version": "6.3.0"
     },
     "harfbuzz": {
       "version": "9.0.0"
@@ -128,9 +119,6 @@
     "libdvdread": {
       "version": "6.1.3",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
-    },
-    "libiconv": {
-      "version": "1.17"
     },
     "libjpeg": {
       "version": "3.0.3"
@@ -218,24 +206,15 @@
     "lzo": {
       "version": "2.10"
     },
-    "make": {
-      "version": "4.4.1"
-    },
     "mbedtls": {
       "version": "3.6.0"
-    },
-    "mpc": {
-      "version": "1.3.1"
-    },
-    "mpfr": {
-      "version": "4.2.1"
     },
     "mpv": {
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "6107112b32e748c55dd2d344b8871ad60c0c504c",
-      "revision": "6107112b32e748c55dd2d344b8871ad60c0c504c"
+      "version": "7ab6458cf9ef7b6a52dacd50856fb7b4da81439c",
+      "revision": "7ab6458cf9ef7b6a52dacd50856fb7b4da81439c"
     },
     "mujs": {
       "version": "1.3.5"
