@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "e3f426aa4a29b7c6ebc6c7b6177dee658b956180",
-      "revision": "e3f426aa4a29b7c6ebc6c7b6177dee658b956180"
+      "version": "acc69e082fff67398834de3045ef48d33d2f4d54",
+      "revision": "acc69e082fff67398834de3045ef48d33d2f4d54"
     },
     "mujs": {
       "version": "1.3.5"
@@ -278,9 +278,6 @@
     },
     "uavs3d": {
       "version": "1.1"
-    },
-    "vulkan": {
-      "version": "1.3.290.0"
     },
     "xxhash": {
       "version": "0.8.2"
