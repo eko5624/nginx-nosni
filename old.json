@@ -37,7 +37,7 @@
       "version": "3.7.3"
     },
     "binutils": {
-      "version": "2.43"
+      "version": "2.43.1"
     },
     "brotli": {
       "version": "1.1.0"
@@ -234,8 +234,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "ebc14a58ae2aebe4f5f8121496925068f093e498",
-      "revision": "ebc14a58ae2aebe4f5f8121496925068f093e498"
+      "version": "a3baf94ab9f3b43a8027d74c43991a3c2da732e0",
+      "revision": "a3baf94ab9f3b43a8027d74c43991a3c2da732e0"
     },
     "mujs": {
       "version": "1.3.5"
