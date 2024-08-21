@@ -10,9 +10,6 @@
     "LuaJIT": {
       "version": "2.1.0_beta3"
     },
-    "Mingw-w64": {
-      "version": "20240801_14.2.0_x64-ucrt_ee5ef80a192bb06ebfb22f9a847e73c4328d9a58"
-    },
     "Mingw-w64-custom": {
       "version": "20230626_13.1.1_x64-ucrt_acc297ae58ccbcaa50c159a36572b408f6c7825c"
     },
@@ -234,8 +231,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "67e087dcae35fa9f74a6dced588629fcdf075182",
-      "revision": "67e087dcae35fa9f74a6dced588629fcdf075182"
+      "version": "f44c29b223d7f0187ccf938eb1651671c8e92cf3",
+      "revision": "f44c29b223d7f0187ccf938eb1651671c8e92cf3"
     },
     "mujs": {
       "version": "1.3.5"
