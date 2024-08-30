@@ -21,7 +21,7 @@ jobs:
       run: |
         sudo apt install python3-pycurl python3-tornado
         pip3 install -U in-place nvchecker
-        nvchecker -c xxoo.toml
+        nvchecker -c xxoo.toml -k keyfile.toml
         nvcmp -c xxoo.toml > cmp
         if [ -s cmp ]
         then
