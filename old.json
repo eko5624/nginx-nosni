@@ -173,7 +173,7 @@
       "version": "1.5.3"
     },
     "libssh": {
-      "version": "0.11.0"
+      "version": "0.11.1"
     },
     "libudfread": {
       "version": "1.1.2"
@@ -219,7 +219,7 @@
       "version": "4.4.1"
     },
     "mbedtls": {
-      "version": "3.6.0"
+      "version": "3.6.1"
     },
     "mpc": {
       "version": "1.3.1"
@@ -231,8 +231,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "c89063563423919fd311cfe9e1fbd566890759a3",
-      "revision": "c89063563423919fd311cfe9e1fbd566890759a3"
+      "version": "7c672e33a5eab0564383127c8837b1034a84357b",
+      "revision": "7c672e33a5eab0564383127c8837b1034a84357b"
     },
     "mujs": {
       "version": "1.3.5"
