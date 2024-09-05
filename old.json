@@ -55,7 +55,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_6_2"
+      "version": "2_6_3"
     },
     "ffmpeg": {
       "version": "7.0.2"
@@ -231,8 +231,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "a0ebfc3462e876d6e74f55775414e810ce520adf",
-      "revision": "a0ebfc3462e876d6e74f55775414e810ce520adf"
+      "version": "ecc6cddef0ccf16c48d700c69d3e244165d52c9c",
+      "revision": "ecc6cddef0ccf16c48d700c69d3e244165d52c9c"
     },
     "mujs": {
       "version": "1.3.5"
