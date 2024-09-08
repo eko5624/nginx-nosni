@@ -14,7 +14,7 @@
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
     "Python": {
-      "version": "3.12.5"
+      "version": "3.12.6"
     },
     "VapourSynth": {
       "version": "R69",
@@ -231,8 +231,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "0eb5e914d9699b6f7fb91ee383dedadc491b0d7d",
-      "revision": "0eb5e914d9699b6f7fb91ee383dedadc491b0d7d"
+      "version": "e169302e2de40408e4aaf5f4f74a038489765d12",
+      "revision": "e169302e2de40408e4aaf5f4f74a038489765d12"
     },
     "mujs": {
       "version": "1.3.5"
