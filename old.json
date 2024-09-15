@@ -130,7 +130,7 @@
       "version": "1.17"
     },
     "libjpeg": {
-      "version": "3.0.3"
+      "version": "3.0.90"
     },
     "libjxl": {
       "version": "0.11.0"
@@ -231,8 +231,8 @@
       "version": "0.38.0"
     },
     "mpv-git": {
-      "version": "5357d18fe6e8e849f3b947b710efa633a6ac3176",
-      "revision": "5357d18fe6e8e849f3b947b710efa633a6ac3176"
+      "version": "ef19a4a09d572871a076840d6712a3c8652f4b7f",
+      "revision": "ef19a4a09d572871a076840d6712a3c8652f4b7f"
     },
     "mujs": {
       "version": "1.3.5"
