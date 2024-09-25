@@ -73,7 +73,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "10.0.0"
+      "version": "10.0.1"
     },
     "highway": {
       "version": "1.2.0"
@@ -145,7 +145,7 @@
       "version": "1.3.5"
     },
     "libopenmpt": {
-      "version": "0.7.9",
+      "version": "0.7.10",
       "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "2c5928e5183b32b6728fd62110a3f2dce037ca90",
-      "revision": "2c5928e5183b32b6728fd62110a3f2dce037ca90"
+      "version": "92e97d239eb33550dd23dbf7f7e27b5b20ba4dee",
+      "revision": "92e97d239eb33550dd23dbf7f7e27b5b20ba4dee"
     },
     "mujs": {
       "version": "1.3.5"
@@ -265,7 +265,7 @@
       "version": "3.3.0"
     },
     "shaderc": {
-      "version": "2024.2"
+      "version": "2024.3"
     },
     "spirv-cross": {
       "version": "1.3.261.1"
