@@ -67,7 +67,7 @@
       "version": "2_13_3"
     },
     "fribidi": {
-      "version": "1.0.15"
+      "version": "1.0.16"
     },
     "gmp": {
       "version": "6.3.0"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "92e97d239eb33550dd23dbf7f7e27b5b20ba4dee",
-      "revision": "92e97d239eb33550dd23dbf7f7e27b5b20ba4dee"
+      "version": "c9f3fa33a6874bb021ba0e3ed156a666a7bbb327",
+      "revision": "c9f3fa33a6874bb021ba0e3ed156a666a7bbb327"
     },
     "mujs": {
       "version": "1.3.5"
