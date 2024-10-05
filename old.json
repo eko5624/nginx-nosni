@@ -105,9 +105,6 @@
       "version": "1.3.4",
       "url": "https://archlinux.org/packages/extra/x86_64/libbluray/"
     },
-    "libbs2b": {
-      "version": "3.1.0"
-    },
     "libcaca": {
       "version": "0.99.beta20"
     },
@@ -231,8 +228,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "216abbc12149668c71e400c19d1f60a507fb68c8",
-      "revision": "216abbc12149668c71e400c19d1f60a507fb68c8"
+      "version": "493cab7efc1d80bb780d6eacffb316e7f5313154",
+      "revision": "493cab7efc1d80bb780d6eacffb316e7f5313154"
     },
     "mujs": {
       "version": "1.3.5"
