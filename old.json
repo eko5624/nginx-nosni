@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "2173565b56962ead0ceca74eceb445111def6624",
-      "revision": "2173565b56962ead0ceca74eceb445111def6624"
+      "version": "165159fdef3b38411627d875679323812276d819",
+      "revision": "165159fdef3b38411627d875679323812276d819"
     },
     "mujs": {
       "version": "1.3.5"
@@ -250,7 +250,7 @@
       "version": "1.23.1"
     },
     "openssl": {
-      "version": "3.3.2"
+      "version": "3.4.0"
     },
     "opus": {
       "version": "1.5.2"
@@ -292,7 +292,7 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2024.10.07"
+      "version": "2024.10.22"
     },
     "zlib": {
       "version": "2.2.2"
