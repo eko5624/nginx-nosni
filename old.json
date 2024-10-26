@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "5c59f8accc44f3f31f1ef003e23643a5f5eaa0f3",
-      "revision": "5c59f8accc44f3f31f1ef003e23643a5f5eaa0f3"
+      "version": "9af491fc8003078cc35de8d314ec2f4c65e1d7e4",
+      "revision": "9af491fc8003078cc35de8d314ec2f4c65e1d7e4"
     },
     "mujs": {
       "version": "1.3.5"
@@ -262,7 +262,7 @@
       "version": "0.7.1"
     },
     "rubberband": {
-      "version": "3.3.0"
+      "version": "4.0.0"
     },
     "shaderc": {
       "version": "2024.3"
@@ -280,7 +280,7 @@
       "version": "1.3.296.0"
     },
     "vvdec": {
-      "version": "2.3.0"
+      "version": "3.0.0"
     },
     "xxhash": {
       "version": "0.8.2"
