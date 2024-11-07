@@ -43,10 +43,10 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "3.30.5"
+      "version": "3.31.0"
     },
     "curl": {
-      "version": "8_10_1"
+      "version": "8_11_0"
     },
     "dav1d": {
       "version": "1.5.0"
@@ -175,9 +175,6 @@
     "libssh": {
       "version": "0.11.1"
     },
-    "libudfread": {
-      "version": "1.1.2"
-    },
     "libunibreak": {
       "version": "6_1"
     },
@@ -231,8 +228,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "91d4e6f937888c4244270ed54f82abc55206e297",
-      "revision": "91d4e6f937888c4244270ed54f82abc55206e297"
+      "version": "46fe3cded03a0505ad92830a5de7a98f1c5a592d",
+      "revision": "46fe3cded03a0505ad92830a5de7a98f1c5a592d"
     },
     "mujs": {
       "version": "1.3.5"
