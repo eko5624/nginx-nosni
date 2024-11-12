@@ -170,7 +170,7 @@
       "version": "1.2.1"
     },
     "libsrt": {
-      "version": "1.5.3"
+      "version": "1.5.4"
     },
     "libssh": {
       "version": "0.11.1"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "d66ed2d8be41469ead1b750bc6de0ef9f32d553f",
-      "revision": "d66ed2d8be41469ead1b750bc6de0ef9f32d553f"
+      "version": "43d896657efc169144d74e84ee69090a1f5cc12c",
+      "revision": "43d896657efc169144d74e84ee69090a1f5cc12c"
     },
     "mujs": {
       "version": "1.3.5"
