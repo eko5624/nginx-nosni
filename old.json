@@ -210,7 +210,7 @@
       "version": "0.2.42"
     },
     "luajit2": {
-      "version": "2.1_20241104"
+      "version": "2.1_20241113"
     },
     "lzo": {
       "version": "2.10"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "43d896657efc169144d74e84ee69090a1f5cc12c",
-      "revision": "43d896657efc169144d74e84ee69090a1f5cc12c"
+      "version": "c60d8523edecb5bf5baef3bf4d078b460b09b395",
+      "revision": "c60d8523edecb5bf5baef3bf4d078b460b09b395"
     },
     "mujs": {
       "version": "1.3.5"
