@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "70aaba71d6e3071a732069a1d222d1eb4293faf2",
-      "revision": "70aaba71d6e3071a732069a1d222d1eb4293faf2"
+      "version": "dd5f2069b8b3e452e7cdca017942da07b02a69ad",
+      "revision": "dd5f2069b8b3e452e7cdca017942da07b02a69ad"
     },
     "mujs": {
       "version": "1.3.5"
@@ -247,7 +247,7 @@
       "version": "1.12.1"
     },
     "openal-soft": {
-      "version": "1.23.1"
+      "version": "1.24.0"
     },
     "openssl": {
       "version": "3.4.0"
