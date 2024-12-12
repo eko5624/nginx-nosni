@@ -46,7 +46,7 @@
       "version": "3.31.2"
     },
     "curl": {
-      "version": "8_11_0"
+      "version": "8_11_1"
     },
     "dav1d": {
       "version": "1.5.0"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "e2014fb3094acf212bf47421278d6dfa84a24917",
-      "revision": "e2014fb3094acf212bf47421278d6dfa84a24917"
+      "version": "d33e54250e6643bdd20879eae1921fe18aecccd5",
+      "revision": "d33e54250e6643bdd20879eae1921fe18aecccd5"
     },
     "mujs": {
       "version": "1.3.5"
