@@ -127,7 +127,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
     },
     "libiconv": {
-      "version": "1.17"
+      "version": "1.18"
     },
     "libjpeg": {
       "version": "3.1.0"
