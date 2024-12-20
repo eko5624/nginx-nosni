@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     "curl": {
       "version": "8_11_1"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "32d103c58072f117817c42c8947a0aebbc263639",
-      "revision": "32d103c58072f117817c42c8947a0aebbc263639"
+      "version": "1723f8a9d200bed5e225ba640411d06782cca8ca",
+      "revision": "1723f8a9d200bed5e225ba640411d06782cca8ca"
     },
     "mujs": {
       "version": "1.3.5"
