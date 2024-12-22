@@ -473,6 +473,11 @@ source = 'regex'
 url = 'https://vulkan.lunarg.com/sdk/latest/windows.json'
 regex = '([\d\.]+)'
 
+[vulkan-loader]
+source = 'regex'
+url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
+regex = 'v([\d\.]+)"'
+
 [vvdec]
 source = 'regex'
 url = 'https://github.com/fraunhoferhhi/vvdec/tags'
