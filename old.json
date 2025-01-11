@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "3.31.3"
+      "version": "3.31.4"
     },
     "curl": {
       "version": "8_11_1"
@@ -161,7 +161,7 @@
       "version": "2.30.11"
     },
     "libsixel": {
-      "version": "1.10.4"
+      "version": "1.10.5"
     },
     "libsoxr": {
       "version": "0.1.3"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "f049a1e91c840754159dc86eb5b19ea15d311a75",
-      "revision": "f049a1e91c840754159dc86eb5b19ea15d311a75"
+      "version": "ca211b5b8830a74fecae115ba18b62878348342c",
+      "revision": "ca211b5b8830a74fecae115ba18b62878348342c"
     },
     "mujs": {
       "version": "1.3.5"
