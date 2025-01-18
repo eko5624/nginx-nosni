@@ -210,7 +210,7 @@
       "version": "0.2.43"
     },
     "luajit2": {
-      "version": "2.1_20241113"
+      "version": "2.1_20250117"
     },
     "lzo": {
       "version": "2.10"
@@ -280,7 +280,7 @@
       "version": "1.4.304.0"
     },
     "vulkan-loader": {
-      "version": "1.4.304"
+      "version": "1.4.305"
     },
     "vvdec": {
       "version": "3.0.0"
