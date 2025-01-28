@@ -28,7 +28,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.11.0"
+      "version": "64"
     },
     "avisynth": {
       "version": "3.7.3"
@@ -104,9 +104,6 @@
     "libbluray": {
       "version": "1.3.4",
       "url": "https://archlinux.org/packages/extra/x86_64/libbluray/"
-    },
-    "libbs2b": {
-      "version": "3.1.0"
     },
     "libcaca": {
       "version": "0.99.beta20"
@@ -231,8 +228,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "57a8105f1a11c61e47e5432ad6dc72db1793ce75",
-      "revision": "57a8105f1a11c61e47e5432ad6dc72db1793ce75"
+      "version": "57962e998091dd4c2f6acc4ae60f03c11ca59ee7",
+      "revision": "57962e998091dd4c2f6acc4ae60f03c11ca59ee7"
     },
     "mujs": {
       "version": "1.3.5"
