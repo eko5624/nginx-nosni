@@ -61,7 +61,7 @@
       "version": "7.1"
     },
     "ffnvcodec": {
-      "version": "12.2.72.0"
+      "version": "13.0.19.0"
     },
     "freetype2": {
       "version": "2_13_3"
@@ -175,9 +175,6 @@
     "libssh": {
       "version": "0.11.1"
     },
-    "libudfread": {
-      "version": "1.1.2"
-    },
     "libunibreak": {
       "version": "6_1"
     },
@@ -231,8 +228,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "72d976b3c150425b678122e68bd98c9fd9d9fb92",
-      "revision": "72d976b3c150425b678122e68bd98c9fd9d9fb92"
+      "version": "62c3aeb9cbdbd962fafb90c319ded92d1503e817",
+      "revision": "62c3aeb9cbdbd962fafb90c319ded92d1503e817"
     },
     "mujs": {
       "version": "1.3.5"
@@ -280,7 +277,7 @@
       "version": "1.4.304.0"
     },
     "vulkan-loader": {
-      "version": "1.4.306"
+      "version": "1.4.307"
     },
     "vvdec": {
       "version": "3.0.0"
