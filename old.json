@@ -14,7 +14,7 @@
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
     "Python": {
-      "version": "3.12.8"
+      "version": "3.12.9"
     },
     "VapourSynth": {
       "version": "R70",
@@ -22,7 +22,7 @@
       "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R70"
     },
     "amf": {
-      "version": "1.4.35"
+      "version": "1.4.36"
     },
     "angle": {
       "version": "1.0.772"
