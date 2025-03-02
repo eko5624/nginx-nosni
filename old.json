@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "5338f4ba70903e7517bbfc7881e10ff13a912ffc",
-      "revision": "5338f4ba70903e7517bbfc7881e10ff13a912ffc"
+      "version": "ee07dcf4c704e64d3d9d95191129bccd98c2c37d",
+      "revision": "ee07dcf4c704e64d3d9d95191129bccd98c2c37d"
     },
     "mujs": {
       "version": "1.3.6"
