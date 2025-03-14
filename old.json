@@ -55,7 +55,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_6_4"
+      "version": "2_7_0"
     },
     "ffmpeg": {
       "version": "7.1.1"
@@ -231,8 +231,8 @@
       "version": "0.39.0"
     },
     "mpv-git": {
-      "version": "ae3420fe6674295cc732933332336cdb3afd81ec",
-      "revision": "ae3420fe6674295cc732933332336cdb3afd81ec"
+      "version": "d9dadf07ae9425ad3cc6cc2ee9464038224efdcb",
+      "revision": "d9dadf07ae9425ad3cc6cc2ee9464038224efdcb"
     },
     "mujs": {
       "version": "1.3.6"
@@ -277,7 +277,7 @@
       "version": "1.1"
     },
     "vulkan": {
-      "version": "1.4.304.1"
+      "version": "1.4.309.0"
     },
     "vulkan-loader": {
       "version": "1.4.310"
