@@ -90,7 +90,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.7.8"
+      "version": "3.7.9"
     },
     "libaribb24": {
       "version": "1.0.3"
@@ -247,7 +247,7 @@
       "version": "1.12.1"
     },
     "openal-soft": {
-      "version": "1.24.2"
+      "version": "1.24.3"
     },
     "openssl": {
       "version": "3.4.1"
