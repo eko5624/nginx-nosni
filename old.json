@@ -241,7 +241,7 @@
       "version": "2.16.03"
     },
     "nginx": {
-      "version": "1.27.5"
+      "version": "1.28.0"
     },
     "ninja": {
       "version": "1.12.1"
@@ -265,7 +265,7 @@
       "version": "4.0.0"
     },
     "shaderc": {
-      "version": "2025.1"
+      "version": "2025.2"
     },
     "spirv-cross": {
       "version": "1.3.261.1"
