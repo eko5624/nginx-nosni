@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "GCC": {
-      "version": "14.2.0"
+      "version": "15.1.0"
     },
     "LLVM": {
       "version": "20.1.3"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "f147df1393ddd2d4ec702b9768662e2cc6f7778a",
-      "revision": "f147df1393ddd2d4ec702b9768662e2cc6f7778a"
+      "version": "2b38b382cf24a7a03a955bcbb8e3eaa1b3e035c9",
+      "revision": "2b38b382cf24a7a03a955bcbb8e3eaa1b3e035c9"
     },
     "mujs": {
       "version": "1.3.6"
