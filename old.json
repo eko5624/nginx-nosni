@@ -73,7 +73,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "11.1.0"
+      "version": "11.2.0"
     },
     "highway": {
       "version": "1.2.0"
@@ -200,9 +200,6 @@
     "libxml2": {
       "version": "2.14.2"
     },
-    "libxvid": {
-      "version": "1.3.7"
-    },
     "libzimg": {
       "version": "3.0.5"
     },
@@ -231,8 +228,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "f8cef99033e2e46e610f7378334f59cd242dacb4",
-      "revision": "f8cef99033e2e46e610f7378334f59cd242dacb4"
+      "version": "61be67071617889282bc477e8d701333ea834783",
+      "revision": "61be67071617889282bc477e8d701333ea834783"
     },
     "mujs": {
       "version": "1.3.6"
