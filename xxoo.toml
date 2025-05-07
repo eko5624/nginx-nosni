@@ -451,7 +451,7 @@ regex = 'releases/tag/v([\d\.]+)"'
 [spirv-cross]
 source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
-regex = 'releases/tag/sdk-([\d\.]+)"'
+regex = 'releases/tag/vulkan-sdk-([\d\.]+)"'
 
 [svtav1]
 source = 'regex'
