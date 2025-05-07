@@ -267,6 +267,9 @@
     "shaderc": {
       "version": "2025.2"
     },
+    "spirv-cross": {
+      "version": "1.4.313.0"
+    },
     "svtav1": {
       "version": "3.0.2"
     },
