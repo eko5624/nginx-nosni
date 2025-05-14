@@ -198,7 +198,7 @@
       "version": "1.5.0"
     },
     "libxml2": {
-      "version": "2.14.2"
+      "version": "2.14.3"
     },
     "libxvid": {
       "version": "1.3.7"
@@ -219,7 +219,7 @@
       "version": "4.4.1"
     },
     "mbedtls": {
-      "version": "3.6.3"
+      "version": "3.6.3.1"
     },
     "mpc": {
       "version": "1.3.1"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "b3070d1255c461871db2e66918cab225512ea38f",
-      "revision": "b3070d1255c461871db2e66918cab225512ea38f"
+      "version": "4522929741dbec76e007dacf638ee2f1287e2f13",
+      "revision": "4522929741dbec76e007dacf638ee2f1287e2f13"
     },
     "mujs": {
       "version": "1.3.6"
