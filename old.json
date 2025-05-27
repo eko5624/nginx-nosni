@@ -261,6 +261,9 @@
     "rav1e": {
       "version": "0.7.1"
     },
+    "rav1e-real": {
+      "version": "0.8.0"
+    },
     "rubberband": {
       "version": "4.0.0"
     },
