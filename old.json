@@ -5,7 +5,7 @@
       "version": "15.1.0"
     },
     "LLVM": {
-      "version": "20.1.5"
+      "version": "20.1.6"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -46,7 +46,7 @@
       "version": "4.0.2"
     },
     "curl": {
-      "version": "8_13_0"
+      "version": "8_14_0"
     },
     "dav1d": {
       "version": "1.5.1"
