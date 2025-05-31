@@ -129,9 +129,6 @@
     "libiconv": {
       "version": "1.18"
     },
-    "libjpeg": {
-      "version": "3.1.0"
-    },
     "libjxl": {
       "version": "0.11.1"
     },
@@ -283,7 +280,7 @@
       "version": "1.4.313.1"
     },
     "vulkan-loader": {
-      "version": "1.4.315"
+      "version": "1.4.316"
     },
     "vvdec": {
       "version": "3.0.0"
