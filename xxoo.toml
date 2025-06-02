@@ -470,8 +470,8 @@ use_latest_release = true
 
 [vulkan]
 source = 'regex'
-url = 'https://vulkan.lunarg.com/sdk/latest/windows.json'
-regex = '([\d\.]+)'
+url = 'https://github.com/KhronosGroup/Vulkan-Loader/tags'
+regex = 'vulkan-sdk-([\d\.]+)'
 
 [vulkan-loader]
 source = 'regex'
