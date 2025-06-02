@@ -90,7 +90,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.8.0"
+      "version": "3.8.1"
     },
     "libaribb24": {
       "version": "1.0.3"
