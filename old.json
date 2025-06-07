@@ -192,7 +192,7 @@
       "version": "2023.4.0"
     },
     "libvpx": {
-      "version": "1.15.1"
+      "version": "1.15.2"
     },
     "libwebp": {
       "version": "1.5.0"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "6b178e4f5a1d0dcc7b4cdb04ffad2827d07ef4d4",
-      "revision": "6b178e4f5a1d0dcc7b4cdb04ffad2827d07ef4d4"
+      "version": "a418d216357af9727ea287d92c7f3cbeef9f3e9c",
+      "revision": "a418d216357af9727ea287d92c7f3cbeef9f3e9c"
     },
     "mujs": {
       "version": "1.3.6"
@@ -283,7 +283,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.316"
+      "version": "1.4.317"
     },
     "vvdec": {
       "version": "3.0.0"
