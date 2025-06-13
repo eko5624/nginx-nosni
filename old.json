@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.0.2"
+      "version": "4.0.3"
     },
     "curl": {
       "version": "8_14_1"
@@ -152,7 +152,7 @@
       "version": "7.351.0"
     },
     "libpng": {
-      "version": "1.6.48"
+      "version": "1.6.49"
     },
     "libsamplerate": {
       "version": "0.2.2"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "47bc7b2a07690d3e51631e22a17dd90a8cbefb28",
-      "revision": "47bc7b2a07690d3e51631e22a17dd90a8cbefb28"
+      "version": "e8ade130faef6a18971325d49213b8d166935d50",
+      "revision": "e8ade130faef6a18971325d49213b8d166935d50"
     },
     "mujs": {
       "version": "1.3.6"
