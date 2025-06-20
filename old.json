@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "e8ade130faef6a18971325d49213b8d166935d50",
-      "revision": "e8ade130faef6a18971325d49213b8d166935d50"
+      "version": "494afa4115dfe456da0980121d9b263889ddfd64",
+      "revision": "494afa4115dfe456da0980121d9b263889ddfd64"
     },
     "mujs": {
       "version": "1.3.6"
@@ -256,7 +256,7 @@
       "version": "1.5.2"
     },
     "pkgconf": {
-      "version": "2.4.3"
+      "version": "2.5.0"
     },
     "rav1e": {
       "version": "0.7.1"
