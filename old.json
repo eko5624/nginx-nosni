@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "00dbdf122bdd143c60e9b66ef67e93def15813e5",
-      "revision": "00dbdf122bdd143c60e9b66ef67e93def15813e5"
+      "version": "f471f8cfa51105bee1f887a6f1006e338f125040",
+      "revision": "f471f8cfa51105bee1f887a6f1006e338f125040"
     },
     "mujs": {
       "version": "1.3.7"
@@ -244,7 +244,7 @@
       "version": "1.29.0"
     },
     "ninja": {
-      "version": "1.13.0"
+      "version": "1.13.1"
     },
     "openal-soft": {
       "version": "1.24.3"
