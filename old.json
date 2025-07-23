@@ -145,7 +145,7 @@
       "version": "1.3.6"
     },
     "libopenmpt": {
-      "version": "0.8.1",
+      "version": "0.8.2",
       "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "0ac07305fbb1d482830131055d20ebfed146e10c",
-      "revision": "0ac07305fbb1d482830131055d20ebfed146e10c"
+      "version": "71b23246215722ac21ba7428cd586f5ca232de50",
+      "revision": "71b23246215722ac21ba7428cd586f5ca232de50"
     },
     "mujs": {
       "version": "1.3.7"
