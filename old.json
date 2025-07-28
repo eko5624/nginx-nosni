@@ -34,7 +34,7 @@
       "version": "3.7.5"
     },
     "binutils": {
-      "version": "2.44"
+      "version": "2.45"
     },
     "brotli": {
       "version": "1.1.0"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "73c211871027bd804ddadf044d83ae7919693cfa",
-      "revision": "73c211871027bd804ddadf044d83ae7919693cfa"
+      "version": "eaf8a3e8cf7b212412753b586607fc1d6ade0c6a",
+      "revision": "eaf8a3e8cf7b212412753b586607fc1d6ade0c6a"
     },
     "mujs": {
       "version": "1.3.7"
@@ -274,7 +274,7 @@
       "version": "1.4.321.0"
     },
     "svtav1": {
-      "version": "3.0.2"
+      "version": "3.1.0"
     },
     "uavs3d": {
       "version": "1.1"
