@@ -158,7 +158,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.2.18"
+      "version": "3.2.20"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -283,7 +283,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.323"
+      "version": "1.4.324"
     },
     "vvdec": {
       "version": "3.0.0"
