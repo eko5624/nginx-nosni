@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.0.3"
+      "version": "4.1.0"
     },
     "curl": {
       "version": "8_15_0"
@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "86e12929aa0bbc61946d3804982acf887786a7cb",
-      "revision": "86e12929aa0bbc61946d3804982acf887786a7cb"
+      "version": "0232ff27a80ae0ac31de12989294b02a6ea1cffa",
+      "revision": "0232ff27a80ae0ac31de12989294b02a6ea1cffa"
     },
     "mujs": {
       "version": "1.3.7"
@@ -250,7 +250,7 @@
       "version": "1.24.3"
     },
     "openssl": {
-      "version": "3.5.1"
+      "version": "3.5.2"
     },
     "opus": {
       "version": "1.5.2"
