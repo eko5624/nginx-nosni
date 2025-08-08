@@ -231,8 +231,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "c4bc4f6d5b58720785b9f4117a49c0cefe5f50dd",
-      "revision": "c4bc4f6d5b58720785b9f4117a49c0cefe5f50dd"
+      "version": "866da80979e24181fd93d337663d396ff28d12f5",
+      "revision": "866da80979e24181fd93d337663d396ff28d12f5"
     },
     "mujs": {
       "version": "1.3.7"
@@ -301,7 +301,7 @@
       "version": "2025.07.21"
     },
     "zlib": {
-      "version": "2.2.4"
+      "version": "2.2.5"
     },
     "zstd": {
       "version": "1.5.7"
