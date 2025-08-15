@@ -1,6 +1,9 @@
 {
   "version": 2,
   "data": {
+    "GCC": {
+      "version": "15.2.0"
+    },
     "LLVM": {
       "version": "20.1.8"
     },
@@ -29,6 +32,9 @@
     },
     "avisynth": {
       "version": "3.7.5"
+    },
+    "binutils": {
+      "version": "2.45"
     },
     "brotli": {
       "version": "1.1.0"
@@ -63,14 +69,25 @@
     "fribidi": {
       "version": "1.0.16"
     },
+    "gmp": {
+      "version": "6.3.0"
+    },
     "harfbuzz": {
       "version": "11.4.1"
     },
     "highway": {
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
     "isl": {
       "version": "0.24"
+    },
+    "lame": {
+      "version": "3.100",
+      "url": "https://archlinux.org/packages/extra/x86_64/lame/"
+    },
+    "lcms2": {
+      "version": "2.17",
+      "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
       "version": "3.8.1"
@@ -84,6 +101,10 @@
     "libass": {
       "version": "0.17.4"
     },
+    "libbluray": {
+      "version": "1.3.4",
+      "url": "https://archlinux.org/packages/extra/x86_64/libbluray/"
+    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -92,6 +113,21 @@
     },
     "libdovi": {
       "version": "3.3.2"
+    },
+    "libdvdcss": {
+      "version": "1.4.3",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
+    },
+    "libdvdnav": {
+      "version": "6.1.1",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
+    },
+    "libdvdread": {
+      "version": "6.1.3",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
+    },
+    "libiconv": {
+      "version": "1.18"
     },
     "libjpeg": {
       "version": "3.1.1"
@@ -144,6 +180,10 @@
     "libva": {
       "version": "2.22.0"
     },
+    "libvorbis": {
+      "version": "1.3.7",
+      "url": "https://archlinux.org/packages/extra/x86_64/libvorbis/"
+    },
     "libvpl": {
       "version": "2023.4.0"
     },
@@ -171,15 +211,24 @@
     "lzo": {
       "version": "2.10"
     },
+    "make": {
+      "version": "4.4.1"
+    },
     "mbedtls": {
       "version": "3.6.4"
+    },
+    "mpc": {
+      "version": "1.3.1"
+    },
+    "mpfr": {
+      "version": "4.2.2"
     },
     "mpv": {
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "3132ad62a38b1177e97182fce83271ebe96cff96",
-      "revision": "3132ad62a38b1177e97182fce83271ebe96cff96"
+      "version": "7653cc8f096e41d39697280986f4e75534a12988",
+      "revision": "7653cc8f096e41d39697280986f4e75534a12988"
     },
     "mujs": {
       "version": "1.3.7"
