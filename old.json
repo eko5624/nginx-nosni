@@ -283,7 +283,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.325"
+      "version": "2"
     },
     "vvdec": {
       "version": "3.0.0"
