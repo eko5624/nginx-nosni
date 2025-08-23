@@ -58,7 +58,7 @@
       "version": "2_7_1"
     },
     "ffmpeg": {
-      "version": "7.1.1"
+      "version": "8.0"
     },
     "ffnvcodec": {
       "version": "13.0.19.0"
@@ -118,6 +118,10 @@
       "version": "1.4.3",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
     },
+    "libdvdnav": {
+      "version": "6.1.1",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
+    },
     "libdvdread": {
       "version": "6.1.3",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
@@ -139,10 +143,6 @@
     },
     "libogg": {
       "version": "1.3.6"
-    },
-    "libopenmpt": {
-      "version": "0.8.2",
-      "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
       "version": "7.351.0"
@@ -227,8 +227,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "bde63fe092a9eb285b92834cfe403df17018d04d",
-      "revision": "bde63fe092a9eb285b92834cfe403df17018d04d"
+      "version": "194ce88ac3d652e3cc9ad2b8cb13f80400b18557",
+      "revision": "194ce88ac3d652e3cc9ad2b8cb13f80400b18557"
     },
     "mujs": {
       "version": "1.3.7"
