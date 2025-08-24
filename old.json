@@ -73,7 +73,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "11.4.2"
+      "version": "11.4.3"
     },
     "highway": {
       "version": "1.3.0"
@@ -227,8 +227,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "194ce88ac3d652e3cc9ad2b8cb13f80400b18557",
-      "revision": "194ce88ac3d652e3cc9ad2b8cb13f80400b18557"
+      "version": "5faec4e6af3750b2b3ceb75e837920f39270ae04",
+      "revision": "5faec4e6af3750b2b3ceb75e837920f39270ae04"
     },
     "mujs": {
       "version": "1.3.7"
@@ -270,7 +270,7 @@
       "version": "1.4.321.0"
     },
     "svtav1": {
-      "version": "3.1.0"
+      "version": "3.1.1"
     },
     "uavs3d": {
       "version": "1.1"
@@ -294,7 +294,7 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2025.08.20"
+      "version": "2025.08.22"
     },
     "zlib": {
       "version": "2.2.5"
