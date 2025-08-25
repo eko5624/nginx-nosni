@@ -221,9 +221,9 @@ url = 'https://github.com/libass/libass/tags'
 regex = 'releases/tag/([\d\.]+)"'
 
 [libbluray]
-source = 'archpkg'
-archpkg = 'libbluray'
-strip_release = true
+source = 'regex'
+url = 'https://code.videolan.org/videolan/libbluray/-/tags'
+regex = 'libbluray ([\d\.]+)'
 
 [libbs2b]
 source = 'regex'
@@ -481,6 +481,11 @@ regex = 'v([\d\.]+)"'
 [vvdec]
 source = 'regex'
 url = 'https://github.com/fraunhoferhhi/vvdec/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
+[whisper]
+source = 'regex'
+url = 'https://github.com/ggml-org/whisper.cpp/tags'
 regex = 'releases/tag/v([\d\.]+)"'
 
 [yt-dlp]
