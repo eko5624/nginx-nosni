@@ -28,7 +28,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.13.0_rc1"
+      "version": "7"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -211,6 +211,9 @@
     "luajit2": {
       "version": "2.1_20250529"
     },
+    "lzo": {
+      "version": "2.10"
+    },
     "make": {
       "version": "4.4.1"
     },
@@ -227,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "efb70d7f27780bbc7db2ad9a7f2fbf05e610c97e",
-      "revision": "efb70d7f27780bbc7db2ad9a7f2fbf05e610c97e"
+      "version": "b9ceaf243dff844456d4ed37c188ffe6b9495ce7",
+      "revision": "b9ceaf243dff844456d4ed37c188ffe6b9495ce7"
     },
     "mujs": {
       "version": "1.3.7"
