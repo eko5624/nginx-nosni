@@ -28,7 +28,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "7"
+      "version": "3.13.0"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -129,7 +129,7 @@
       "version": "1.18"
     },
     "libjpeg": {
-      "version": "3.1.1"
+      "version": "3.1.2"
     },
     "libjxl": {
       "version": "0.11.1"
