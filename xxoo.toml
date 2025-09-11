@@ -317,7 +317,7 @@ regex = 'soxr-([\d\.]+)-Source\.tar.xz'
 
 [libspeex]
 source = 'regex'
-url = 'https://gitlab.xiph.org/xiph/speex/-/tags'
+url = 'https://github.com/xiph/speex/tags'
 regex = 'Speex-([\d\.]+)">'
 
 [libsrt]
