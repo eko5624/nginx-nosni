@@ -55,7 +55,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_7_1"
+      "version": "2_7_2"
     },
     "ffmpeg": {
       "version": "8.0"
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "8406834075babda8eb028d31450743fa389918f5",
-      "revision": "8406834075babda8eb028d31450743fa389918f5"
+      "version": "764da9919c9dcdd951d9441dac2b56b8a03770ad",
+      "revision": "764da9919c9dcdd951d9441dac2b56b8a03770ad"
     },
     "mujs": {
       "version": "1.3.7"
@@ -249,7 +249,7 @@
       "version": "1.24.3"
     },
     "openssl": {
-      "version": "3.5.2"
+      "version": "3.5.3"
     },
     "opus": {
       "version": "1.5.2"
