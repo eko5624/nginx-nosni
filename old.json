@@ -114,7 +114,7 @@
       "version": "3.3.2"
     },
     "libdvdcss": {
-      "version": "1.4.3",
+      "version": "1.5.0",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
     },
     "libdvdnav": {
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "7037ff456309519f9c4ed88f086b8716dcbc37ac",
-      "revision": "7037ff456309519f9c4ed88f086b8716dcbc37ac"
+      "version": "05656cdae754b22a1f2022653abf1de8a9e02c97",
+      "revision": "05656cdae754b22a1f2022653abf1de8a9e02c97"
     },
     "mujs": {
       "version": "1.3.7"
