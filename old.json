@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.1.1"
+      "version": "4.1.2"
     },
     "curl": {
       "version": "8_16_0"
@@ -246,7 +246,7 @@
       "version": "1.24.3"
     },
     "openssl": {
-      "version": "3.5.3"
+      "version": "3.5.4"
     },
     "opus": {
       "version": "1.5.2"
@@ -282,7 +282,7 @@
       "version": "3.0.0"
     },
     "whisper": {
-      "version": "1.7.6"
+      "version": "1.8.0"
     },
     "xxhash": {
       "version": "0.8.3"
