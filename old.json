@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "be5e606377b69fa46578f5e00e428642a33d47da",
-      "revision": "be5e606377b69fa46578f5e00e428642a33d47da"
+      "version": "6083cf13f28a0e82fa116678d3a0a2848d99f182",
+      "revision": "6083cf13f28a0e82fa116678d3a0a2848d99f182"
     },
     "mujs": {
       "version": "1.3.7"
@@ -267,7 +267,7 @@
       "version": "2025.4"
     },
     "spirv-cross": {
-      "version": "1.4.321.0"
+      "version": "1.4.328.0"
     },
     "svtav1": {
       "version": "3.1.2"
