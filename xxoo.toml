@@ -414,6 +414,11 @@ source = 'git'
 git = 'https://github.com/mpv-player/mpv'
 use_commit = true
 
+[mpv-menu-plugin]
+source = 'regex'
+url = 'https://github.com/tsl0922/mpv-menu-plugin/tags'
+regex = 'releases/tag/([\d\.]+)"'
+
 [mujs]
 source = 'regex'
 url = 'https://github.com/ccxvii/mujs/tags'
