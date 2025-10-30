@@ -19,7 +19,7 @@
       "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R72"
     },
     "amf": {
-      "version": "1.4.36"
+      "version": "1.5.0"
     },
     "angle": {
       "version": "1.0.772"
@@ -209,8 +209,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "6b01391142ad638ef0d3ff1cf34b86bbf2e53322",
-      "revision": "6b01391142ad638ef0d3ff1cf34b86bbf2e53322"
+      "version": "454d9eb361563916ea47a5a3ce737547cfe4dec8",
+      "revision": "454d9eb361563916ea47a5a3ce737547cfe4dec8"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
