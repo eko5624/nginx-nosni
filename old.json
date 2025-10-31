@@ -145,7 +145,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.2.24"
+      "version": "3.2.26"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -197,7 +197,7 @@
       "version": "0.2.44"
     },
     "luajit2": {
-      "version": "2.1_20251022"
+      "version": "2.1_20251030"
     },
     "lzo": {
       "version": "2.10"
