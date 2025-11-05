@@ -5,7 +5,7 @@
       "version": "15.2.0"
     },
     "LLVM": {
-      "version": "21.1.4"
+      "version": "21.1.5"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "25aa402f1de1335c6bca4b81455485164ff4598a",
-      "revision": "25aa402f1de1335c6bca4b81455485164ff4598a"
+      "version": "5b0cfe8849f8304dc449b2bc10cac62c7a227159",
+      "revision": "5b0cfe8849f8304dc449b2bc10cac62c7a227159"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
