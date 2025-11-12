@@ -28,7 +28,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "8.4"
+      "version": "8.6"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -122,7 +122,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
     },
     "libdvdread": {
-      "version": "7.0.0",
+      "version": "7.0.1",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
     },
     "libiconv": {
