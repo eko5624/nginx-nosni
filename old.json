@@ -28,7 +28,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "8.6"
+      "version": "8.4"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "7815181b19e29a887a7105330768b9078e99a42e",
-      "revision": "7815181b19e29a887a7105330768b9078e99a42e"
+      "version": "b2156c7d3099072c1a5c11191c39c2582265b3e1",
+      "revision": "b2156c7d3099072c1a5c11191c39c2582265b3e1"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
