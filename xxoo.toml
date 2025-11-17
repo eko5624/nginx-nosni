@@ -123,7 +123,7 @@ regex = 'ANGLE v([\d\.]+)'
 
 [aom]
 source = 'regex'
-url = 'https://aomedia.googlesource.com/aom'
+url = 'https://aomedia.googlesource.com/aom/+refs'
 regex = 'v([\w\.-]+)'
 from_pattern = '-'
 to_pattern = '_'
