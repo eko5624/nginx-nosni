@@ -90,7 +90,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.8.2"
+      "version": "3.8.3"
     },
     "libaribb24": {
       "version": "1.0.3"
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "0a32f988ba5707a1f9df859b08efe5ba3174b471",
-      "revision": "0a32f988ba5707a1f9df859b08efe5ba3174b471"
+      "version": "7482608939f5a184d11f55c9ef3cf771e1ff1342",
+      "revision": "7482608939f5a184d11f55c9ef3cf771e1ff1342"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
