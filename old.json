@@ -5,7 +5,7 @@
       "version": "15.2.0"
     },
     "LLVM": {
-      "version": "21.1.5"
+      "version": "21.1.6"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.1.2"
+      "version": "4.1.3"
     },
     "curl": {
       "version": "8_17_0"
@@ -230,8 +230,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "7482608939f5a184d11f55c9ef3cf771e1ff1342",
-      "revision": "7482608939f5a184d11f55c9ef3cf771e1ff1342"
+      "version": "e6885cb926ca05a23f54f1b44b250f6f981b4e46",
+      "revision": "e6885cb926ca05a23f54f1b44b250f6f981b4e46"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -285,7 +285,7 @@
       "version": "2"
     },
     "vvdec": {
-      "version": "3.0.0"
+      "version": "3.1.0"
     },
     "whisper": {
       "version": "1.8.2"
