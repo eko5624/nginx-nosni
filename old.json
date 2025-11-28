@@ -1,9 +1,6 @@
 {
   "version": 2,
   "data": {
-    "GCC": {
-      "version": "15.2.0"
-    },
     "LLVM": {
       "version": "21.1.6"
     },
@@ -32,9 +29,6 @@
     },
     "avisynth": {
       "version": "3.7.5"
-    },
-    "binutils": {
-      "version": "2.45.1"
     },
     "brotli": {
       "version": "1.2.0"
@@ -68,9 +62,6 @@
     },
     "fribidi": {
       "version": "1.0.16"
-    },
-    "gmp": {
-      "version": "6.3.0"
     },
     "harfbuzz": {
       "version": "12.2.0"
@@ -124,9 +115,6 @@
     "libdvdread": {
       "version": "7.0.1",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
-    },
-    "libiconv": {
-      "version": "1.18"
     },
     "libjpeg": {
       "version": "3.1.2"
@@ -214,17 +202,8 @@
     "lzo": {
       "version": "2.10"
     },
-    "make": {
-      "version": "4.4.1"
-    },
     "mbedtls": {
       "version": "4.0.0"
-    },
-    "mpc": {
-      "version": "1.3.1"
-    },
-    "mpfr": {
-      "version": "4.2.2"
     },
     "mpv": {
       "version": "0.40.0"
@@ -267,7 +246,7 @@
       "version": "4.0.0"
     },
     "shaderc": {
-      "version": "2025.4"
+      "version": "2025.5"
     },
     "spirv-cross": {
       "version": "1.4.328.1"
@@ -303,7 +282,7 @@
       "version": "2025.11.12"
     },
     "zlib": {
-      "version": "2.2.5"
+      "version": "2.3.1"
     },
     "zstd": {
       "version": "1.5.7"
