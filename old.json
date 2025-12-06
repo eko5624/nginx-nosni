@@ -1,11 +1,17 @@
 {
   "version": 2,
   "data": {
+    "GCC": {
+      "version": "15.2.0"
+    },
     "LLVM": {
-      "version": "21.1.6"
+      "version": "21.1.7"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
+    },
+    "Mingw-w64": {
+      "version": "20251205_16.0.0_x64-ucrt_6b5bdaf8243011cf38ae7da54c8b7d2e98b9614b"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -29,6 +35,9 @@
     },
     "avisynth": {
       "version": "3.7.5"
+    },
+    "binutils": {
+      "version": "2.45.1"
     },
     "brotli": {
       "version": "1.2.0"
@@ -63,6 +72,9 @@
     "fribidi": {
       "version": "1.0.16"
     },
+    "gmp": {
+      "version": "6.3.0"
+    },
     "harfbuzz": {
       "version": "12.2.0"
     },
@@ -81,7 +93,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.8.3"
+      "version": "3.8.4"
     },
     "libaribb24": {
       "version": "1.0.3"
@@ -116,6 +128,9 @@
       "version": "7.0.1",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
     },
+    "libiconv": {
+      "version": "1.18"
+    },
     "libjpeg": {
       "version": "3.1.2"
     },
@@ -139,13 +154,13 @@
       "version": "7.351.0"
     },
     "libpng": {
-      "version": "1.6.51"
+      "version": "1.6.53"
     },
     "libsamplerate": {
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.2.26"
+      "version": "3.2.28"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -202,15 +217,24 @@
     "lzo": {
       "version": "2.10"
     },
+    "make": {
+      "version": "4.4.1"
+    },
     "mbedtls": {
       "version": "4.0.0"
+    },
+    "mpc": {
+      "version": "1.3.1"
+    },
+    "mpfr": {
+      "version": "4.2.2"
     },
     "mpv": {
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "b6c35b55a01fc78459069be80fffb480e11eea73",
-      "revision": "b6c35b55a01fc78459069be80fffb480e11eea73"
+      "version": "dbd7a905b6ed47dd8f0acd09a1f4cc9a08e854a6",
+      "revision": "dbd7a905b6ed47dd8f0acd09a1f4cc9a08e854a6"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -282,7 +306,7 @@
       "version": "2025.11.12"
     },
     "zlib": {
-      "version": "2.3.1"
+      "version": "2.3.2"
     },
     "zstd": {
       "version": "1.5.7"
