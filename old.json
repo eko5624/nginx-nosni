@@ -233,8 +233,8 @@
       "version": "0.40.0"
     },
     "mpv-git": {
-      "version": "08dbdd84868abdbe88578769d0b1e249cb4eee91",
-      "revision": "08dbdd84868abdbe88578769d0b1e249cb4eee91"
+      "version": "f93df58a8eebf23b7f841bbf34bb2bda9f9cc16b",
+      "revision": "f93df58a8eebf23b7f841bbf34bb2bda9f9cc16b"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -253,6 +253,10 @@
     },
     "openal-soft": {
       "version": "1.24.3"
+    },
+    "openssl": {
+      "version": "3.6.0",
+      "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
       "version": "1.6"
