@@ -11,7 +11,7 @@
       "version": "2.1.0_beta3"
     },
     "Mingw-w64": {
-      "version": "20251205_16.0.0_x64-ucrt_6b5bdaf8243011cf38ae7da54c8b7d2e98b9614b"
+      "version": "20251222_16.0.0_x64-ucrt_760c6cc18999a1350c582b196199ef62efda4e7b"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "d0e24ab17acc85d9f222d3bad4f15b42b00c634d",
-      "revision": "d0e24ab17acc85d9f222d3bad4f15b42b00c634d"
+      "version": "670a2664754a59625c2cca3ece75ea771e570997",
+      "revision": "670a2664754a59625c2cca3ece75ea771e570997"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -252,7 +252,7 @@
       "version": "1.13.2"
     },
     "openal-soft": {
-      "version": "1.24.3"
+      "version": "1.25.0"
     },
     "openssl": {
       "version": "3.6.0",
