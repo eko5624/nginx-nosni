@@ -76,7 +76,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "12.2.0"
+      "version": "12.3.0"
     },
     "highway": {
       "version": "1.3.0"
@@ -119,10 +119,6 @@
     "libdvdcss": {
       "version": "1.5.0",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
-    },
-    "libdvdnav": {
-      "version": "7.0.0",
-      "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
     },
     "libdvdread": {
       "version": "7.0.1",
@@ -233,8 +229,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "c0d989c83913fb9c990d961c44da4816b8d2de18",
-      "revision": "c0d989c83913fb9c990d961c44da4816b8d2de18"
+      "version": "a58dd8ac410a6316acc522d2b4a97eca4413beaa",
+      "revision": "a58dd8ac410a6316acc522d2b4a97eca4413beaa"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
