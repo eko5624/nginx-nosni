@@ -160,7 +160,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.2.28"
+      "version": "3.4.0"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -212,7 +212,7 @@
       "version": "0.2.44"
     },
     "luajit2": {
-      "version": "2.1_20251030"
+      "version": "2.1_20251229"
     },
     "lzo": {
       "version": "2.10"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "f57c5ca422aa3b30d4a746dbad542667936b07ca",
-      "revision": "f57c5ca422aa3b30d4a746dbad542667936b07ca"
+      "version": "72efbfd009a2b3259055133d74b88c81b1115ae1",
+      "revision": "72efbfd009a2b3259055133d74b88c81b1115ae1"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
