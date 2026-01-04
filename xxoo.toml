@@ -458,6 +458,11 @@ source = 'regex'
 url = 'https://github.com/KhronosGroup/SPIRV-Cross/tags'
 regex = 'releases/tag/vulkan-sdk-([\d\.]+)"'
 
+[subrandr]
+source = 'regex'
+url = 'https://github.com/afishhh/subrandr/tags'
+regex = 'releases/tag/v([\d\.]+)"'
+
 [svtav1]
 source = 'regex'
 url = 'https://gitlab.com/AOMediaCodec/SVT-AV1/-/tags'
