@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "a3350e2fbb0cfd6d2bd4993570e3ffe8e10a34eb",
-      "revision": "a3350e2fbb0cfd6d2bd4993570e3ffe8e10a34eb"
+      "version": "0035bb7cbd1faf97aa91414a9b376a53b4c821bd",
+      "revision": "0035bb7cbd1faf97aa91414a9b376a53b4c821bd"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -275,6 +275,9 @@
     },
     "spirv-cross": {
       "version": "1.4.335.0"
+    },
+    "subrandr": {
+      "version": "1.0.1"
     },
     "svtav1": {
       "version": "3.1.2"
