@@ -89,7 +89,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
     },
     "lcms2": {
-      "version": "2.17",
+      "version": "2.18",
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
@@ -154,7 +154,7 @@
       "version": "7.351.0"
     },
     "libpng": {
-      "version": "1.6.53"
+      "version": "1.6.54"
     },
     "libsamplerate": {
       "version": "0.2.2"
@@ -212,7 +212,7 @@
       "version": "0.2.44"
     },
     "luajit2": {
-      "version": "2.1_20251229"
+      "version": "2.1_20260114"
     },
     "lzo": {
       "version": "2.10"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "3d980d8ecc6f4443f8b55d5da7384d9f678dbd05",
-      "revision": "3d980d8ecc6f4443f8b55d5da7384d9f678dbd05"
+      "version": "2007f5543ccc2f4ba895e602791d309022aaf174",
+      "revision": "2007f5543ccc2f4ba895e602791d309022aaf174"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -277,7 +277,7 @@
       "version": "1.4.335.0"
     },
     "subrandr": {
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     "svtav1": {
       "version": "3.1.2"
