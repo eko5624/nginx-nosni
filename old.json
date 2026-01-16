@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "2007f5543ccc2f4ba895e602791d309022aaf174",
-      "revision": "2007f5543ccc2f4ba895e602791d309022aaf174"
+      "version": "00774f5b85d78b87007f9b88beef90550951e6f1",
+      "revision": "00774f5b85d78b87007f9b88beef90550951e6f1"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -259,7 +259,7 @@
       "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
-      "version": "1.6"
+      "version": "1.6.1"
     },
     "pkgconf": {
       "version": "2.5.1"
@@ -295,7 +295,7 @@
       "version": "3.1.0"
     },
     "whisper": {
-      "version": "1.8.2"
+      "version": "1.8.3"
     },
     "xxhash": {
       "version": "0.8.3"
