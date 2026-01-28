@@ -46,7 +46,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.2.2"
+      "version": "4.2.3"
     },
     "curl": {
       "version": "8_18_0"
@@ -105,7 +105,7 @@
       "version": "0.17.4"
     },
     "libbluray": {
-      "version": "1.4.0"
+      "version": "1.4.1"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -194,7 +194,7 @@
       "version": "2023.4.0"
     },
     "libvpx": {
-      "version": "1.15.2"
+      "version": "1.16.0"
     },
     "libwebp": {
       "version": "1.6.0"
@@ -255,7 +255,7 @@
       "version": "1.25.1"
     },
     "openssl": {
-      "version": "3.6.0",
+      "version": "3.6.1",
       "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
