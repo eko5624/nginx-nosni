@@ -58,7 +58,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_7_3"
+      "version": "2_7_4"
     },
     "ffmpeg": {
       "version": "8.0.1"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "01cb6433c06db21e06aac74cb320d8e64644baee",
-      "revision": "01cb6433c06db21e06aac74cb320d8e64644baee"
+      "version": "40d2947fa312cc616526b91b016ac6d80cc38e2d",
+      "revision": "40d2947fa312cc616526b91b016ac6d80cc38e2d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
