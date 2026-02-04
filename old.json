@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "db22a4528ff4ca77253c0dbc80fb96908c8c48f1",
-      "revision": "db22a4528ff4ca77253c0dbc80fb96908c8c48f1"
+      "version": "ea82915ba7f0c19a156db9611d6ac9d58817c7d2",
+      "revision": "ea82915ba7f0c19a156db9611d6ac9d58817c7d2"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -310,7 +310,7 @@
       "version": "2026.01.31"
     },
     "zlib": {
-      "version": "2.3.2"
+      "version": "2.3.3"
     },
     "zstd": {
       "version": "1.5.7"
