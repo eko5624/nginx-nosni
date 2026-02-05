@@ -246,7 +246,7 @@
       "version": "3.01"
     },
     "nginx": {
-      "version": "1.29.4"
+      "version": "1.29.5"
     },
     "ninja": {
       "version": "1.13.2"
@@ -307,7 +307,7 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2026.01.31"
+      "version": "2026.02.04"
     },
     "zlib": {
       "version": "2.3.3"
