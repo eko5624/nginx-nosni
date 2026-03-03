@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "af9c81fa1ecbd0d3d7b6b946a7eaea42f1986e63",
-      "revision": "af9c81fa1ecbd0d3d7b6b946a7eaea42f1986e63"
+      "version": "c55bdc3282ca95b1cce0013005f1dc2576bd22b4",
+      "revision": "c55bdc3282ca95b1cce0013005f1dc2576bd22b4"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
