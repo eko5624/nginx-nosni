@@ -17,7 +17,7 @@
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
     "Python": {
-      "version": "3.12.12"
+      "version": "3.12.13"
     },
     "VapourSynth": {
       "version": "R73",
@@ -193,6 +193,9 @@
     "libvpl": {
       "version": "2023.4.0"
     },
+    "libvpx": {
+      "version": "1.16.0"
+    },
     "libwebp": {
       "version": "1.6.0"
     },
@@ -230,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "c55bdc3282ca95b1cce0013005f1dc2576bd22b4",
-      "revision": "c55bdc3282ca95b1cce0013005f1dc2576bd22b4"
+      "version": "c401ef9c3b005deb24afec1d0b5d1cb4cea72d14",
+      "revision": "c401ef9c3b005deb24afec1d0b5d1cb4cea72d14"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -304,7 +307,7 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2026.02.21"
+      "version": "2026.03.03"
     },
     "zlib": {
       "version": "2.3.3"
