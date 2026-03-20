@@ -31,7 +31,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.13.2_rc1"
+      "version": "3.13.2"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -76,7 +76,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "13.2.0"
+      "version": "13.2.1"
     },
     "highway": {
       "version": "1.3.0"
@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "5f9e1bc7bd2f48744c57c9055f50b7bf24f32356",
-      "revision": "5f9e1bc7bd2f48744c57c9055f50b7bf24f32356"
+      "version": "7b1ee864b83e6fe89f936f13b1c5ae34048432b9",
+      "revision": "7b1ee864b83e6fe89f936f13b1c5ae34048432b9"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -292,7 +292,7 @@
       "version": "3.1.0"
     },
     "whisper": {
-      "version": "1.8.3"
+      "version": "1.8.4"
     },
     "xxhash": {
       "version": "0.8.3"
