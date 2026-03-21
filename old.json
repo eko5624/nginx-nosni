@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "7b1ee864b83e6fe89f936f13b1c5ae34048432b9",
-      "revision": "7b1ee864b83e6fe89f936f13b1c5ae34048432b9"
+      "version": "e84ac3760c57e57b3d2f1fc7de606c2f3a009c82",
+      "revision": "e84ac3760c57e57b3d2f1fc7de606c2f3a009c82"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -286,7 +286,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.346"
+      "version": "1.4.347"
     },
     "vvdec": {
       "version": "3.1.0"
