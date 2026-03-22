@@ -396,8 +396,8 @@ to_pattern = '_'
 
 [lzo]
 source = 'regex'
-url = 'https://fossies.org/linux/misc/'
-regex = 'lzo-([\d\.]+)\.tar.gz'
+url = 'https://www.oberhumer.com/opensource/lzo/'
+regex = 'Version ([\d\.]+)'
 
 [mbedtls]
 source = 'regex'
