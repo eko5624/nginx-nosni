@@ -214,6 +214,9 @@
     "luajit2": {
       "version": "2.1_20260311"
     },
+    "lzo": {
+      "version": "2.10"
+    },
     "make": {
       "version": "4.4.1"
     },
