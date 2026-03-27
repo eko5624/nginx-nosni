@@ -11,7 +11,7 @@
       "version": "2.1.0_beta3"
     },
     "Mingw-w64": {
-      "version": "20260306_16.0.1_x64-ucrt_441bd27b0fedee43c3868e643edbf2decb79f15f"
+      "version": "20260326_16.0.1_x64-ucrt_bee6dcac242dc16dcd69746ab2d7a93e4e5af7c4"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -132,7 +132,7 @@
       "version": "1.19"
     },
     "libjpeg": {
-      "version": "3.1.3"
+      "version": "3.1.4"
     },
     "libjxl": {
       "version": "0.11.2"
