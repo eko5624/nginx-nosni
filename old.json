@@ -46,7 +46,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.3.0"
+      "version": "4.3.1"
     },
     "curl": {
       "version": "8_19_0"
@@ -132,7 +132,7 @@
       "version": "1.19"
     },
     "libjpeg": {
-      "version": "3.1.4"
+      "version": "3.1.90"
     },
     "libjxl": {
       "version": "0.11.2"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "1a545faf282c555eec51f202963f5e337d673190",
-      "revision": "1a545faf282c555eec51f202963f5e337d673190"
+      "version": "2ad46a3c3cb57538b1e9bfb84276f76468cd0e39",
+      "revision": "2ad46a3c3cb57538b1e9bfb84276f76468cd0e39"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
