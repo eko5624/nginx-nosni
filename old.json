@@ -76,7 +76,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "13.2.1"
+      "version": "14.0.0"
     },
     "highway": {
       "version": "1.3.0"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "d79c4ad1e33301552e23c9bb98ec3c6c9a4324b9",
-      "revision": "d79c4ad1e33301552e23c9bb98ec3c6c9a4324b9"
+      "version": "c961c96afb83d485d57ffa82106cf7e9882e1e59",
+      "revision": "c961c96afb83d485d57ffa82106cf7e9882e1e59"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
