@@ -160,7 +160,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.4.2"
+      "version": "3.4.4"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "0c883fbe038ece55c2ce0fad63b69fe4f44444ce",
-      "revision": "0c883fbe038ece55c2ce0fad63b69fe4f44444ce"
+      "version": "428edff9c19d5bfa83a6ba9ddaeb752e4039a7ba",
+      "revision": "428edff9c19d5bfa83a6ba9ddaeb752e4039a7ba"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -289,7 +289,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.347"
+      "version": "1.4.348"
     },
     "vvdec": {
       "version": "3.1.0"
