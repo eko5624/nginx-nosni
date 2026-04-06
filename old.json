@@ -20,18 +20,12 @@
       "version": "3.12.13"
     },
     "VapourSynth": {
-      "version": "R73",
-      "gitref": "refs/tags/R73",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R73"
+      "version": "R74",
+      "gitref": "refs/tags/R74",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R74"
     },
     "amf": {
       "version": "1.5.0"
-    },
-    "angle": {
-      "version": "1.0.772"
-    },
-    "aom": {
-      "version": "3.13.3"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -192,9 +186,6 @@
     },
     "libvpl": {
       "version": "2023.4.0"
-    },
-    "libvpx": {
-      "version": "1.16.0"
     },
     "libwebp": {
       "version": "1.6.0"
