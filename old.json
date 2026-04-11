@@ -181,7 +181,7 @@
       "version": "1.2.0"
     },
     "libunibreak": {
-      "version": "6_1"
+      "version": "7_0"
     },
     "libva": {
       "version": "2.23.0"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "75939c21167bc2a203c9dc1c8f4b6fb9305a7530",
-      "revision": "75939c21167bc2a203c9dc1c8f4b6fb9305a7530"
+      "version": "3e3048a5aae15deef16b51c4e4e5c9244ae2041c",
+      "revision": "3e3048a5aae15deef16b51c4e4e5c9244ae2041c"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -289,7 +289,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.348"
+      "version": "1.4.349"
     },
     "vvdec": {
       "version": "3.1.0"
