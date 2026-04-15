@@ -246,7 +246,7 @@
       "version": "3.01"
     },
     "nginx": {
-      "version": "1.29.8"
+      "version": "1.30.0"
     },
     "ninja": {
       "version": "1.13.2"
