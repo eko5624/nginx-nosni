@@ -154,7 +154,7 @@
       "version": "7.360.1"
     },
     "libpng": {
-      "version": "1.6.57"
+      "version": "1.6.58"
     },
     "libsamplerate": {
       "version": "0.2.2"
@@ -193,9 +193,6 @@
     "libvpl": {
       "version": "2023.4.0"
     },
-    "libvpx": {
-      "version": "1.16.0"
-    },
     "libwebp": {
       "version": "1.6.0"
     },
@@ -233,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "da4789c2ddce92713347ecf1b5912fceb812ea39",
-      "revision": "da4789c2ddce92713347ecf1b5912fceb812ea39"
+      "version": "d20d108d94e288263a536dfaac1eda995b9a434e",
+      "revision": "d20d108d94e288263a536dfaac1eda995b9a434e"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
