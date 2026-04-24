@@ -79,7 +79,7 @@
       "version": "14.2.0"
     },
     "highway": {
-      "version": "1.3.0"
+      "version": "1.4.0"
     },
     "isl": {
       "version": "0.24"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "75b2ccfeb1ce4ed5a40ac9860fa74f3d1265e13f",
-      "revision": "75b2ccfeb1ce4ed5a40ac9860fa74f3d1265e13f"
+      "version": "98a6960a3d03869afb6f542e9a42da41b8b8603b",
+      "revision": "98a6960a3d03869afb6f542e9a42da41b8b8603b"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
