@@ -33,9 +33,6 @@
     "aom": {
       "version": "3.13.3"
     },
-    "avisynth": {
-      "version": "3.7.5"
-    },
     "binutils": {
       "version": "2.46.0"
     },
@@ -49,7 +46,7 @@
       "version": "4.3.2"
     },
     "curl": {
-      "version": "8_19_0"
+      "version": "8_20_0"
     },
     "dav1d": {
       "version": "1.5.3"
@@ -233,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "a42b1b9103b2a5ab60817dfe858bf92ec0abc8e0",
-      "revision": "a42b1b9103b2a5ab60817dfe858bf92ec0abc8e0"
+      "version": "5ebe9581d522d6592bcd664c331227e11d5d9f02",
+      "revision": "5ebe9581d522d6592bcd664c331227e11d5d9f02"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
