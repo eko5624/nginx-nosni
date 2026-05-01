@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "GCC": {
-      "version": "15.2.0"
+      "version": "16.1.0"
     },
     "LLVM": {
       "version": "22.1.4"
@@ -11,7 +11,7 @@
       "version": "2.1.0_beta3"
     },
     "Mingw-w64": {
-      "version": "20260422_16.0.1_x64-ucrt_155c1ec7d24cb3b18777d75c1e5768e615e53401"
+      "version": "20260501_16.1.0_x64-ucrt_f121ef6f11dd7f1dc8144f76f86ed57f2f54b99a"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -20,9 +20,9 @@
       "version": "3.12.13"
     },
     "VapourSynth": {
-      "version": "R74",
-      "gitref": "refs/tags/R74",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R74"
+      "version": "R75",
+      "gitref": "refs/tags/R75",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R75"
     },
     "amf": {
       "version": "1.5.0"
@@ -32,6 +32,9 @@
     },
     "aom": {
       "version": "3.13.3"
+    },
+    "avisynth": {
+      "version": "3.7.5"
     },
     "binutils": {
       "version": "2.46.0"
@@ -230,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "5ebe9581d522d6592bcd664c331227e11d5d9f02",
-      "revision": "5ebe9581d522d6592bcd664c331227e11d5d9f02"
+      "version": "2f58ee36ce04c5c3e8892ac61bef2941a258a631",
+      "revision": "2f58ee36ce04c5c3e8892ac61bef2941a258a631"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
