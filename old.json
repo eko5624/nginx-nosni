@@ -61,7 +61,7 @@
       "version": "2_8_0"
     },
     "ffmpeg": {
-      "version": "8.1"
+      "version": "8.1.1"
     },
     "ffnvcodec": {
       "version": "13.0.19.0"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "5e847889b34b736760a1702b82191693d89d46d9",
-      "revision": "5e847889b34b736760a1702b82191693d89d46d9"
+      "version": "333857403f01d760d6cf6b80654cf7a734f0ece5",
+      "revision": "333857403f01d760d6cf6b80654cf7a734f0ece5"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
