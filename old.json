@@ -25,7 +25,7 @@
       "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R75"
     },
     "amf": {
-      "version": "1.5.0"
+      "version": "1.5.2"
     },
     "angle": {
       "version": "1.0.772"
@@ -289,7 +289,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.350"
+      "version": "2"
     },
     "vvdec": {
       "version": "3.1.0"
