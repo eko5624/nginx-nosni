@@ -89,7 +89,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
     },
     "lcms2": {
-      "version": "2.19",
+      "version": "2.19.1",
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "cfd818bcaef262f82596f49444ee80073fa6d49a",
-      "revision": "cfd818bcaef262f82596f49444ee80073fa6d49a"
+      "version": "4d944b2fad25149b32c911468455914436f8559b",
+      "revision": "4d944b2fad25149b32c911468455914436f8559b"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
