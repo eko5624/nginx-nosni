@@ -20,9 +20,9 @@
       "version": "3.12.13"
     },
     "VapourSynth": {
-      "version": "R75",
-      "gitref": "refs/tags/R75",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R75"
+      "version": "R76",
+      "gitref": "refs/tags/R76",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R76"
     },
     "amf": {
       "version": "1.5.2"
@@ -31,7 +31,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.14.0_rc1"
+      "version": "3.14.0"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "f4d059b1d9a2c5153c2b669458cf90554e855530",
-      "revision": "f4d059b1d9a2c5153c2b669458cf90554e855530"
+      "version": "4498c0ff81d25d1c090f3306383ea000d6392cdf",
+      "revision": "4498c0ff81d25d1c090f3306383ea000d6392cdf"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
