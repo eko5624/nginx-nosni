@@ -5,7 +5,7 @@
       "version": "16.1.0"
     },
     "LLVM": {
-      "version": "22.1.5"
+      "version": "22.1.6"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -196,9 +196,6 @@
     "libvpx": {
       "version": "1.16.0"
     },
-    "libwebp": {
-      "version": "1.6.0"
-    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -233,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "8fc1a10a44ee8b24ef1d1761832b2170343a0254",
-      "revision": "8fc1a10a44ee8b24ef1d1761832b2170343a0254"
+      "version": "1fe37856cb47c87c30c823c2e66728f5c0ffe282",
+      "revision": "1fe37856cb47c87c30c823c2e66728f5c0ffe282"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
