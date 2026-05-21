@@ -27,12 +27,6 @@
     "amf": {
       "version": "1.5.2"
     },
-    "angle": {
-      "version": "1.0.772"
-    },
-    "aom": {
-      "version": "3.14.0"
-    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -147,7 +141,7 @@
       "version": "1.3.6"
     },
     "libopenmpt": {
-      "version": "0.8.6",
+      "version": "0.8.7",
       "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
@@ -230,8 +224,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "1fe37856cb47c87c30c823c2e66728f5c0ffe282",
-      "revision": "1fe37856cb47c87c30c823c2e66728f5c0ffe282"
+      "version": "d52182157301896ec98e38001bcf9747b08fe052",
+      "revision": "d52182157301896ec98e38001bcf9747b08fe052"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
