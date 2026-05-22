@@ -11,7 +11,7 @@
       "version": "2.1.0_beta3"
     },
     "Mingw-w64": {
-      "version": "20260508_16.1.1_x64-ucrt_636a212a8559650efbca51d209aca770c4d18b71"
+      "version": "20260521_16.1.1_x64-ucrt_d2421f4a567b158fdaa2dbec0b66be76aa0bde4f"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -27,6 +27,12 @@
     "amf": {
       "version": "1.5.2"
     },
+    "angle": {
+      "version": "1.0.772"
+    },
+    "aom": {
+      "version": "3.14.0"
+    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -40,7 +46,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.3.2"
+      "version": "4.3.3"
     },
     "curl": {
       "version": "8_20_0"
@@ -190,6 +196,9 @@
     "libvpx": {
       "version": "1.16.0"
     },
+    "libwebp": {
+      "version": "1.6.0"
+    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -224,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "d52182157301896ec98e38001bcf9747b08fe052",
-      "revision": "d52182157301896ec98e38001bcf9747b08fe052"
+      "version": "db73857997b7787e529b12dadbfd187806d1b7ed",
+      "revision": "db73857997b7787e529b12dadbfd187806d1b7ed"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
