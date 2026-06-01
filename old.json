@@ -160,7 +160,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.4.8"
+      "version": "3.4.10"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "13a3e3ad0e7d21c0db7c85aab3c8f63b47f784d4",
-      "revision": "13a3e3ad0e7d21c0db7c85aab3c8f63b47f784d4"
+      "version": "44a9b03f244f24e0ea443370cf2cfae0da5767f9",
+      "revision": "44a9b03f244f24e0ea443370cf2cfae0da5767f9"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
