@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "44a9b03f244f24e0ea443370cf2cfae0da5767f9",
-      "revision": "44a9b03f244f24e0ea443370cf2cfae0da5767f9"
+      "version": "f5d4d9b029affa4d5b7eb13b28d91a96e6a92280",
+      "revision": "f5d4d9b029affa4d5b7eb13b28d91a96e6a92280"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -295,7 +295,7 @@
       "version": "3.1.0"
     },
     "whisper": {
-      "version": "1.8.5"
+      "version": "1.8.6"
     },
     "xxhash": {
       "version": "0.8.3"
