@@ -5,7 +5,7 @@
       "version": "16.1.0"
     },
     "LLVM": {
-      "version": "22.1.7"
+      "version": "22.1.8"
     },
     "LuaJIT": {
       "version": "2.1.0_beta3"
@@ -20,9 +20,9 @@
       "version": "3.12.13"
     },
     "VapourSynth": {
-      "version": "R76",
-      "gitref": "refs/tags/R76",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R76"
+      "version": "R77",
+      "gitref": "refs/tags/R77",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R77"
     },
     "amf": {
       "version": "1.5.2"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "65a1852ba388bb17f03797abeceb6e78c37e3aab",
-      "revision": "65a1852ba388bb17f03797abeceb6e78c37e3aab"
+      "version": "53796ca2ea82bd960b0907c89231e773dc381502",
+      "revision": "53796ca2ea82bd960b0907c89231e773dc381502"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -295,7 +295,7 @@
       "version": "3.1.0"
     },
     "whisper": {
-      "version": "1.8.6"
+      "version": "1.8.7"
     },
     "xxhash": {
       "version": "0.8.3"
