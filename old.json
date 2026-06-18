@@ -46,7 +46,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.3.3"
+      "version": "4.3.4"
     },
     "curl": {
       "version": "8_20_0"
@@ -61,7 +61,7 @@
       "version": "2_8_1"
     },
     "ffmpeg": {
-      "version": "8.1.1"
+      "version": "8.1.2"
     },
     "ffnvcodec": {
       "version": "13.0.19.0"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "53796ca2ea82bd960b0907c89231e773dc381502",
-      "revision": "53796ca2ea82bd960b0907c89231e773dc381502"
+      "version": "f8150c78d5113c1dd93fccd72350cd038965cd2c",
+      "revision": "f8150c78d5113c1dd93fccd72350cd038965cd2c"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -246,7 +246,7 @@
       "version": "3.01"
     },
     "nginx": {
-      "version": "1.31.1"
+      "version": "1.31.2"
     },
     "ninja": {
       "version": "1.13.2"
@@ -295,7 +295,7 @@
       "version": "3.1.0"
     },
     "whisper": {
-      "version": "1.8.7"
+      "version": "1.9.0"
     },
     "xxhash": {
       "version": "0.8.3"
