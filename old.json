@@ -27,6 +27,9 @@
     "amf": {
       "version": "1.5.2"
     },
+    "angle": {
+      "version": "1.0.772"
+    },
     "aom": {
       "version": "3.14.1"
     },
@@ -46,7 +49,7 @@
       "version": "4.3.4"
     },
     "curl": {
-      "version": "8_20_0"
+      "version": "8_21_0"
     },
     "dav1d": {
       "version": "1.5.3"
@@ -99,7 +102,7 @@
       "version": "1.1.1"
     },
     "libass": {
-      "version": "0.17.4"
+      "version": "0.17.5"
     },
     "libbluray": {
       "version": "1.4.1"
@@ -193,6 +196,9 @@
     "libvpx": {
       "version": "1.16.0"
     },
+    "libwebp": {
+      "version": "1.6.0"
+    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -256,7 +262,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "2.5.1"
+      "version": "2.9.90"
     },
     "rav1e": {
       "version": "0.7.1"
