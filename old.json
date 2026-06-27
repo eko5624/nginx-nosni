@@ -196,9 +196,6 @@
     "libvpx": {
       "version": "1.16.0"
     },
-    "libwebp": {
-      "version": "1.6.0"
-    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -233,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "2339eb72767517fc5a113283939f59076946fbc1",
-      "revision": "2339eb72767517fc5a113283939f59076946fbc1"
+      "version": "70894ae0390cf20edac0e68de72ab26725520416",
+      "revision": "70894ae0390cf20edac0e68de72ab26725520416"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -259,7 +256,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "2.9.92"
+      "version": "2.9.94"
     },
     "rav1e": {
       "version": "0.7.1"
