@@ -196,6 +196,9 @@
     "libvpx": {
       "version": "1.16.0"
     },
+    "libwebp": {
+      "version": "1.6.0"
+    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -230,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "70894ae0390cf20edac0e68de72ab26725520416",
-      "revision": "70894ae0390cf20edac0e68de72ab26725520416"
+      "version": "62f1494661b362eac02e7d6c2f9173f53c0f278f",
+      "revision": "62f1494661b362eac02e7d6c2f9173f53c0f278f"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
