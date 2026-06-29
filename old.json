@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "62f1494661b362eac02e7d6c2f9173f53c0f278f",
-      "revision": "62f1494661b362eac02e7d6c2f9173f53c0f278f"
+      "version": "5abce15f1c6f476c7425cd6542a5997614d08dfc",
+      "revision": "5abce15f1c6f476c7425cd6542a5997614d08dfc"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -259,7 +259,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "2.9.94"
+      "version": "2.9.95"
     },
     "rav1e": {
       "version": "0.7.1"
