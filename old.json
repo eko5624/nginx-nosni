@@ -30,9 +30,6 @@
     "angle": {
       "version": "1.0.772"
     },
-    "aom": {
-      "version": "3.14.1"
-    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -233,14 +230,17 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "5abce15f1c6f476c7425cd6542a5997614d08dfc",
-      "revision": "5abce15f1c6f476c7425cd6542a5997614d08dfc"
+      "version": "3f1b23abd07464b95f2260880f85a57ea02e641e",
+      "revision": "3f1b23abd07464b95f2260880f85a57ea02e641e"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
     },
     "mujs": {
       "version": "1.3.7"
+    },
+    "nasm": {
+      "version": "3.02"
     },
     "nginx": {
       "version": "1.31.2"
