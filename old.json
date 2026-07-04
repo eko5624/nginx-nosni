@@ -27,12 +27,6 @@
     "amf": {
       "version": "1.5.2"
     },
-    "angle": {
-      "version": "1.0.772"
-    },
-    "aom": {
-      "version": "3.14.1"
-    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -193,9 +187,6 @@
     "libvpl": {
       "version": "2023.4.0"
     },
-    "libvpx": {
-      "version": "1.16.0"
-    },
     "libxml2": {
       "version": "2.15.3"
     },
@@ -230,8 +221,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "7aa8580cabb85345d75e1e579ddffbe4e84b3f84",
-      "revision": "7aa8580cabb85345d75e1e579ddffbe4e84b3f84"
+      "version": "33111f3212ee272ac4a79fe284a7b55c9b5be997",
+      "revision": "33111f3212ee272ac4a79fe284a7b55c9b5be997"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -259,7 +250,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "2.9.97"
+      "version": "2.9.98"
     },
     "rav1e": {
       "version": "0.7.1"
