@@ -184,7 +184,7 @@
       "version": "7_0"
     },
     "libva": {
-      "version": "2.24.0"
+      "version": "2.24.1"
     },
     "libvorbis": {
       "version": "1.3.7",
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "4c220ffd95c383b191b59a938c52b09ce7dfbc98",
-      "revision": "4c220ffd95c383b191b59a938c52b09ce7dfbc98"
+      "version": "68387ea859d20bc3313cdbbe49ca2f25aa54b935",
+      "revision": "68387ea859d20bc3313cdbbe49ca2f25aa54b935"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
