@@ -30,6 +30,9 @@
     "angle": {
       "version": "1.0.772"
     },
+    "aom": {
+      "version": "3.14.1"
+    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -259,7 +262,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "2.9.99"
+      "version": "3.0.0"
     },
     "rav1e": {
       "version": "0.7.1"
