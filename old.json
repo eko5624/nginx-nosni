@@ -114,7 +114,7 @@
       "version": "0.99.beta20"
     },
     "libdovi": {
-      "version": "3.3.2"
+      "version": "3.4.0"
     },
     "libdvdcss": {
       "version": "1.5.0",
@@ -262,7 +262,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "3.0.0"
+      "version": "3.0.1"
     },
     "rav1e": {
       "version": "0.7.1"
