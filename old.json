@@ -52,7 +52,7 @@
       "version": "8_21_0"
     },
     "dav1d": {
-      "version": "1.5.3"
+      "version": "1.5.4"
     },
     "davs2": {
       "version": "1.7"
@@ -64,7 +64,7 @@
       "version": "8.1.2"
     },
     "ffnvcodec": {
-      "version": "13.0.19.0"
+      "version": "13.1.15.0"
     },
     "freetype2": {
       "version": "2_14_3"
@@ -233,8 +233,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "e5486b96d7d06dd148337899bfdc46bf25101663",
-      "revision": "e5486b96d7d06dd148337899bfdc46bf25101663"
+      "version": "94335ab87ab225ca3e36e0faeac831639d3e1d4e",
+      "revision": "94335ab87ab225ca3e36e0faeac831639d3e1d4e"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -262,7 +262,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "3.0.1"
+      "version": "3.0.3"
     },
     "rav1e": {
       "version": "0.7.1"
@@ -280,7 +280,7 @@
       "version": "1.4.0"
     },
     "svtav1": {
-      "version": "4.1.0"
+      "version": "4.2.0"
     },
     "uavs3d": {
       "version": "1.1"
