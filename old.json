@@ -85,7 +85,7 @@
       "version": "0.24"
     },
     "lame": {
-      "version": "3.101.r6531",
+      "version": "4.0",
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
     },
     "lcms2": {
