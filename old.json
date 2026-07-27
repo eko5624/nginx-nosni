@@ -34,7 +34,7 @@
       "version": "3.7.5"
     },
     "binutils": {
-      "version": "2.46.1"
+      "version": "2.47"
     },
     "brotli": {
       "version": "1.2.0"
@@ -78,6 +78,9 @@
     "highway": {
       "version": "1.4.0"
     },
+    "isl": {
+      "version": "0.24"
+    },
     "lame": {
       "version": "4.0",
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
@@ -111,7 +114,7 @@
       "version": "3.4.0"
     },
     "libdvdcss": {
-      "version": "1.5.0",
+      "version": "1.6.0",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
     },
     "libdvdnav": {
@@ -227,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "8c67647b50059406c5c0444903597281b81516cf",
-      "revision": "8c67647b50059406c5c0444903597281b81516cf"
+      "version": "48e6c35c0e056d9e4ff04b98e012416697736d8a",
+      "revision": "48e6c35c0e056d9e4ff04b98e012416697736d8a"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
