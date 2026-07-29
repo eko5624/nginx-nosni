@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.0"
+      "version": "4.4.1"
     },
     "curl": {
       "version": "8_21_0"
@@ -90,7 +90,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.8.8"
+      "version": "3.8.9"
     },
     "libaribb24": {
       "version": "1.0.3"
@@ -172,7 +172,7 @@
       "version": "1.5.6"
     },
     "libssh": {
-      "version": "0.12.1"
+      "version": "0.12.2"
     },
     "libudfread": {
       "version": "1.2.0"
@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "48e6c35c0e056d9e4ff04b98e012416697736d8a",
-      "revision": "48e6c35c0e056d9e4ff04b98e012416697736d8a"
+      "version": "24c1cc52a36aa779010193a01d6ed13f902981f7",
+      "revision": "24c1cc52a36aa779010193a01d6ed13f902981f7"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -271,7 +271,7 @@
       "version": "2026.3"
     },
     "spirv-cross": {
-      "version": "1.4.350.1"
+      "version": "1.4.357.0"
     },
     "subrandr": {
       "version": "1.4.0"
@@ -289,7 +289,7 @@
       "version": "2"
     },
     "vvdec": {
-      "version": "3.1.0"
+      "version": "3.2.0"
     },
     "whisper": {
       "version": "1.9.1"
