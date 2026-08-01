@@ -43,7 +43,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.1"
+      "version": "4.4.2"
     },
     "curl": {
       "version": "8_21_0"
@@ -73,7 +73,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "14.2.1"
+      "version": "14.3.0"
     },
     "highway": {
       "version": "1.4.0"
@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "74356c0fc669d21af9daac5a11f296123efd0684",
-      "revision": "74356c0fc669d21af9daac5a11f296123efd0684"
+      "version": "1d15686142fd5d53c954aab7526cedab05ef9dc3",
+      "revision": "1d15686142fd5d53c954aab7526cedab05ef9dc3"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
