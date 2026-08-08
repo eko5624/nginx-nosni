@@ -2,7 +2,7 @@
   "version": 2,
   "data": {
     "GCC": {
-      "version": "16.1.0"
+      "version": "16.2.0"
     },
     "LLVM": {
       "version": "22.1.8"
@@ -17,9 +17,9 @@
       "version": "3.12.13"
     },
     "VapourSynth": {
-      "version": "R78",
-      "gitref": "refs/tags/R78",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R78"
+      "version": "R79",
+      "gitref": "refs/tags/R79",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R79"
     },
     "amf": {
       "version": "1.5.2"
@@ -230,8 +230,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "21277b0ccf15c43bda0cb24b1ec24859a23391df",
-      "revision": "21277b0ccf15c43bda0cb24b1ec24859a23391df"
+      "version": "dd5d17d3285a095a0f712fa9d116e22a076492de",
+      "revision": "dd5d17d3285a095a0f712fa9d116e22a076492de"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -286,7 +286,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.358"
+      "version": "1.4.359"
     },
     "vvdec": {
       "version": "3.2.0"
