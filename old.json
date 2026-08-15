@@ -57,9 +57,6 @@
     "expat": {
       "version": "2_8_3"
     },
-    "ffmpeg": {
-      "version": "9.0.1"
-    },
     "ffnvcodec": {
       "version": "13.1.15.0"
     },
@@ -112,6 +109,10 @@
     },
     "libdovi": {
       "version": "3.4.0"
+    },
+    "libdvdcss": {
+      "version": "1.6.0",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
     },
     "libdvdnav": {
       "version": "7.0.0",
@@ -226,8 +227,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "7b8915bc1d04c7e1b61184e00c7fbfaab1911e75",
-      "revision": "7b8915bc1d04c7e1b61184e00c7fbfaab1911e75"
+      "version": "e167836802da6d5a4301bd4c4eeb3c5c3c17ccb8",
+      "revision": "e167836802da6d5a4301bd4c4eeb3c5c3c17ccb8"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -282,7 +283,7 @@
       "version": "1.4.309.0"
     },
     "vulkan-loader": {
-      "version": "1.4.359"
+      "version": "9"
     },
     "vvdec": {
       "version": "3.2.0"
