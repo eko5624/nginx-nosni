@@ -19,7 +19,8 @@
     "VapourSynth": {
       "version": "R79",
       "gitref": "refs/tags/R79",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R79"
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R79",
+      "creation_time": "2026-08-07T08:48:48Z"
     },
     "amf": {
       "version": "1.5.2"
@@ -56,6 +57,9 @@
     },
     "expat": {
       "version": "2_8_3"
+    },
+    "ffmpeg": {
+      "version": "9.0.1"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
