@@ -8,7 +8,7 @@
       "version": "22.1.8"
     },
     "Mingw-w64": {
-      "version": "20260806_16.1.1_x64-ucrt_66d194368b04799ff78ee5ef3116b728e3c00488"
+      "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -293,7 +293,7 @@
       "version": "3.2.0"
     },
     "whisper": {
-      "version": "1.9.2"
+      "version": "1.9.3"
     },
     "xxhash": {
       "version": "0.8.3"
