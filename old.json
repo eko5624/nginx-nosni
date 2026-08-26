@@ -5,7 +5,7 @@
       "version": "16.2.0"
     },
     "LLVM": {
-      "version": "22.1.8"
+      "version": "23.1.0"
     },
     "Mingw-w64": {
       "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
@@ -29,7 +29,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.14.1"
+      "version": "3.15.0"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -44,7 +44,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.2"
+      "version": "4.4.3"
     },
     "curl": {
       "version": "8_21_0"
@@ -86,10 +86,6 @@
       "version": "4.0",
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
     },
-    "lcms2": {
-      "version": "2.19.1",
-      "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
-    },
     "libarchive": {
       "version": "3.8.9"
     },
@@ -101,6 +97,9 @@
     },
     "libass": {
       "version": "0.17.5"
+    },
+    "libbluray": {
+      "version": "1.5.0"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -172,6 +171,9 @@
     "libssh": {
       "version": "0.12.2"
     },
+    "libudfread": {
+      "version": "1.2.0"
+    },
     "libunibreak": {
       "version": "7_0"
     },
@@ -186,7 +188,7 @@
       "version": "2023.4.0"
     },
     "libvpx": {
-      "version": "1.16.0"
+      "version": "1.17.0"
     },
     "libwebp": {
       "version": "1.6.0"
@@ -225,8 +227,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "654e9382c0bbccb09ccac348f792e9d378e9c7a9",
-      "revision": "654e9382c0bbccb09ccac348f792e9d378e9c7a9"
+      "version": "c318236b8882af860f16f936225430ad053a2179",
+      "revision": "c318236b8882af860f16f936225430ad053a2179"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -245,10 +247,6 @@
     },
     "openal-soft": {
       "version": "1.25.2"
-    },
-    "openssl": {
-      "version": "3.6.3",
-      "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
       "version": "1.6.1"
