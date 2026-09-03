@@ -7,9 +7,6 @@
     "LLVM": {
       "version": "23.1.0"
     },
-    "Mingw-w64": {
-      "version": "20260820_16.2.1_x64-ucrt_c0ac056d538c704a0306be82230d787e3a0960c2"
-    },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
@@ -47,7 +44,7 @@
       "version": "4.4.3"
     },
     "curl": {
-      "version": "8_21_0"
+      "version": "8_22_0"
     },
     "dav1d": {
       "version": "1.5.4"
@@ -114,10 +111,6 @@
     "libdovi": {
       "version": "3.4.0"
     },
-    "libdvdcss": {
-      "version": "1.6.0",
-      "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
-    },
     "libdvdnav": {
       "version": "7.0.0",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
@@ -158,7 +151,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.4.14"
+      "version": "3.4.16"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -231,8 +224,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "174b638f297626dc247d6436bd9ad0340be03a7c",
-      "revision": "174b638f297626dc247d6436bd9ad0340be03a7c"
+      "version": "69e63f425a531f814431fba12750bdb3721357f2",
+      "revision": "69e63f425a531f814431fba12750bdb3721357f2"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -244,7 +237,7 @@
       "version": "3.02"
     },
     "nginx": {
-      "version": "1.31.4"
+      "version": "1.31.5"
     },
     "ninja": {
       "version": "1.13.2"
