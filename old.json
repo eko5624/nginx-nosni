@@ -79,10 +79,6 @@
     "isl": {
       "version": "0.24"
     },
-    "lame": {
-      "version": "4.0",
-      "url": "https://archlinux.org/packages/extra/x86_64/lame/"
-    },
     "lcms2": {
       "version": "2.19.1",
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
@@ -118,10 +114,6 @@
     "libdvdnav": {
       "version": "7.0.0",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
-    },
-    "libdvdread": {
-      "version": "7.1.1",
-      "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
     },
     "libiconv": {
       "version": "1.19"
@@ -228,8 +220,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "876ba7b283400a2638826c8940c1bdb792d0ef0c",
-      "revision": "876ba7b283400a2638826c8940c1bdb792d0ef0c"
+      "version": "0f1019805eb2538ffae5751bb8e2a95afef12b0e",
+      "revision": "0f1019805eb2538ffae5751bb8e2a95afef12b0e"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
