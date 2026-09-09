@@ -5,7 +5,7 @@
       "version": "16.2.0"
     },
     "LLVM": {
-      "version": "23.1.0"
+      "version": "23.1.1"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -99,9 +99,6 @@
     "libass": {
       "version": "0.17.5"
     },
-    "libbluray": {
-      "version": "1.5.1"
-    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -172,9 +169,6 @@
     "libssh": {
       "version": "0.12.2"
     },
-    "libudfread": {
-      "version": "1.2.0"
-    },
     "libunibreak": {
       "version": "7_0"
     },
@@ -228,8 +222,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "87b8d352d2b637960495ed41f942ec45ce36dd0d",
-      "revision": "87b8d352d2b637960495ed41f942ec45ce36dd0d"
+      "version": "7e4cb538a3f30d25920ad8e87ba6571540fb729f",
+      "revision": "7e4cb538a3f30d25920ad8e87ba6571540fb729f"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
