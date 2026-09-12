@@ -228,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "7e4cb538a3f30d25920ad8e87ba6571540fb729f",
-      "revision": "7e4cb538a3f30d25920ad8e87ba6571540fb729f"
+      "version": "14f2d48cbc7dda61adb4bd181e107a1f3f76e533",
+      "revision": "14f2d48cbc7dda61adb4bd181e107a1f3f76e533"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -266,7 +266,7 @@
       "version": "4.0.0"
     },
     "shaderc": {
-      "version": "2026.3"
+      "version": "2026.4"
     },
     "spirv-cross": {
       "version": "1.4.357.0"
@@ -290,7 +290,7 @@
       "version": "3.2.0"
     },
     "whisper": {
-      "version": "1.9.3"
+      "version": "1.9.4"
     },
     "xxhash": {
       "version": "0.8.3"
