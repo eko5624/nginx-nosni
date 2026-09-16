@@ -176,7 +176,7 @@
       "version": "1.2.0"
     },
     "libunibreak": {
-      "version": "7_0"
+      "version": "8_0"
     },
     "libva": {
       "version": "2.24.1"
@@ -241,7 +241,7 @@
       "version": "3.02"
     },
     "nginx": {
-      "version": "1.31.5"
+      "version": "1.31.6"
     },
     "ninja": {
       "version": "1.13.2"
