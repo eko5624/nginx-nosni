@@ -65,13 +65,13 @@
       "version": "2_14_3"
     },
     "fribidi": {
-      "version": "1.0.16"
+      "version": "1.0.17"
     },
     "gmp": {
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "14.4.0"
+      "version": "14.5.0"
     },
     "highway": {
       "version": "1.4.0"
