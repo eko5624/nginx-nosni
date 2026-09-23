@@ -5,7 +5,7 @@
       "version": "16.2.0"
     },
     "LLVM": {
-      "version": "23.1.1"
+      "version": "23.1.2"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -53,7 +53,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_8_4"
+      "version": "2_8_5"
     },
     "ffmpeg": {
       "version": "9.0.2"
@@ -228,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "c6c4c38d7f4aa82ad2a29a4c3b142f19123f5b9e",
-      "revision": "c6c4c38d7f4aa82ad2a29a4c3b142f19123f5b9e"
+      "version": "6fd80b2003873ef2bed09e78374549687a143236",
+      "revision": "6fd80b2003873ef2bed09e78374549687a143236"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
