@@ -25,9 +25,6 @@
     "angle": {
       "version": "1.0.772"
     },
-    "aom": {
-      "version": "3.15.1"
-    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -188,12 +185,6 @@
     "libvpl": {
       "version": "2023.4.0"
     },
-    "libvpx": {
-      "version": "1.17.0"
-    },
-    "libwebp": {
-      "version": "1.6.0"
-    },
     "libxml2": {
       "version": "2.15.4"
     },
@@ -228,8 +219,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "2a4eb8067ca68ec19adf23daf8ccbb1a05afd6ed",
-      "revision": "2a4eb8067ca68ec19adf23daf8ccbb1a05afd6ed"
+      "version": "35af06172be5199212e0406878bd0fde532d080d",
+      "revision": "35af06172be5199212e0406878bd0fde532d080d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
