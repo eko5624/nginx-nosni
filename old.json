@@ -22,8 +22,8 @@
     "amf": {
       "version": "1.5.2"
     },
-    "angle": {
-      "version": "1.0.772"
+    "aom": {
+      "version": "3.15.1"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -219,8 +219,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "35af06172be5199212e0406878bd0fde532d080d",
-      "revision": "35af06172be5199212e0406878bd0fde532d080d"
+      "version": "a1bf4b6559d6e644b967c22d87232dc77c7dd442",
+      "revision": "a1bf4b6559d6e644b967c22d87232dc77c7dd442"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
