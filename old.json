@@ -22,9 +22,6 @@
     "amf": {
       "version": "1.5.2"
     },
-    "angle": {
-      "version": "1.0.772"
-    },
     "avisynth": {
       "version": "3.7.5"
     },
@@ -146,7 +143,7 @@
       "version": "7.360.1"
     },
     "libpng": {
-      "version": "1.6.58"
+      "version": "1.6.59"
     },
     "libsamplerate": {
       "version": "0.2.2"
@@ -185,9 +182,6 @@
     "libvpl": {
       "version": "2023.4.0"
     },
-    "libvpx": {
-      "version": "1.17.0"
-    },
     "libxml2": {
       "version": "2.15.4"
     },
@@ -222,8 +216,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "e470f8986e7d544c7ccf526e987b9f869f0b5904",
-      "revision": "e470f8986e7d544c7ccf526e987b9f869f0b5904"
+      "version": "178242c75ee2ff56f4d03a9ac91c3c14a300d8a0",
+      "revision": "178242c75ee2ff56f4d03a9ac91c3c14a300d8a0"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -263,7 +257,7 @@
       "version": "2026.4"
     },
     "spirv-cross": {
-      "version": "1.4.357.0"
+      "version": "1.4.363.0"
     },
     "subrandr": {
       "version": "1.4.0"
