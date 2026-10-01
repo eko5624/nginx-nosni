@@ -1,6 +1,9 @@
 {
   "version": 2,
   "data": {
+    "GCC": {
+      "version": "16.2.0"
+    },
     "LLVM": {
       "version": "23.1.2"
     },
@@ -8,7 +11,7 @@
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
     "Python": {
-      "version": "3.12.14"
+      "version": "3.12.15"
     },
     "VapourSynth": {
       "version": "R80",
@@ -27,6 +30,9 @@
     },
     "avisynth": {
       "version": "3.7.5"
+    },
+    "binutils": {
+      "version": "2.47"
     },
     "brotli": {
       "version": "1.2.0"
@@ -61,8 +67,11 @@
     "fribidi": {
       "version": "1.0.17"
     },
+    "gmp": {
+      "version": "6.3.0"
+    },
     "harfbuzz": {
-      "version": "14.5.0"
+      "version": "14.5.1"
     },
     "highway": {
       "version": "1.4.0"
@@ -113,6 +122,9 @@
     "libdvdread": {
       "version": "7.1.1",
       "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
+    },
+    "libiconv": {
+      "version": "1.19"
     },
     "libjpeg": {
       "version": "3.2.0"
@@ -200,8 +212,17 @@
     "lzo": {
       "version": "2.10"
     },
+    "make": {
+      "version": "4.4.1"
+    },
     "mbedtls": {
       "version": "4.2.0"
+    },
+    "mpc": {
+      "version": "1.3.1"
+    },
+    "mpfr": {
+      "version": "4.2.2"
     },
     "mpv": {
       "version": "0.41.0"
@@ -229,7 +250,7 @@
       "version": "1.25.2"
     },
     "openssl": {
-      "version": "3.6.4",
+      "version": "3.6.5",
       "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
