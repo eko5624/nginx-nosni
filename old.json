@@ -41,7 +41,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.3"
+      "version": "4.4.4"
     },
     "curl": {
       "version": "8_22_0"
@@ -155,7 +155,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.4.16"
+      "version": "3.4.18"
     },
     "libsixel": {
       "version": "1.10.5"
