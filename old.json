@@ -14,13 +14,19 @@
       "version": "3.12.15"
     },
     "VapourSynth": {
-      "version": "R80",
-      "gitref": "refs/tags/R80",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R80",
-      "creation_time": "2026-09-16T07:48:51Z"
+      "version": "R81",
+      "gitref": "refs/tags/R81",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R81",
+      "creation_time": "2026-10-04T20:56:23Z"
     },
     "amf": {
       "version": "1.5.3"
+    },
+    "angle": {
+      "version": "1.0.772"
+    },
+    "aom": {
+      "version": "3.15.1"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -182,6 +188,12 @@
     "libvpl": {
       "version": "2023.4.0"
     },
+    "libvpx": {
+      "version": "1.17.0"
+    },
+    "libwebp": {
+      "version": "1.6.0"
+    },
     "libxml2": {
       "version": "2.15.4"
     },
@@ -216,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "413ff0b1cd4585294803308a1a14be2fad30cede",
-      "revision": "413ff0b1cd4585294803308a1a14be2fad30cede"
+      "version": "c1529642089bfebfc928a1c1664638a7a5d219ba",
+      "revision": "c1529642089bfebfc928a1c1664638a7a5d219ba"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
