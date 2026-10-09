@@ -99,6 +99,9 @@
     "libass": {
       "version": "0.17.5"
     },
+    "libbluray": {
+      "version": "1.5.1"
+    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -222,8 +225,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "36bf3d529059a947d6700adefeab3b421e537c19",
-      "revision": "36bf3d529059a947d6700adefeab3b421e537c19"
+      "version": "36abaa32d00a7229ee206aae12dc0e97e7962dca",
+      "revision": "36abaa32d00a7229ee206aae12dc0e97e7962dca"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -251,7 +254,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "3.0.7"
+      "version": "3.0.8"
     },
     "rav1e": {
       "version": "0.7.1"
