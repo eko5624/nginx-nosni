@@ -26,7 +26,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.15.1"
+      "version": "3.15.2"
     },
     "avisynth": {
       "version": "3.7.5"
@@ -172,6 +172,9 @@
     "libssh": {
       "version": "0.12.2"
     },
+    "libudfread": {
+      "version": "1.2.0"
+    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -225,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "36abaa32d00a7229ee206aae12dc0e97e7962dca",
-      "revision": "36abaa32d00a7229ee206aae12dc0e97e7962dca"
+      "version": "b2c255c13e8e37952dbac6c34da56a690560378b",
+      "revision": "b2c255c13e8e37952dbac6c34da56a690560378b"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
