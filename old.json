@@ -62,7 +62,7 @@
       "version": "13.1.15.0"
     },
     "freetype2": {
-      "version": "2_14_3"
+      "version": "2_15_0"
     },
     "fribidi": {
       "version": "1.0.17"
@@ -228,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "88eb9f2e73945d8bc9c133a2f67babaa9af34680",
-      "revision": "88eb9f2e73945d8bc9c133a2f67babaa9af34680"
+      "version": "9d144e57b60ef4ca543d5b8dd1550d96aa520c59",
+      "revision": "9d144e57b60ef4ca543d5b8dd1550d96aa520c59"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
