@@ -207,7 +207,7 @@
       "version": "0.2.45"
     },
     "luajit2": {
-      "version": "2.1_20260914"
+      "version": "2.1_20261015"
     },
     "lzo": {
       "version": "2.10"
@@ -228,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "492bae0768f5e826991bf9fb222fa303371e8498",
-      "revision": "492bae0768f5e826991bf9fb222fa303371e8498"
+      "version": "a2cd83c56de859ced3fc8e6055e5878e50f45286",
+      "revision": "a2cd83c56de859ced3fc8e6055e5878e50f45286"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -257,7 +257,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "3.0.8"
+      "version": "3.0.9"
     },
     "rav1e": {
       "version": "0.7.1"
