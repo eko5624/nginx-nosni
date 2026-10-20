@@ -99,9 +99,6 @@
     "libass": {
       "version": "0.17.5"
     },
-    "libbluray": {
-      "version": "1.5.1"
-    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -171,9 +168,6 @@
     },
     "libssh": {
       "version": "0.12.2"
-    },
-    "libudfread": {
-      "version": "1.2.0"
     },
     "libunibreak": {
       "version": "8_0"
@@ -257,7 +251,7 @@
       "version": "1.6.1"
     },
     "pkgconf": {
-      "version": "3.0.9"
+      "version": "3.0.10"
     },
     "rav1e": {
       "version": "0.7.1"
