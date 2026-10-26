@@ -11,7 +11,7 @@
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
     "Python": {
-      "version": "3.12.15"
+      "version": "3.12.16"
     },
     "VapourSynth": {
       "version": "R81",
@@ -29,7 +29,7 @@
       "version": "3.15.3_rc1"
     },
     "avisynth": {
-      "version": "3.7.5"
+      "version": "3.7.6"
     },
     "binutils": {
       "version": "2.47"
@@ -146,7 +146,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
-      "version": "7.360.1"
+      "version": "7.387.0"
     },
     "libpng": {
       "version": "1.6.59"
