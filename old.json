@@ -41,7 +41,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.4"
+      "version": "4.4.5"
     },
     "curl": {
       "version": "8_23_0"
@@ -99,6 +99,9 @@
     "libass": {
       "version": "0.17.5"
     },
+    "libbluray": {
+      "version": "1.5.1"
+    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -124,7 +127,7 @@
       "version": "1.19"
     },
     "libjpeg": {
-      "version": "3.2.0"
+      "version": "3.2.1"
     },
     "libjxl": {
       "version": "0.12.0"
@@ -168,6 +171,9 @@
     },
     "libssh": {
       "version": "0.12.2"
+    },
+    "libudfread": {
+      "version": "1.2.0"
     },
     "libunibreak": {
       "version": "8_0"
@@ -222,8 +228,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "77e8f9cfa1c185e452d1f36c00b8ec569e0f0ea8",
-      "revision": "77e8f9cfa1c185e452d1f36c00b8ec569e0f0ea8"
+      "version": "ad5877edabdb05c0c62aad444722938d37666e2d",
+      "revision": "ad5877edabdb05c0c62aad444722938d37666e2d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
