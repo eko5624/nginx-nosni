@@ -7,6 +7,9 @@
     "LLVM": {
       "version": "23.1.4"
     },
+    "Mingw-w64": {
+      "version": "20261021_16.2.1_x64-ucrt_9d305bff446047a1b1a7bab2924afee83233e77f"
+    },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
     },
@@ -228,8 +231,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "ad5877edabdb05c0c62aad444722938d37666e2d",
-      "revision": "ad5877edabdb05c0c62aad444722938d37666e2d"
+      "version": "dc4b285c93043d99492c3664a24f4ae08cdfdf0d",
+      "revision": "dc4b285c93043d99492c3664a24f4ae08cdfdf0d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
