@@ -68,7 +68,7 @@
       "version": "2_15_0"
     },
     "fribidi": {
-      "version": "1.0.17"
+      "version": "1.0.18"
     },
     "gmp": {
       "version": "6.3.0"
@@ -101,9 +101,6 @@
     },
     "libass": {
       "version": "0.17.5"
-    },
-    "libbluray": {
-      "version": "1.5.1"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -175,9 +172,6 @@
     "libssh": {
       "version": "0.12.2"
     },
-    "libudfread": {
-      "version": "1.2.0"
-    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -231,8 +225,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "dc4b285c93043d99492c3664a24f4ae08cdfdf0d",
-      "revision": "dc4b285c93043d99492c3664a24f4ae08cdfdf0d"
+      "version": "6ee40e64d325d387faa2e57d7ab04d1a1f995cf0",
+      "revision": "6ee40e64d325d387faa2e57d7ab04d1a1f995cf0"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
