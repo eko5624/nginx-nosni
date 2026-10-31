@@ -29,7 +29,7 @@
       "version": "1.0.772"
     },
     "aom": {
-      "version": "3.15.3_rc1"
+      "version": "3.15.3"
     },
     "avisynth": {
       "version": "3.7.6"
@@ -91,7 +91,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
-      "version": "3.8.10"
+      "version": "3.8.11"
     },
     "libaribb24": {
       "version": "1.0.3"
@@ -101,6 +101,9 @@
     },
     "libass": {
       "version": "0.17.5"
+    },
+    "libbluray": {
+      "version": "1.5.1"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -172,6 +175,9 @@
     "libssh": {
       "version": "0.12.2"
     },
+    "libudfread": {
+      "version": "1.2.0"
+    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -225,8 +231,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "6ee40e64d325d387faa2e57d7ab04d1a1f995cf0",
-      "revision": "6ee40e64d325d387faa2e57d7ab04d1a1f995cf0"
+      "version": "9e2ed65eb0c02f99a352dfa1ad3c85ecceefe005",
+      "revision": "9e2ed65eb0c02f99a352dfa1ad3c85ecceefe005"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
