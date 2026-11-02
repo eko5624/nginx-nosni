@@ -17,10 +17,10 @@
       "version": "3.12.16"
     },
     "VapourSynth": {
-      "version": "R81",
-      "gitref": "refs/tags/R81",
-      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R81",
-      "creation_time": "2026-10-04T20:56:23Z"
+      "version": "R82",
+      "gitref": "refs/tags/R82",
+      "url": "https://github.com/vapoursynth/vapoursynth/releases/tag/R82",
+      "creation_time": "2026-11-01T19:43:23Z"
     },
     "amf": {
       "version": "1.5.3"
@@ -87,7 +87,7 @@
       "url": "https://archlinux.org/packages/extra/x86_64/lame/"
     },
     "lcms2": {
-      "version": "2.19.1",
+      "version": "2.20",
       "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
     },
     "libarchive": {
@@ -101,9 +101,6 @@
     },
     "libass": {
       "version": "0.17.5"
-    },
-    "libbluray": {
-      "version": "1.5.1"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -175,9 +172,6 @@
     "libssh": {
       "version": "0.12.2"
     },
-    "libudfread": {
-      "version": "1.2.0"
-    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -231,8 +225,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "48fca90e8ce5011d0a4c689178ad739329ea253d",
-      "revision": "48fca90e8ce5011d0a4c689178ad739329ea253d"
+      "version": "2137d21b2e78770d2ecae9535d571a50ccee4cd2",
+      "revision": "2137d21b2e78770d2ecae9535d571a50ccee4cd2"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
