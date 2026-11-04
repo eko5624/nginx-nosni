@@ -5,7 +5,7 @@
       "version": "16.2.0"
     },
     "LLVM": {
-      "version": "23.1.4"
+      "version": "23.1.5"
     },
     "Mingw-w64": {
       "version": "20261021_16.2.1_x64-ucrt_9d305bff446047a1b1a7bab2924afee83233e77f"
@@ -155,7 +155,7 @@
       "version": "0.2.2"
     },
     "libsdl2": {
-      "version": "3.4.18"
+      "version": "3.4.20"
     },
     "libsixel": {
       "version": "1.10.5"
@@ -184,9 +184,6 @@
     },
     "libvpl": {
       "version": "2023.4.0"
-    },
-    "libvpx": {
-      "version": "1.17.0"
     },
     "libwebp": {
       "version": "1.6.0"
@@ -225,8 +222,8 @@
       "version": "0.41.0"
     },
     "mpv-git": {
-      "version": "a687796d9d0efded1787d497167facd462b8f2ee",
-      "revision": "a687796d9d0efded1787d497167facd462b8f2ee"
+      "version": "46787be2502556586b6a5fea9ebd595f5cd9b713",
+      "revision": "46787be2502556586b6a5fea9ebd595f5cd9b713"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
