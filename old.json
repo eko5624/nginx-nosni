@@ -44,7 +44,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.4.5"
+      "version": "4.5.0"
     },
     "curl": {
       "version": "8_23_0"
@@ -231,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "bcde6b93cca4d128d84e1a60d1a6db2cd81c889e",
-      "revision": "bcde6b93cca4d128d84e1a60d1a6db2cd81c889e"
+      "version": "fe753a78246151a2489b472dabcb04f2edd61d50",
+      "revision": "fe753a78246151a2489b472dabcb04f2edd61d50"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
