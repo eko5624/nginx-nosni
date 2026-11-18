@@ -5,7 +5,7 @@
       "version": "16.2.0"
     },
     "LLVM": {
-      "version": "23.1.5"
+      "version": "23.1.6"
     },
     "Mingw-w64": {
       "version": "20261109_16.2.1_x64-ucrt_3d66d1aa09e7a00e4b45b40863808377c2cacadc"
@@ -50,7 +50,7 @@
       "version": "8_23_0"
     },
     "dav1d": {
-      "version": "1.5.4"
+      "version": "1.5.5"
     },
     "davs2": {
       "version": "1.7"
@@ -231,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "543a8c2c59b9ea2f80e4992225b80a2b14b91346",
-      "revision": "543a8c2c59b9ea2f80e4992225b80a2b14b91346"
+      "version": "f92afa75cdb06e077a9ecd9a9ec2eb36b16327c2",
+      "revision": "f92afa75cdb06e077a9ecd9a9ec2eb36b16327c2"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
