@@ -102,9 +102,6 @@
     "libass": {
       "version": "0.17.5"
     },
-    "libbluray": {
-      "version": "1.5.1"
-    },
     "libbs2b": {
       "version": "3.1.0"
     },
@@ -175,9 +172,6 @@
     "libssh": {
       "version": "0.12.2"
     },
-    "libudfread": {
-      "version": "1.2.0"
-    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -231,8 +225,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "f92afa75cdb06e077a9ecd9a9ec2eb36b16327c2",
-      "revision": "f92afa75cdb06e077a9ecd9a9ec2eb36b16327c2"
+      "version": "9c3a0f903d051b48ba24fd5b75648d9ec5238233",
+      "revision": "9c3a0f903d051b48ba24fd5b75648d9ec5238233"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -244,7 +238,7 @@
       "version": "3.02"
     },
     "nginx": {
-      "version": "1.31.8"
+      "version": "1.31.9"
     },
     "ninja": {
       "version": "1.13.2"
