@@ -44,7 +44,7 @@
       "version": "1.0.8"
     },
     "cmake": {
-      "version": "4.5.0"
+      "version": "4.5.1"
     },
     "curl": {
       "version": "8_23_0"
@@ -74,7 +74,7 @@
       "version": "6.3.0"
     },
     "harfbuzz": {
-      "version": "15.1.0"
+      "version": "15.2.0"
     },
     "highway": {
       "version": "1.4.0"
@@ -101,6 +101,9 @@
     },
     "libass": {
       "version": "0.17.5"
+    },
+    "libbluray": {
+      "version": "1.5.1"
     },
     "libbs2b": {
       "version": "3.1.0"
@@ -172,6 +175,9 @@
     "libssh": {
       "version": "0.12.2"
     },
+    "libudfread": {
+      "version": "1.2.0"
+    },
     "libunibreak": {
       "version": "8_0"
     },
@@ -204,7 +210,7 @@
       "version": "0.2.46"
     },
     "luajit2": {
-      "version": "2.1_20261107"
+      "version": "2.1_20261117"
     },
     "lzo": {
       "version": "2.10"
@@ -225,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "9c3a0f903d051b48ba24fd5b75648d9ec5238233",
-      "revision": "9c3a0f903d051b48ba24fd5b75648d9ec5238233"
+      "version": "b7339522cd979ec3dd75b82e920577bc533fddea",
+      "revision": "b7339522cd979ec3dd75b82e920577bc533fddea"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
