@@ -8,7 +8,7 @@
       "version": "23.1.6"
     },
     "Mingw-w64": {
-      "version": "20261109_16.2.1_x64-ucrt_3d66d1aa09e7a00e4b45b40863808377c2cacadc"
+      "version": "20261120_17.0.0_x64-ucrt_785e1c5ed8eaa120bf5a7423e0a3ff6bfccb454c"
     },
     "Mingw-w64-custom": {
       "version": "20240821_14.2.1_x64-ucrt_09b612f2101afc42acbb996f524895e0e95b35dd"
@@ -59,7 +59,7 @@
       "version": "2_10_0"
     },
     "ffmpeg": {
-      "version": "9.0.2"
+      "version": "9.1"
     },
     "ffnvcodec": {
       "version": "13.1.15.0"
@@ -231,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "b7339522cd979ec3dd75b82e920577bc533fddea",
-      "revision": "b7339522cd979ec3dd75b82e920577bc533fddea"
+      "version": "d11ffba253def00b5172c4b8b47e6b2eb765cae1",
+      "revision": "d11ffba253def00b5172c4b8b47e6b2eb765cae1"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -290,7 +290,7 @@
       "version": "5"
     },
     "vvdec": {
-      "version": "3.2.1"
+      "version": "3.3.0"
     },
     "whisper": {
       "version": "1.9.5"
