@@ -82,6 +82,14 @@
     "isl": {
       "version": "0.24"
     },
+    "lame": {
+      "version": "4.0",
+      "url": "https://archlinux.org/packages/extra/x86_64/lame/"
+    },
+    "lcms2": {
+      "version": "2.20",
+      "url": "https://archlinux.org/packages/extra/x86_64/lcms2/"
+    },
     "libarchive": {
       "version": "3.8.11"
     },
@@ -106,6 +114,18 @@
     "libdovi": {
       "version": "3.4.0"
     },
+    "libdvdcss": {
+      "version": "1.6.0",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdcss/"
+    },
+    "libdvdnav": {
+      "version": "7.0.0",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdnav/"
+    },
+    "libdvdread": {
+      "version": "7.1.1",
+      "url": "https://archlinux.org/packages/extra/x86_64/libdvdread/"
+    },
     "libiconv": {
       "version": "1.19.1"
     },
@@ -123,6 +143,10 @@
     },
     "libogg": {
       "version": "1.3.6"
+    },
+    "libopenmpt": {
+      "version": "0.8.10",
+      "url": "https://archlinux.org/packages/extra/x86_64/libopenmpt/"
     },
     "libplacebo": {
       "version": "7.387.0"
@@ -159,6 +183,10 @@
     },
     "libva": {
       "version": "2.24.1"
+    },
+    "libvorbis": {
+      "version": "1.3.7",
+      "url": "https://archlinux.org/packages/extra/x86_64/libvorbis/"
     },
     "libvpl": {
       "version": "2023.4.0"
@@ -203,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "7f505de186ddcaeff6dabf48db79c9b8f8adc309",
-      "revision": "7f505de186ddcaeff6dabf48db79c9b8f8adc309"
+      "version": "1eb941fdb974fe25dc0ac68a33652c145ff41f9d",
+      "revision": "1eb941fdb974fe25dc0ac68a33652c145ff41f9d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -223,6 +251,10 @@
     },
     "openal-soft": {
       "version": "1.25.2"
+    },
+    "openssl": {
+      "version": "4.1.0",
+      "url": "https://archlinux.org/packages/core/x86_64/openssl/"
     },
     "opus": {
       "version": "1.6.1"
