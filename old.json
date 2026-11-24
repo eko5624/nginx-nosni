@@ -56,7 +56,7 @@
       "version": "1.7"
     },
     "expat": {
-      "version": "2_10_0"
+      "version": "2_11_0"
     },
     "ffmpeg": {
       "version": "9.1"
@@ -231,8 +231,8 @@
       "version": "0.42.0"
     },
     "mpv-git": {
-      "version": "1eb941fdb974fe25dc0ac68a33652c145ff41f9d",
-      "revision": "1eb941fdb974fe25dc0ac68a33652c145ff41f9d"
+      "version": "35efcf53d59470b3941e61a50c8a3133035a093d",
+      "revision": "35efcf53d59470b3941e61a50c8a3133035a093d"
     },
     "mpv-menu-plugin": {
       "version": "2.4.1"
@@ -244,7 +244,7 @@
       "version": "3.02"
     },
     "nginx": {
-      "version": "1.31.9"
+      "version": "1.31.10"
     },
     "ninja": {
       "version": "1.13.2"
@@ -293,7 +293,7 @@
       "version": "3.3.0"
     },
     "whisper": {
-      "version": "1.9.5"
+      "version": "1.9.6"
     },
     "xxhash": {
       "version": "0.8.4"
@@ -305,13 +305,13 @@
       "version": "1.3.0"
     },
     "yt-dlp": {
-      "version": "2026.10.26"
+      "version": "2026.11.23"
     },
     "zlib": {
       "version": "2.3.3"
     },
     "zstd": {
-      "version": "1.5.7"
+      "version": "1.6.0"
     }
   }
 }
